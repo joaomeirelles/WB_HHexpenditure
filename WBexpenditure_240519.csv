@@ -1,0 +1,2367 @@
+,,country_code,country,sector,urbanity,all,lowest,low,middle,higher
+country,0,AFG,Afghanistan,Alsectors,rural,1148.27,847.56,1625.97,3970.46,
+country,1,AFG,Afghanistan,Foodandbeverages,rural,737.74,571.16,1005.54,1870.94,
+country,2,AFG,Afghanistan,Clothingandfootwear,rural,51.72,43.24,65.22,126.92,
+country,3,AFG,Afghanistan,Housing,rural,56.99,41.01,82.74,159.13,
+country,4,AFG,Afghanistan,Energy,rural,70.08,49.84,102.41,237.52,
+country,5,AFG,Afghanistan,Transport,rural,59.79,31.81,102.58,545.63,
+country,6,AFG,Afghanistan,Water,rural,0.62,0.33,1.11,0.11,
+country,7,AFG,Afghanistan,Educationsector,rural,0.56,0.39,0.84,2.15,
+country,8,AFG,Afghanistan,Health,rural,45.27,34.0,63.51,103.94,
+country,9,AFG,Afghanistan,ICT,rural,11.28,6.88,18.03,83.34,
+country,10,AFG,Afghanistan,Financialservices,rural,0.0,0.0,0.0,0.0,
+country,11,AFG,Afghanistan,Othergoodsandservices,rural,100.38,58.83,164.18,789.09,
+country,12,AFG,Afghanistan,Appliances.,rural,13.85,10.08,19.82,51.7,
+country,13,ALB,Albania,Alsectors,rural,2624.29,1017.39,2221.71,4518.15,10312.55
+country,14,ALB,Albania,Foodandbeverages,rural,1707.66,673.54,1491.4,2796.68,5071.48
+country,15,ALB,Albania,Clothingandfootwear,rural,69.32,36.19,62.96,100.88,317.6
+country,16,ALB,Albania,Housing,rural,31.13,14.67,25.86,53.91,160.75
+country,17,ALB,Albania,Energy,rural,178.9,91.7,157.94,279.09,553.15
+country,18,ALB,Albania,Transport,rural,159.39,16.71,84.82,439.78,2823.34
+country,19,ALB,Albania,Water,rural,12.99,10.7,12.07,16.92,14.98
+country,20,ALB,Albania,Educationsector,rural,5.78,3.23,5.61,7.34,5.19
+country,21,ALB,Albania,Health,rural,113.99,23.32,89.1,231.13,255.64
+country,22,ALB,Albania,ICT,rural,88.99,33.36,76.84,148.54,351.79
+country,23,ALB,Albania,Financialservices,rural,4.74,0.04,2.11,15.42,6.02
+country,24,ALB,Albania,Othergoodsandservices,rural,207.97,92.8,176.84,351.94,705.99
+country,25,ALB,Albania,Appliances.,rural,43.43,21.15,36.14,76.51,46.62
+country,26,ARM,Armenia,Alsectors,rural,1418.7,920.18,1791.08,4857.83,
+country,27,ARM,Armenia,Foodandbeverages,rural,877.97,668.26,1056.91,1321.21,
+country,28,ARM,Armenia,Clothingandfootwear,rural,67.57,22.36,105.74,181.21,
+country,29,ARM,Armenia,Housing,rural,10.9,3.1,17.0,52.15,
+country,30,ARM,Armenia,Energy,rural,56.02,44.41,65.38,105.31,
+country,31,ARM,Armenia,Transport,rural,87.13,33.88,126.74,462.11,
+country,32,ARM,Armenia,Water,rural,6.12,5.14,6.86,12.33,
+country,33,ARM,Armenia,Educationsector,rural,11.98,3.34,19.1,41.22,
+country,34,ARM,Armenia,Health,rural,128.31,39.71,160.54,2266.94,
+country,35,ARM,Armenia,ICT,rural,56.6,35.12,72.25,222.43,
+country,36,ARM,Armenia,Financialservices,rural,0.02,0.0,0.04,0.0,
+country,37,ARM,Armenia,Othergoodsandservices,rural,91.66,52.25,125.91,147.21,
+country,38,ARM,Armenia,Appliances.,rural,24.42,12.6,34.6,45.72,
+country,39,AZE,Azerbaijan,Alsectors,rural,1908.24,915.1,1944.16,4630.14,12138.59
+country,40,AZE,Azerbaijan,Foodandbeverages,rural,894.66,512.04,933.12,1829.11,2635.61
+country,41,AZE,Azerbaijan,Clothingandfootwear,rural,169.91,67.3,175.62,455.46,669.89
+country,42,AZE,Azerbaijan,Housing,rural,32.85,7.73,27.9,129.69,792.23
+country,43,AZE,Azerbaijan,Energy,rural,174.08,104.29,193.96,250.14,306.72
+country,44,AZE,Azerbaijan,Transport,rural,211.8,54.76,191.6,726.37,5140.86
+country,45,AZE,Azerbaijan,Water,rural,6.96,4.86,6.9,13.8,29.99
+country,46,AZE,Azerbaijan,Educationsector,rural,17.44,3.05,15.88,72.99,171.52
+country,47,AZE,Azerbaijan,Health,rural,51.32,21.37,58.04,98.14,108.82
+country,48,AZE,Azerbaijan,ICT,rural,42.64,14.73,42.0,135.22,244.75
+country,49,AZE,Azerbaijan,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,50,AZE,Azerbaijan,Othergoodsandservices,rural,305.25,124.58,298.23,911.95,2025.01
+country,51,AZE,Azerbaijan,Appliances.,rural,1.32,0.39,0.92,7.28,13.21
+country,52,BGD,Bangladesh,Alsectors,rural,706.58,634.51,1581.92,4370.65,
+country,53,BGD,Bangladesh,Foodandbeverages,rural,411.97,384.93,749.28,1179.79,
+country,54,BGD,Bangladesh,Clothingandfootwear,rural,38.11,35.47,71.35,91.21,
+country,55,BGD,Bangladesh,Housing,rural,47.14,33.33,205.48,1388.06,
+country,56,BGD,Bangladesh,Energy,rural,45.04,42.76,73.25,121.93,
+country,57,BGD,Bangladesh,Transport,rural,25.44,21.71,70.26,244.57,
+country,58,BGD,Bangladesh,Water,rural,0.13,0.12,0.27,0.0,
+country,59,BGD,Bangladesh,Educationsector,rural,19.04,16.3,53.79,54.0,
+country,60,BGD,Bangladesh,Health,rural,23.88,21.28,56.07,109.69,
+country,61,BGD,Bangladesh,ICT,rural,11.84,9.59,39.81,89.63,
+country,62,BGD,Bangladesh,Financialservices,rural,1.15,0.93,4.09,0.08,
+country,63,BGD,Bangladesh,Othergoodsandservices,rural,69.83,55.94,234.47,1051.57,
+country,64,BGD,Bangladesh,Appliances.,rural,13.03,12.17,23.8,40.13,
+country,65,BLR,Belarus,Alsectors,rural,4434.86,1027.38,2559.54,5223.72,12128.33
+country,66,BLR,Belarus,Foodandbeverages,rural,1870.51,466.21,1174.51,2212.29,3847.04
+country,67,BLR,Belarus,Clothingandfootwear,rural,467.92,128.17,291.61,551.29,1024.28
+country,68,BLR,Belarus,Housing,rural,561.81,156.22,335.29,668.86,1269.98
+country,69,BLR,Belarus,Energy,rural,49.09,34.43,32.76,58.79,59.28
+country,70,BLR,Belarus,Transport,rural,399.29,21.86,114.8,432.91,3136.34
+country,71,BLR,Belarus,Water,rural,19.91,5.66,12.53,23.27,45.58
+country,72,BLR,Belarus,Educationsector,rural,56.14,0.52,26.42,69.49,162.46
+country,73,BLR,Belarus,Health,rural,127.75,11.68,60.28,160.05,329.76
+country,74,BLR,Belarus,ICT,rural,247.88,54.43,152.02,290.03,611.97
+country,75,BLR,Belarus,Financialservices,rural,39.35,22.58,20.87,46.43,123.58
+country,76,BLR,Belarus,Othergoodsandservices,rural,514.29,104.37,293.15,613.73,1303.91
+country,77,BLR,Belarus,Appliances.,rural,80.93,21.25,45.3,96.55,214.15
+country,78,BEN,Benin,Alsectors,rural,489.23,457.57,1522.21,,
+country,79,BEN,Benin,Foodandbeverages,rural,299.51,282.59,851.62,,
+country,80,BEN,Benin,Clothingandfootwear,rural,43.95,40.93,142.37,,
+country,81,BEN,Benin,Housing,rural,4.59,3.61,36.43,,
+country,82,BEN,Benin,Energy,rural,51.52,48.14,161.82,,
+country,83,BEN,Benin,Transport,rural,0.67,0.57,4.18,,
+country,84,BEN,Benin,Water,rural,0.0,0.0,0.0,,
+country,85,BEN,Benin,Educationsector,rural,5.67,5.43,13.55,,
+country,86,BEN,Benin,Health,rural,25.92,24.29,79.01,,
+country,87,BEN,Benin,ICT,rural,0.0,0.0,0.0,,
+country,88,BEN,Benin,Financialservices,rural,0.0,0.0,0.0,,
+country,89,BEN,Benin,Othergoodsandservices,rural,34.47,30.74,155.95,,
+country,90,BEN,Benin,Appliances.,rural,22.93,21.26,77.28,,
+country,91,BTN,Bhutan,Alsectors,rural,1208.56,764.17,1818.17,4410.12,12463.05
+country,92,BTN,Bhutan,Foodandbeverages,rural,609.0,461.55,848.76,1266.1,1268.09
+country,93,BTN,Bhutan,Clothingandfootwear,rural,86.96,51.23,142.86,280.68,264.5
+country,94,BTN,Bhutan,Housing,rural,137.62,73.16,226.27,673.0,654.74
+country,95,BTN,Bhutan,Energy,rural,26.78,13.72,45.58,124.76,83.83
+country,96,BTN,Bhutan,Transport,rural,63.48,20.87,79.73,552.04,8714.1
+country,97,BTN,Bhutan,Water,rural,0.28,0.16,0.39,2.53,0.71
+country,98,BTN,Bhutan,Educationsector,rural,17.72,15.41,22.03,19.62,15.82
+country,99,BTN,Bhutan,Health,rural,8.23,3.54,15.67,33.39,11.68
+country,100,BTN,Bhutan,ICT,rural,16.35,4.66,31.12,134.16,117.57
+country,101,BTN,Bhutan,Financialservices,rural,1.65,1.48,1.91,2.7,2.38
+country,102,BTN,Bhutan,Othergoodsandservices,rural,230.33,112.14,387.83,1285.59,1298.8
+country,103,BTN,Bhutan,Appliances.,rural,10.15,6.24,16.01,35.53,30.82
+country,104,BOL,Bolivia,Alsectors,rural,1343.57,636.9,1970.03,4362.54,
+country,105,BOL,Bolivia,Foodandbeverages,rural,862.73,433.59,1285.24,2398.27,
+country,106,BOL,Bolivia,Clothingandfootwear,rural,72.2,40.16,100.39,210.53,
+country,107,BOL,Bolivia,Housing,rural,109.96,47.02,137.69,577.39,
+country,108,BOL,Bolivia,Energy,rural,35.23,14.46,56.61,102.99,
+country,109,BOL,Bolivia,Transport,rural,74.65,25.9,122.82,247.9,
+country,110,BOL,Bolivia,Water,rural,4.63,1.57,6.97,20.34,
+country,111,BOL,Bolivia,Educationsector,rural,20.01,8.3,29.71,74.87,
+country,112,BOL,Bolivia,Health,rural,19.97,8.16,28.34,85.23,
+country,113,BOL,Bolivia,ICT,rural,18.22,3.93,29.51,89.03,
+country,114,BOL,Bolivia,Financialservices,rural,0.26,0.05,0.47,1.03,
+country,115,BOL,Bolivia,Othergoodsandservices,rural,101.72,41.45,136.71,489.56,
+country,116,BOL,Bolivia,Appliances.,rural,24.0,12.31,35.56,65.4,
+country,117,BIH,Bosnia and Herzegovina,Alsectors,rural,6481.62,913.43,2529.12,5846.35,13465.44
+country,118,BIH,Bosnia and Herzegovina,Foodandbeverages,rural,2069.85,313.34,834.89,1895.66,4174.76
+country,119,BIH,Bosnia and Herzegovina,Clothingandfootwear,rural,344.16,2.2,96.87,292.37,819.49
+country,120,BIH,Bosnia and Herzegovina,Housing,rural,1100.02,247.59,561.82,1053.73,1926.71
+country,121,BIH,Bosnia and Herzegovina,Energy,rural,450.34,121.9,242.18,438.78,749.64
+country,122,BIH,Bosnia and Herzegovina,Transport,rural,834.49,39.46,199.16,686.63,2098.81
+country,123,BIH,Bosnia and Herzegovina,Water,rural,28.09,5.22,16.32,26.96,46.78
+country,124,BIH,Bosnia and Herzegovina,Educationsector,rural,20.23,5.25,4.44,18.73,44.43
+country,125,BIH,Bosnia and Herzegovina,Health,rural,281.74,19.63,106.79,255.96,584.17
+country,126,BIH,Bosnia and Herzegovina,ICT,rural,233.14,30.2,98.53,213.51,465.21
+country,127,BIH,Bosnia and Herzegovina,Financialservices,rural,120.15,8.35,51.6,113.0,229.63
+country,128,BIH,Bosnia and Herzegovina,Othergoodsandservices,rural,806.14,99.91,244.67,680.72,1906.83
+country,129,BIH,Bosnia and Herzegovina,Appliances.,rural,193.26,20.4,71.86,170.28,418.97
+country,130,BRA,Brazil,Alsectors,rural,2788.78,680.35,2087.27,5255.01,18559.34
+country,131,BRA,Brazil,Foodandbeverages,rural,770.07,285.7,779.25,1448.14,2407.43
+country,132,BRA,Brazil,Clothingandfootwear,rural,178.02,62.39,157.03,341.41,774.86
+country,133,BRA,Brazil,Housing,rural,178.77,36.97,123.16,376.43,1194.06
+country,134,BRA,Brazil,Energy,rural,134.07,62.64,132.63,233.79,402.02
+country,135,BRA,Brazil,Transport,rural,693.58,82.42,389.32,1321.66,6521.33
+country,136,BRA,Brazil,Water,rural,23.02,7.72,22.3,47.12,73.71
+country,137,BRA,Brazil,Educationsector,rural,61.94,3.4,18.22,126.83,735.08
+country,138,BRA,Brazil,Health,rural,216.15,56.25,168.68,440.56,1215.86
+country,139,BRA,Brazil,ICT,rural,55.06,5.71,39.65,132.96,337.33
+country,140,BRA,Brazil,Financialservices,rural,1.91,0.36,1.51,4.61,8.97
+country,141,BRA,Brazil,Othergoodsandservices,rural,422.46,59.47,203.64,680.19,4676.07
+country,142,BRA,Brazil,Appliances.,rural,53.71,17.31,51.89,101.3,212.62
+country,143,BGR,Bulgaria,Alsectors,rural,4178.02,938.98,2541.97,5073.95,11335.55
+country,144,BGR,Bulgaria,Foodandbeverages,rural,1976.48,532.46,1339.1,2359.69,4139.73
+country,145,BGR,Bulgaria,Clothingandfootwear,rural,113.91,23.53,71.62,132.44,414.75
+country,146,BGR,Bulgaria,Housing,rural,656.17,153.58,320.12,830.27,2200.01
+country,147,BGR,Bulgaria,Energy,rural,474.04,107.64,282.51,590.29,1031.92
+country,148,BGR,Bulgaria,Transport,rural,230.37,1.09,85.18,296.45,1124.49
+country,149,BGR,Bulgaria,Water,rural,99.9,12.33,67.7,121.91,160.96
+country,150,BGR,Bulgaria,Educationsector,rural,41.2,16.34,31.88,44.66,126.9
+country,151,BGR,Bulgaria,Health,rural,0.0,0.0,0.0,0.0,0.0
+country,152,BGR,Bulgaria,ICT,rural,107.74,0.0,41.06,133.61,626.35
+country,153,BGR,Bulgaria,Financialservices,rural,0.07,0.0,0.04,0.09,0.33
+country,154,BGR,Bulgaria,Othergoodsandservices,rural,426.72,85.59,270.37,502.35,1376.84
+country,155,BGR,Bulgaria,Appliances.,rural,51.41,6.41,32.4,62.19,133.26
+country,156,BFA,Burkina Faso,Alsectors,rural,400.0,383.85,1559.34,5269.47,
+country,157,BFA,Burkina Faso,Foodandbeverages,rural,205.3,201.37,503.62,420.85,
+country,158,BFA,Burkina Faso,Clothingandfootwear,rural,43.24,41.66,162.15,203.04,
+country,159,BFA,Burkina Faso,Housing,rural,40.87,38.93,180.69,586.75,
+country,160,BFA,Burkina Faso,Energy,rural,11.11,10.49,56.11,133.06,
+country,161,BFA,Burkina Faso,Transport,rural,32.54,27.7,351.87,3137.89,
+country,162,BFA,Burkina Faso,Water,rural,1.16,0.92,19.04,18.25,
+country,163,BFA,Burkina Faso,Educationsector,rural,3.11,2.84,23.87,13.48,
+country,164,BFA,Burkina Faso,Health,rural,7.41,7.17,24.72,44.67,
+country,165,BFA,Burkina Faso,ICT,rural,13.45,12.44,86.36,278.21,
+country,166,BFA,Burkina Faso,Financialservices,rural,0.04,0.03,0.0,13.23,
+country,167,BFA,Burkina Faso,Othergoodsandservices,rural,36.33,35.05,128.72,382.21,
+country,168,BFA,Burkina Faso,Appliances.,rural,5.46,5.23,22.2,37.84,
+country,169,BDI,Burundi,Alsectors,rural,276.96,274.64,1406.56,,
+country,170,BDI,Burundi,Foodandbeverages,rural,211.39,209.73,1018.61,,
+country,171,BDI,Burundi,Clothingandfootwear,rural,9.35,9.27,48.13,,
+country,172,BDI,Burundi,Housing,rural,1.72,1.66,31.58,,
+country,173,BDI,Burundi,Energy,rural,25.03,24.94,67.72,,
+country,174,BDI,Burundi,Transport,rural,2.92,2.86,31.65,,
+country,175,BDI,Burundi,Water,rural,0.07,0.07,1.58,,
+country,176,BDI,Burundi,Educationsector,rural,1.06,1.06,1.17,,
+country,177,BDI,Burundi,Health,rural,14.52,14.33,106.75,,
+country,178,BDI,Burundi,ICT,rural,0.67,0.64,15.35,,
+country,179,BDI,Burundi,Financialservices,rural,0.0,0.0,0.0,,
+country,180,BDI,Burundi,Othergoodsandservices,rural,9.95,9.81,80.79,,
+country,181,BDI,Burundi,Appliances.,rural,0.27,0.27,3.22,,
+country,182,KHM,Cambodia,Alsectors,rural,930.38,663.65,1702.73,4299.88,
+country,183,KHM,Cambodia,Foodandbeverages,rural,470.72,373.79,785.25,1022.02,
+country,184,KHM,Cambodia,Clothingandfootwear,rural,31.15,24.35,53.18,70.16,
+country,185,KHM,Cambodia,Housing,rural,126.39,72.14,233.94,1797.05,
+country,186,KHM,Cambodia,Energy,rural,54.08,45.67,81.16,106.06,
+country,187,KHM,Cambodia,Transport,rural,98.92,42.58,255.97,932.02,
+country,188,KHM,Cambodia,Water,rural,3.82,2.64,7.32,16.93,
+country,189,KHM,Cambodia,Educationsector,rural,8.56,6.3,16.12,16.89,
+country,190,KHM,Cambodia,Health,rural,61.29,45.07,116.91,94.18,
+country,191,KHM,Cambodia,ICT,rural,6.59,3.68,15.35,36.85,
+country,192,KHM,Cambodia,Financialservices,rural,0.0,0.0,0.0,0.0,
+country,193,KHM,Cambodia,Othergoodsandservices,rural,58.55,38.91,121.59,183.8,
+country,194,KHM,Cambodia,Appliances.,rural,10.3,8.51,15.94,23.92,
+country,195,CMR,Cameroon,Alsectors,rural,420.53,388.5,1633.04,4062.01,
+country,196,CMR,Cameroon,Foodandbeverages,rural,190.25,179.13,590.82,2095.77,
+country,197,CMR,Cameroon,Clothingandfootwear,rural,42.69,40.36,137.05,117.44,
+country,198,CMR,Cameroon,Housing,rural,5.31,4.09,51.13,150.11,
+country,199,CMR,Cameroon,Energy,rural,49.66,46.46,178.26,180.18,
+country,200,CMR,Cameroon,Transport,rural,35.05,29.08,259.6,758.53,
+country,201,CMR,Cameroon,Water,rural,0.31,0.3,0.86,0.88,
+country,202,CMR,Cameroon,Educationsector,rural,7.27,6.94,21.09,1.03,
+country,203,CMR,Cameroon,Health,rural,21.13,19.91,71.96,19.56,
+country,204,CMR,Cameroon,ICT,rural,9.84,7.93,82.03,231.26,
+country,205,CMR,Cameroon,Financialservices,rural,0.19,0.07,5.05,12.79,
+country,206,CMR,Cameroon,Othergoodsandservices,rural,48.58,44.85,192.15,411.06,
+country,207,CMR,Cameroon,Appliances.,rural,10.24,9.39,43.05,83.4,
+country,208,CPV,Cabo Verde,Alsectors,rural,1307.47,733.84,1864.97,4661.55,13046.7
+country,209,CPV,Cabo Verde,Foodandbeverages,rural,744.12,467.24,1077.8,1939.15,2746.94
+country,210,CPV,Cabo Verde,Clothingandfootwear,rural,34.47,18.21,51.32,130.02,170.39
+country,211,CPV,Cabo Verde,Housing,rural,206.4,88.41,291.03,1140.95,3448.03
+country,212,CPV,Cabo Verde,Energy,rural,48.99,22.29,77.34,194.52,365.2
+country,213,CPV,Cabo Verde,Transport,rural,53.79,18.5,58.58,377.33,3864.87
+country,214,CPV,Cabo Verde,Water,rural,18.5,10.27,25.68,74.55,188.21
+country,215,CPV,Cabo Verde,Educationsector,rural,11.86,5.37,15.14,67.18,363.76
+country,216,CPV,Cabo Verde,Health,rural,20.27,11.25,29.61,73.05,100.56
+country,217,CPV,Cabo Verde,ICT,rural,41.71,19.62,62.17,186.2,389.55
+country,218,CPV,Cabo Verde,Financialservices,rural,2.35,0.41,2.82,24.4,94.13
+country,219,CPV,Cabo Verde,Othergoodsandservices,rural,72.77,39.63,100.52,292.46,1067.27
+country,220,CPV,Cabo Verde,Appliances.,rural,52.22,32.63,72.94,161.74,247.79
+country,221,TCD,Chad,Alsectors,rural,694.45,574.87,1601.61,4321.75,
+country,222,TCD,Chad,Foodandbeverages,rural,497.95,411.62,1154.23,3034.22,
+country,223,TCD,Chad,Clothingandfootwear,rural,43.4,36.78,94.72,176.1,
+country,224,TCD,Chad,Housing,rural,36.84,33.5,63.17,79.22,
+country,225,TCD,Chad,Energy,rural,1.97,1.38,4.88,118.3,
+country,226,TCD,Chad,Transport,rural,14.66,11.21,40.39,147.99,
+country,227,TCD,Chad,Water,rural,0.76,0.41,3.4,10.53,
+country,228,TCD,Chad,Educationsector,rural,1.17,1.18,1.06,1.04,
+country,229,TCD,Chad,Health,rural,18.32,15.63,39.48,53.68,
+country,230,TCD,Chad,ICT,rural,0.92,0.58,3.29,20.92,
+country,231,TCD,Chad,Financialservices,rural,0.0,0.0,0.01,0.0,
+country,232,TCD,Chad,Othergoodsandservices,rural,68.78,55.19,169.58,621.69,
+country,233,TCD,Chad,Appliances.,rural,9.67,7.38,27.38,58.05,
+country,234,CHN,China,Alsectors,rural,1140.98,703.89,1782.14,5109.4,10802.97
+country,235,CHN,China,Foodandbeverages,rural,482.54,328.04,732.82,1726.72,3462.23
+country,236,CHN,China,Clothingandfootwear,rural,66.7,40.11,105.88,306.84,648.18
+country,237,CHN,China,Housing,rural,123.01,68.7,198.04,647.25,1402.37
+country,238,CHN,China,Energy,rural,56.64,31.6,91.87,294.35,633.19
+country,239,CHN,China,Transport,rural,56.26,29.28,92.55,323.51,711.24
+country,240,CHN,China,Water,rural,5.77,3.22,9.36,29.97,64.48
+country,241,CHN,China,Educationsector,rural,74.63,43.19,117.46,381.88,836.99
+country,242,CHN,China,Health,rural,74.85,46.11,116.68,338.02,713.0
+country,243,CHN,China,ICT,rural,78.45,42.2,127.37,436.11,957.99
+country,244,CHN,China,Financialservices,rural,6.07,3.35,9.48,34.48,77.68
+country,245,CHN,China,Othergoodsandservices,rural,114.13,67.02,177.61,579.3,1270.88
+country,246,CHN,China,Appliances.,rural,1.93,1.07,3.02,10.98,24.73
+country,247,COL,Colombia,Alsectors,rural,1524.1,702.83,1970.42,4819.84,12989.16
+country,248,COL,Colombia,Foodandbeverages,rural,764.39,388.73,1009.68,2143.83,3142.99
+country,249,COL,Colombia,Clothingandfootwear,rural,56.02,24.2,66.88,205.72,905.85
+country,250,COL,Colombia,Housing,rural,252.9,123.0,319.81,751.92,3038.7
+country,251,COL,Colombia,Energy,rural,72.21,38.4,94.03,194.91,351.83
+country,252,COL,Colombia,Transport,rural,116.65,32.59,149.81,457.51,2916.54
+country,253,COL,Colombia,Water,rural,6.7,3.72,8.36,18.49,46.02
+country,254,COL,Colombia,Educationsector,rural,7.31,3.95,9.49,20.61,10.1
+country,255,COL,Colombia,Health,rural,97.71,33.03,128.82,416.48,291.9
+country,256,COL,Colombia,ICT,rural,42.37,15.34,52.71,172.4,553.35
+country,257,COL,Colombia,Financialservices,rural,27.02,5.39,31.5,139.55,769.18
+country,258,COL,Colombia,Othergoodsandservices,rural,80.82,34.48,99.32,298.42,962.7
+country,259,COL,Colombia,Appliances.,rural,0.0,0.0,0.0,0.0,0.0
+country,260,COD,"Congo, The Democratic Republic of the",Alsectors,rural,218.0,215.85,1488.11,,
+country,261,COD,"Congo, The Democratic Republic of the",Foodandbeverages,rural,164.02,162.87,846.12,,
+country,262,COD,"Congo, The Democratic Republic of the",Clothingandfootwear,rural,12.32,12.21,79.6,,
+country,263,COD,"Congo, The Democratic Republic of the",Housing,rural,0.59,0.58,10.18,,
+country,264,COD,"Congo, The Democratic Republic of the",Energy,rural,10.7,10.52,115.32,,
+country,265,COD,"Congo, The Democratic Republic of the",Transport,rural,3.03,2.88,88.75,,
+country,266,COD,"Congo, The Democratic Republic of the",Water,rural,1.66,1.49,102.68,,
+country,267,COD,"Congo, The Democratic Republic of the",Educationsector,rural,3.67,3.66,9.22,,
+country,268,COD,"Congo, The Democratic Republic of the",Health,rural,6.11,6.07,24.91,,
+country,269,COD,"Congo, The Democratic Republic of the",ICT,rural,0.88,0.73,85.89,,
+country,270,COD,"Congo, The Democratic Republic of the",Financialservices,rural,0.0,0.0,0.0,,
+country,271,COD,"Congo, The Democratic Republic of the",Othergoodsandservices,rural,12.22,12.07,100.05,,
+country,272,COD,"Congo, The Democratic Republic of the",Appliances.,rural,2.8,2.76,25.37,,
+country,273,COG,Congo,Alsectors,rural,1012.59,703.54,1731.48,4176.26,
+country,274,COG,Congo,Foodandbeverages,rural,622.56,431.66,1082.34,2203.1,
+country,275,COG,Congo,Clothingandfootwear,rural,55.51,32.36,103.11,440.71,
+country,276,COG,Congo,Housing,rural,110.81,85.26,167.51,437.47,
+country,277,COG,Congo,Energy,rural,31.36,25.07,44.04,142.25,
+country,278,COG,Congo,Transport,rural,35.7,21.14,70.37,165.81,
+country,279,COG,Congo,Water,rural,5.61,3.32,11.86,6.92,
+country,280,COG,Congo,Educationsector,rural,6.04,4.73,8.71,28.56,
+country,281,COG,Congo,Health,rural,31.52,24.97,48.2,64.34,
+country,282,COG,Congo,ICT,rural,21.64,9.59,46.77,213.84,
+country,283,COG,Congo,Financialservices,rural,0.5,0.42,0.74,0.0,
+country,284,COG,Congo,Othergoodsandservices,rural,74.13,52.11,119.75,432.43,
+country,285,COG,Congo,Appliances.,rural,17.23,12.93,28.08,40.83,
+country,286,CIV,Côte d'Ivoire,Alsectors,rural,891.17,627.23,1740.61,4334.13,10249.32
+country,287,CIV,Côte d'Ivoire,Foodandbeverages,rural,481.74,354.49,909.13,1850.64,2387.47
+country,288,CIV,Côte d'Ivoire,Clothingandfootwear,rural,63.23,49.69,107.4,229.84,500.12
+country,289,CIV,Côte d'Ivoire,Housing,rural,83.91,54.35,169.96,619.08,2254.58
+country,290,CIV,Côte d'Ivoire,Energy,rural,8.52,5.42,16.91,77.32,35.15
+country,291,CIV,Côte d'Ivoire,Transport,rural,61.26,34.62,140.8,500.27,2965.94
+country,292,CIV,Côte d'Ivoire,Water,rural,5.12,4.11,8.36,18.58,0.0
+country,293,CIV,Côte d'Ivoire,Educationsector,rural,6.49,5.57,9.98,9.05,0.0
+country,294,CIV,Côte d'Ivoire,Health,rural,46.31,31.88,95.29,192.82,219.54
+country,295,CIV,Côte d'Ivoire,ICT,rural,56.74,33.09,128.45,444.9,700.36
+country,296,CIV,Côte d'Ivoire,Financialservices,rural,0.75,0.35,2.02,6.26,32.77
+country,297,CIV,Côte d'Ivoire,Othergoodsandservices,rural,65.57,45.1,131.86,324.21,951.97
+country,298,CIV,Côte d'Ivoire,Appliances.,rural,11.54,8.57,20.44,61.16,201.42
+country,299,DJI,Djibouti,Alsectors,rural,1057.48,678.05,1735.29,4981.75,10990.92
+country,300,DJI,Djibouti,Foodandbeverages,rural,555.95,436.54,934.11,1198.21,612.59
+country,301,DJI,Djibouti,Clothingandfootwear,rural,31.29,22.18,60.65,70.22,58.52
+country,302,DJI,Djibouti,Housing,rural,149.44,115.14,248.46,416.29,153.37
+country,303,DJI,Djibouti,Energy,rural,62.82,28.02,123.93,666.73,32.86
+country,304,DJI,Djibouti,Transport,rural,49.53,21.75,152.49,89.66,4.95
+country,305,DJI,Djibouti,Water,rural,6.85,3.57,15.57,40.51,0.0
+country,306,DJI,Djibouti,Educationsector,rural,2.09,1.18,4.57,6.75,16.2
+country,307,DJI,Djibouti,Health,rural,5.64,3.43,12.25,18.91,13.32
+country,308,DJI,Djibouti,ICT,rural,0.0,0.0,0.0,0.0,0.0
+country,309,DJI,Djibouti,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,310,DJI,Djibouti,Othergoodsandservices,rural,180.18,34.69,162.98,2454.09,10056.86
+country,311,DJI,Djibouti,Appliances.,rural,13.71,11.56,20.27,20.37,42.25
+country,312,EGY,Egypt,Alsectors,rural,1049.09,843.22,1590.91,4398.23,19006.74
+country,313,EGY,Egypt,Foodandbeverages,rural,559.87,471.27,806.39,1255.86,1868.04
+country,314,EGY,Egypt,Clothingandfootwear,rural,66.73,55.37,97.72,207.42,245.97
+country,315,EGY,Egypt,Housing,rural,142.29,111.6,224.83,586.25,1207.7
+country,316,EGY,Egypt,Energy,rural,26.72,22.83,36.83,71.19,935.44
+country,317,EGY,Egypt,Transport,rural,32.58,22.39,55.32,229.39,6458.51
+country,318,EGY,Egypt,Water,rural,6.81,5.55,10.27,20.4,41.09
+country,319,EGY,Egypt,Educationsector,rural,22.54,16.55,38.07,170.46,0.0
+country,320,EGY,Egypt,Health,rural,61.32,38.62,114.42,736.3,6413.65
+country,321,EGY,Egypt,ICT,rural,22.21,15.29,40.85,121.34,221.81
+country,322,EGY,Egypt,Financialservices,rural,1.18,0.84,2.0,12.96,32.42
+country,323,EGY,Egypt,Othergoodsandservices,rural,94.11,72.28,145.98,935.65,1498.76
+country,324,EGY,Egypt,Appliances.,rural,12.73,10.65,18.23,51.0,83.36
+country,325,SLV,El Salvador,Alsectors,rural,1180.1,581.77,1897.12,4611.21,14488.17
+country,326,SLV,El Salvador,Foodandbeverages,rural,926.84,395.29,1537.02,3900.94,14063.03
+country,327,SLV,El Salvador,Clothingandfootwear,rural,16.45,12.9,21.65,39.65,48.34
+country,328,SLV,El Salvador,Housing,rural,3.96,2.04,6.15,24.47,13.12
+country,329,SLV,El Salvador,Energy,rural,47.91,36.94,67.1,110.13,64.9
+country,330,SLV,El Salvador,Transport,rural,21.27,13.85,33.79,67.69,33.07
+country,331,SLV,El Salvador,Water,rural,0.0,0.0,0.0,0.0,0.0
+country,332,SLV,El Salvador,Educationsector,rural,0.0,0.0,0.0,0.0,0.0
+country,333,SLV,El Salvador,Health,rural,25.5,10.58,45.73,159.16,78.47
+country,334,SLV,El Salvador,ICT,rural,27.88,20.25,40.96,74.08,38.35
+country,335,SLV,El Salvador,Financialservices,rural,0.11,0.06,0.15,0.91,0.0
+country,336,SLV,El Salvador,Othergoodsandservices,rural,64.24,52.13,84.89,139.1,77.69
+country,337,SLV,El Salvador,Appliances.,rural,45.93,37.73,59.66,95.09,71.2
+country,338,ETH,Ethiopia,Alsectors,rural,1048.02,847.28,1548.08,4144.32,10955.0
+country,339,ETH,Ethiopia,Foodandbeverages,rural,637.8,536.73,895.1,1330.83,1381.0
+country,340,ETH,Ethiopia,Clothingandfootwear,rural,76.38,57.84,122.25,429.98,445.64
+country,341,ETH,Ethiopia,Housing,rural,117.36,96.53,169.51,394.37,1116.1
+country,342,ETH,Ethiopia,Energy,rural,107.73,81.77,173.95,263.54,159.04
+country,343,ETH,Ethiopia,Transport,rural,9.29,3.98,19.98,544.11,208.61
+country,344,ETH,Ethiopia,Water,rural,2.5,2.16,3.34,9.2,166.77
+country,345,ETH,Ethiopia,Educationsector,rural,6.06,5.41,7.55,21.53,619.63
+country,346,ETH,Ethiopia,Health,rural,4.34,3.26,7.06,15.15,112.61
+country,347,ETH,Ethiopia,ICT,rural,3.92,1.93,7.14,212.59,4810.55
+country,348,ETH,Ethiopia,Financialservices,rural,0.21,0.11,0.4,11.22,0.0
+country,349,ETH,Ethiopia,Othergoodsandservices,rural,76.84,53.57,132.19,886.79,1878.59
+country,350,ETH,Ethiopia,Appliances.,rural,5.6,4.0,9.61,25.02,56.47
+country,351,FJI,Fiji,Alsectors,rural,1205.25,630.05,1882.22,4659.43,10901.95
+country,352,FJI,Fiji,Foodandbeverages,rural,459.48,283.04,704.92,1277.01,1828.8
+country,353,FJI,Fiji,Clothingandfootwear,rural,49.0,26.96,77.86,165.12,207.14
+country,354,FJI,Fiji,Housing,rural,38.27,13.2,68.51,182.49,485.64
+country,355,FJI,Fiji,Energy,rural,70.96,42.53,113.08,184.53,254.45
+country,356,FJI,Fiji,Transport,rural,192.94,83.67,308.86,904.69,3555.13
+country,357,FJI,Fiji,Water,rural,8.25,4.94,14.1,14.49,25.53
+country,358,FJI,Fiji,Educationsector,rural,57.16,31.15,78.38,288.9,309.67
+country,359,FJI,Fiji,Health,rural,24.98,10.38,45.86,91.31,25.97
+country,360,FJI,Fiji,ICT,rural,41.81,11.56,74.77,238.62,733.88
+country,361,FJI,Fiji,Financialservices,rural,64.69,6.53,106.22,596.35,1805.89
+country,362,FJI,Fiji,Othergoodsandservices,rural,186.01,109.79,271.04,675.4,1604.22
+country,363,FJI,Fiji,Appliances.,rural,11.68,6.29,18.62,40.51,65.61
+country,364,GAB,Gabon,Alsectors,rural,1697.76,765.31,1972.22,4907.82,11663.9
+country,365,GAB,Gabon,Foodandbeverages,rural,983.16,490.88,1152.35,2623.54,2637.32
+country,366,GAB,Gabon,Clothingandfootwear,rural,63.13,22.36,78.28,188.51,393.89
+country,367,GAB,Gabon,Housing,rural,231.58,106.73,264.78,668.66,2123.5
+country,368,GAB,Gabon,Energy,rural,53.95,23.33,61.57,171.2,188.28
+country,369,GAB,Gabon,Transport,rural,103.45,22.36,120.18,416.96,1191.06
+country,370,GAB,Gabon,Water,rural,6.04,0.97,7.04,26.87,27.93
+country,371,GAB,Gabon,Educationsector,rural,16.07,5.86,22.66,34.17,6.49
+country,372,GAB,Gabon,Health,rural,44.69,15.89,51.31,161.19,24.27
+country,373,GAB,Gabon,ICT,rural,46.38,5.88,48.98,185.92,2811.45
+country,374,GAB,Gabon,Financialservices,rural,6.37,0.0,4.52,48.42,85.06
+country,375,GAB,Gabon,Othergoodsandservices,rural,99.73,46.43,108.86,289.57,2024.43
+country,376,GAB,Gabon,Appliances.,rural,43.22,24.61,51.7,92.82,150.23
+country,377,GMB,Gambia,Alsectors,rural,817.51,547.36,1744.51,4272.77,
+country,378,GMB,Gambia,Foodandbeverages,rural,477.04,315.03,1051.87,2056.5,
+country,379,GMB,Gambia,Clothingandfootwear,rural,104.94,83.04,186.39,220.54,
+country,380,GMB,Gambia,Housing,rural,10.73,6.69,23.86,81.78,
+country,381,GMB,Gambia,Energy,rural,19.11,6.67,40.21,741.53,
+country,382,GMB,Gambia,Transport,rural,20.16,11.24,47.65,215.29,
+country,383,GMB,Gambia,Water,rural,1.12,0.36,3.63,13.52,
+country,384,GMB,Gambia,Educationsector,rural,9.49,6.11,21.22,48.47,
+country,385,GMB,Gambia,Health,rural,8.4,6.99,13.13,28.52,
+country,386,GMB,Gambia,ICT,rural,20.37,12.6,47.01,120.13,
+country,387,GMB,Gambia,Financialservices,rural,1.33,1.0,2.2,12.75,
+country,388,GMB,Gambia,Othergoodsandservices,rural,143.71,97.12,304.63,711.66,
+country,389,GMB,Gambia,Appliances.,rural,1.1,0.49,2.7,22.07,
+country,390,GHA,Ghana,Alsectors,rural,875.15,632.11,1711.63,4324.6,12372.22
+country,391,GHA,Ghana,Foodandbeverages,rural,525.0,398.29,995.9,1765.51,1984.66
+country,392,GHA,Ghana,Clothingandfootwear,rural,67.26,49.55,126.72,348.7,484.17
+country,393,GHA,Ghana,Housing,rural,34.09,22.19,73.03,237.12,681.33
+country,394,GHA,Ghana,Energy,rural,41.49,30.91,80.17,156.49,170.86
+country,395,GHA,Ghana,Transport,rural,49.13,24.05,102.52,923.53,6487.71
+country,396,GHA,Ghana,Water,rural,4.79,2.99,11.52,21.28,58.88
+country,397,GHA,Ghana,Educationsector,rural,46.92,36.57,84.32,168.45,0.0
+country,398,GHA,Ghana,Health,rural,14.98,10.91,29.89,57.23,128.49
+country,399,GHA,Ghana,ICT,rural,14.64,5.69,40.96,209.5,1379.26
+country,400,GHA,Ghana,Financialservices,rural,1.93,0.64,6.34,19.72,198.02
+country,401,GHA,Ghana,Othergoodsandservices,rural,58.91,39.11,127.1,343.4,610.19
+country,402,GHA,Ghana,Appliances.,rural,16.01,11.21,33.17,73.68,188.65
+country,403,GTM,Guatemala,Alsectors,rural,1460.13,784.78,1881.9,4743.24,13069.61
+country,404,GTM,Guatemala,Foodandbeverages,rural,735.65,470.69,967.37,1653.66,1873.82
+country,405,GTM,Guatemala,Clothingandfootwear,rural,68.72,42.82,89.23,164.27,420.9
+country,406,GTM,Guatemala,Housing,rural,187.52,86.41,234.05,829.5,1551.36
+country,407,GTM,Guatemala,Energy,rural,66.9,35.72,92.2,188.38,248.31
+country,408,GTM,Guatemala,Transport,rural,69.36,13.46,70.62,448.14,4494.2
+country,409,GTM,Guatemala,Water,rural,3.61,0.95,4.02,27.64,25.98
+country,410,GTM,Guatemala,Educationsector,rural,9.19,1.68,11.16,66.32,165.38
+country,411,GTM,Guatemala,Health,rural,98.86,30.66,129.27,483.62,2215.17
+country,412,GTM,Guatemala,ICT,rural,14.17,1.5,14.86,121.33,494.76
+country,413,GTM,Guatemala,Financialservices,rural,8.18,2.36,10.55,36.36,327.01
+country,414,GTM,Guatemala,Othergoodsandservices,rural,161.44,84.7,207.14,572.58,1048.67
+country,415,GTM,Guatemala,Appliances.,rural,36.52,13.82,51.43,151.43,204.05
+country,416,GIN,Guinea,Alsectors,rural,579.66,556.05,1408.8,,
+country,417,GIN,Guinea,Foodandbeverages,rural,462.4,444.41,1094.04,,
+country,418,GIN,Guinea,Clothingandfootwear,rural,22.22,21.78,37.64,,
+country,419,GIN,Guinea,Housing,rural,16.43,16.02,30.89,,
+country,420,GIN,Guinea,Energy,rural,11.47,10.98,28.79,,
+country,421,GIN,Guinea,Transport,rural,15.54,13.66,81.33,,
+country,422,GIN,Guinea,Water,rural,0.22,0.2,0.84,,
+country,423,GIN,Guinea,Educationsector,rural,1.02,1.0,1.54,,
+country,424,GIN,Guinea,Health,rural,15.97,15.17,44.04,,
+country,425,GIN,Guinea,ICT,rural,1.99,1.42,22.18,,
+country,426,GIN,Guinea,Financialservices,rural,0.06,0.04,0.54,,
+country,427,GIN,Guinea,Othergoodsandservices,rural,28.16,27.34,57.16,,
+country,428,GIN,Guinea,Appliances.,rural,4.2,4.04,9.81,,
+country,429,HND,Honduras,Alsectors,rural,1010.58,558.98,1892.52,4909.7,13110.51
+country,430,HND,Honduras,Foodandbeverages,rural,640.99,437.6,1186.47,1625.75,1725.46
+country,431,HND,Honduras,Clothingandfootwear,rural,25.21,12.11,54.34,127.27,179.03
+country,432,HND,Honduras,Housing,rural,38.45,17.43,77.31,247.68,461.26
+country,433,HND,Honduras,Energy,rural,0.0,0.0,0.0,0.0,0.0
+country,434,HND,Honduras,Transport,rural,196.12,44.61,359.12,2110.49,9247.89
+country,435,HND,Honduras,Water,rural,0.0,0.0,0.0,0.0,0.0
+country,436,HND,Honduras,Educationsector,rural,0.0,0.0,0.0,0.0,0.0
+country,437,HND,Honduras,Health,rural,0.46,0.17,0.62,6.88,0.0
+country,438,HND,Honduras,ICT,rural,8.36,1.06,19.83,102.54,74.64
+country,439,HND,Honduras,Financialservices,rural,2.71,0.16,4.05,53.2,56.18
+country,440,HND,Honduras,Othergoodsandservices,rural,65.93,30.08,122.02,475.54,1085.71
+country,441,HND,Honduras,Appliances.,rural,32.34,15.77,68.75,160.36,280.34
+country,442,IND,India,Alsectors,rural,596.57,552.75,1546.68,4131.91,
+country,443,IND,India,Foodandbeverages,rural,326.2,311.6,643.83,1041.85,
+country,444,IND,India,Clothingandfootwear,rural,40.71,38.26,93.99,199.69,
+country,445,IND,India,Housing,rural,10.31,8.07,58.5,291.7,
+country,446,IND,India,Energy,rural,56.29,54.14,102.94,200.32,
+country,447,IND,India,Transport,rural,26.98,21.69,140.62,865.46,
+country,448,IND,India,Water,rural,0.63,0.56,2.14,4.09,
+country,449,IND,India,Educationsector,rural,13.06,10.43,70.56,65.13,
+country,450,IND,India,Health,rural,31.43,27.14,125.23,159.09,
+country,451,IND,India,ICT,rural,16.3,13.59,74.66,409.91,
+country,452,IND,India,Financialservices,rural,0.27,0.26,0.56,2.41,
+country,453,IND,India,Othergoodsandservices,rural,58.7,52.27,197.46,828.61,
+country,454,IND,India,Appliances.,rural,15.68,14.74,36.21,63.64,
+country,455,IDN,Indonesia,Alsectors,rural,766.88,636.83,1607.3,4499.08,
+country,456,IDN,Indonesia,Foodandbeverages,rural,420.74,371.4,752.44,938.55,
+country,457,IDN,Indonesia,Clothingandfootwear,rural,28.02,23.38,58.85,100.29,
+country,458,IDN,Indonesia,Housing,rural,61.55,48.61,147.55,268.65,
+country,459,IDN,Indonesia,Energy,rural,46.46,40.25,88.29,106.25,
+country,460,IDN,Indonesia,Transport,rural,59.92,35.29,206.79,1627.25,
+country,461,IDN,Indonesia,Water,rural,1.47,1.11,3.85,6.01,
+country,462,IDN,Indonesia,Educationsector,rural,14.28,12.05,29.2,42.85,
+country,463,IDN,Indonesia,Health,rural,15.78,12.19,40.08,44.22,
+country,464,IDN,Indonesia,ICT,rural,16.73,11.07,53.93,133.62,
+country,465,IDN,Indonesia,Financialservices,rural,0.51,0.16,2.72,14.31,
+country,466,IDN,Indonesia,Othergoodsandservices,rural,87.9,69.73,197.15,1181.78,
+country,467,IDN,Indonesia,Appliances.,rural,13.53,11.6,26.46,35.3,
+country,468,IRQ,Iraq,Alsectors,rural,1814.25,841.21,1958.74,4591.62,10533.58
+country,469,IRQ,Iraq,Foodandbeverages,rural,751.51,417.67,851.08,1442.67,1609.29
+country,470,IRQ,Iraq,Clothingandfootwear,rural,133.99,66.41,144.76,319.0,843.05
+country,471,IRQ,Iraq,Housing,rural,258.51,142.59,286.08,523.16,1248.63
+country,472,IRQ,Iraq,Energy,rural,119.44,56.5,132.22,287.31,334.19
+country,473,IRQ,Iraq,Transport,rural,288.04,54.78,257.04,1321.78,4383.58
+country,474,IRQ,Iraq,Water,rural,0.0,0.0,0.0,0.0,0.0
+country,475,IRQ,Iraq,Educationsector,rural,12.35,6.6,14.3,22.91,21.76
+country,476,IRQ,Iraq,Health,rural,43.9,18.93,53.23,82.45,135.86
+country,477,IRQ,Iraq,ICT,rural,50.35,18.03,55.97,135.96,380.05
+country,478,IRQ,Iraq,Financialservices,rural,2.03,0.24,2.15,7.32,43.31
+country,479,IRQ,Iraq,Othergoodsandservices,rural,143.51,55.02,150.12,422.22,1479.31
+country,480,IRQ,Iraq,Appliances.,rural,10.61,4.44,11.79,26.85,54.55
+country,481,JAM,Jamaica,Alsectors,rural,1901.77,847.82,1935.58,4628.92,11595.27
+country,482,JAM,Jamaica,Foodandbeverages,rural,752.43,412.39,802.06,1461.93,2121.0
+country,483,JAM,Jamaica,Clothingandfootwear,rural,155.14,80.28,165.55,315.92,400.27
+country,484,JAM,Jamaica,Housing,rural,64.25,9.98,45.77,299.11,1291.84
+country,485,JAM,Jamaica,Energy,rural,156.04,71.99,160.91,369.54,638.46
+country,486,JAM,Jamaica,Transport,rural,272.58,82.8,259.57,812.06,4113.85
+country,487,JAM,Jamaica,Water,rural,19.88,6.97,19.9,57.48,72.08
+country,488,JAM,Jamaica,Educationsector,rural,67.93,40.28,73.4,121.35,41.98
+country,489,JAM,Jamaica,Health,rural,69.93,38.21,77.78,118.34,174.87
+country,490,JAM,Jamaica,ICT,rural,96.29,26.86,97.73,285.29,566.41
+country,491,JAM,Jamaica,Financialservices,rural,27.9,1.99,15.28,157.28,768.87
+country,492,JAM,Jamaica,Othergoodsandservices,rural,149.28,45.8,144.9,466.35,920.03
+country,493,JAM,Jamaica,Appliances.,rural,70.12,30.28,72.72,164.25,485.62
+country,494,JOR,Jordan,Alsectors,rural,2546.65,844.0,2195.22,4634.85,11210.71
+country,495,JOR,Jordan,Foodandbeverages,rural,1077.84,404.4,985.11,1801.51,2870.36
+country,496,JOR,Jordan,Clothingandfootwear,rural,136.11,38.28,121.39,241.04,528.06
+country,497,JOR,Jordan,Housing,rural,326.25,128.76,289.96,555.88,1252.2
+country,498,JOR,Jordan,Energy,rural,104.97,49.48,98.92,156.79,322.61
+country,499,JOR,Jordan,Transport,rural,197.42,35.65,127.04,489.5,1973.91
+country,500,JOR,Jordan,Water,rural,25.69,13.2,23.57,38.82,106.97
+country,501,JOR,Jordan,Educationsector,rural,110.6,12.81,76.43,259.81,1151.55
+country,502,JOR,Jordan,Health,rural,34.1,12.28,28.38,65.45,131.73
+country,503,JOR,Jordan,ICT,rural,143.88,30.23,116.56,292.47,839.43
+country,504,JOR,Jordan,Financialservices,rural,8.97,1.34,6.43,20.3,85.78
+country,505,JOR,Jordan,Othergoodsandservices,rural,334.58,103.1,278.68,635.87,1816.34
+country,506,JOR,Jordan,Appliances.,rural,46.26,14.48,42.75,77.42,131.76
+country,507,KAZ,Kazakhstan,Alsectors,rural,2371.08,996.7,2119.34,4465.81,10154.49
+country,508,KAZ,Kazakhstan,Foodandbeverages,rural,1557.4,694.97,1411.83,2813.77,6353.89
+country,509,KAZ,Kazakhstan,Clothingandfootwear,rural,170.78,62.38,158.91,299.33,494.44
+country,510,KAZ,Kazakhstan,Housing,rural,7.36,1.11,4.84,23.39,35.93
+country,511,KAZ,Kazakhstan,Energy,rural,200.45,81.54,170.86,417.39,1201.44
+country,512,KAZ,Kazakhstan,Transport,rural,59.66,23.29,54.18,109.06,430.79
+country,513,KAZ,Kazakhstan,Water,rural,8.88,7.08,8.2,13.12,68.2
+country,514,KAZ,Kazakhstan,Educationsector,rural,36.43,11.64,33.38,67.43,108.38
+country,515,KAZ,Kazakhstan,Health,rural,40.8,14.5,33.67,92.09,86.59
+country,516,KAZ,Kazakhstan,ICT,rural,25.84,3.98,19.05,72.38,97.23
+country,517,KAZ,Kazakhstan,Financialservices,rural,0.01,0.0,0.01,0.01,0.0
+country,518,KAZ,Kazakhstan,Othergoodsandservices,rural,177.34,66.44,151.97,370.04,821.98
+country,519,KAZ,Kazakhstan,Appliances.,rural,86.14,29.77,72.43,187.8,455.61
+country,520,KEN,Kenya,Alsectors,rural,571.99,481.57,1702.5,4521.34,
+country,521,KEN,Kenya,Foodandbeverages,rural,378.18,336.99,914.39,1451.13,
+country,522,KEN,Kenya,Clothingandfootwear,rural,53.02,40.19,213.85,601.64,
+country,523,KEN,Kenya,Housing,rural,2.54,1.5,14.26,91.2,
+country,524,KEN,Kenya,Energy,rural,20.47,17.05,65.06,107.34,
+country,525,KEN,Kenya,Transport,rural,30.77,17.74,167.52,1497.66,
+country,526,KEN,Kenya,Water,rural,3.89,3.22,12.22,35.08,
+country,527,KEN,Kenya,Educationsector,rural,0.0,0.0,0.0,0.0,
+country,528,KEN,Kenya,Health,rural,14.34,10.98,57.49,120.71,
+country,529,KEN,Kenya,ICT,rural,9.11,5.81,50.06,164.39,
+country,530,KEN,Kenya,Financialservices,rural,0.53,0.3,2.71,31.32,
+country,531,KEN,Kenya,Othergoodsandservices,rural,49.9,40.37,172.83,335.5,
+country,532,KEN,Kenya,Appliances.,rural,9.25,7.43,32.09,85.36,
+country,533,KGZ,Kyrgyzstan,Alsectors,rural,1383.6,904.73,1736.15,4513.76,12302.91
+country,534,KGZ,Kyrgyzstan,Foodandbeverages,rural,843.69,601.9,1045.17,1963.29,2014.16
+country,535,KGZ,Kyrgyzstan,Clothingandfootwear,rural,135.88,98.76,164.25,361.6,377.33
+country,536,KGZ,Kyrgyzstan,Housing,rural,29.73,9.15,38.6,300.67,62.77
+country,537,KGZ,Kyrgyzstan,Energy,rural,36.72,23.53,44.48,165.75,158.73
+country,538,KGZ,Kyrgyzstan,Transport,rural,136.58,68.33,169.48,899.73,7739.92
+country,539,KGZ,Kyrgyzstan,Water,rural,3.28,2.25,3.99,11.25,0.0
+country,540,KGZ,Kyrgyzstan,Educationsector,rural,30.07,8.98,44.93,183.47,302.68
+country,541,KGZ,Kyrgyzstan,Health,rural,20.62,10.5,28.55,78.83,7.11
+country,542,KGZ,Kyrgyzstan,ICT,rural,33.91,20.76,42.26,147.83,357.79
+country,543,KGZ,Kyrgyzstan,Financialservices,rural,0.13,0.03,0.22,0.33,5.85
+country,544,KGZ,Kyrgyzstan,Othergoodsandservices,rural,93.02,50.85,125.91,330.24,984.82
+country,545,KGZ,Kyrgyzstan,Appliances.,rural,19.98,9.69,28.31,70.76,291.75
+country,546,LAO,Lao People's Democratic Republic,Alsectors,rural,948.48,611.41,4050.94,7778.66,23994.79
+country,547,LAO,Lao People's Democratic Republic,Foodandbeverages,rural,565.72,424.79,2072.6,1448.26,1593.81
+country,548,LAO,Lao People's Democratic Republic,Clothingandfootwear,rural,28.44,18.14,137.69,105.56,75.69
+country,549,LAO,Lao People's Democratic Republic,Housing,rural,80.11,40.84,432.42,983.39,2869.55
+country,550,LAO,Lao People's Democratic Republic,Energy,rural,36.1,29.91,101.88,79.98,94.18
+country,551,LAO,Lao People's Democratic Republic,Transport,rural,136.87,45.52,735.28,4070.05,18771.98
+country,552,LAO,Lao People's Democratic Republic,Water,rural,0.18,0.07,1.42,0.0,0.0
+country,553,LAO,Lao People's Democratic Republic,Educationsector,rural,7.39,4.79,34.98,26.71,21.23
+country,554,LAO,Lao People's Democratic Republic,Health,rural,16.49,9.0,88.16,172.63,51.35
+country,555,LAO,Lao People's Democratic Republic,ICT,rural,18.59,9.03,115.23,151.88,67.88
+country,556,LAO,Lao People's Democratic Republic,Financialservices,rural,0.18,0.08,0.94,3.37,10.17
+country,557,LAO,Lao People's Democratic Republic,Othergoodsandservices,rural,54.53,26.99,309.69,714.0,429.83
+country,558,LAO,Lao People's Democratic Republic,Appliances.,rural,3.88,2.25,20.66,22.82,9.11
+country,559,LVA,Latvia,Alsectors,rural,4201.76,911.08,2314.24,5171.71,14233.76
+country,560,LVA,Latvia,Foodandbeverages,rural,1560.76,583.41,1142.48,1813.82,3634.19
+country,561,LVA,Latvia,Clothingandfootwear,rural,206.97,18.45,69.98,249.88,1142.28
+country,562,LVA,Latvia,Housing,rural,102.28,16.52,43.29,138.12,353.11
+country,563,LVA,Latvia,Energy,rural,299.32,92.99,188.13,377.28,713.49
+country,564,LVA,Latvia,Transport,rural,673.06,33.23,234.86,876.29,3102.62
+country,565,LVA,Latvia,Water,rural,17.05,8.46,14.0,19.06,31.76
+country,566,LVA,Latvia,Educationsector,rural,59.73,0.0,20.83,86.3,201.25
+country,567,LVA,Latvia,Health,rural,232.48,7.4,108.14,301.15,856.99
+country,568,LVA,Latvia,ICT,rural,257.43,24.4,148.59,338.92,640.57
+country,569,LVA,Latvia,Financialservices,rural,86.73,8.55,36.28,121.8,265.3
+country,570,LVA,Latvia,Othergoodsandservices,rural,618.53,100.01,259.36,743.55,2977.46
+country,571,LVA,Latvia,Appliances.,rural,87.44,17.67,48.29,105.54,314.74
+country,572,LSO,Lesotho,Alsectors,rural,944.48,547.25,1870.61,4607.97,13073.59
+country,573,LSO,Lesotho,Foodandbeverages,rural,386.76,243.6,721.53,1651.7,6211.56
+country,574,LSO,Lesotho,Clothingandfootwear,rural,114.43,44.15,275.02,834.41,870.83
+country,575,LSO,Lesotho,Housing,rural,150.65,111.8,253.94,419.24,971.41
+country,576,LSO,Lesotho,Energy,rural,60.57,41.67,114.04,174.02,198.76
+country,577,LSO,Lesotho,Transport,rural,40.84,18.12,102.18,204.23,97.36
+country,578,LSO,Lesotho,Water,rural,0.38,0.22,0.83,1.53,0.0
+country,579,LSO,Lesotho,Educationsector,rural,22.0,6.31,62.46,152.02,0.0
+country,580,LSO,Lesotho,Health,rural,8.57,4.99,19.44,24.66,23.82
+country,581,LSO,Lesotho,ICT,rural,4.95,2.17,12.04,28.46,11.34
+country,582,LSO,Lesotho,Financialservices,rural,1.74,0.91,4.52,3.13,4.01
+country,583,LSO,Lesotho,Othergoodsandservices,rural,129.45,57.06,257.51,1049.12,4592.64
+country,584,LSO,Lesotho,Appliances.,rural,24.13,16.26,47.11,65.43,91.86
+country,585,LBR,Liberia,Alsectors,rural,537.98,483.94,1677.73,4851.22,
+country,586,LBR,Liberia,Foodandbeverages,rural,376.26,342.83,1106.66,916.8,
+country,587,LBR,Liberia,Clothingandfootwear,rural,31.79,30.35,63.43,40.15,
+country,588,LBR,Liberia,Housing,rural,25.02,23.61,53.25,255.4,
+country,589,LBR,Liberia,Energy,rural,10.95,9.38,42.49,277.25,
+country,590,LBR,Liberia,Transport,rural,36.27,27.46,197.03,2830.05,
+country,591,LBR,Liberia,Water,rural,0.0,0.0,0.0,0.0,
+country,592,LBR,Liberia,Educationsector,rural,6.25,5.87,13.97,64.89,
+country,593,LBR,Liberia,Health,rural,11.39,10.89,21.21,115.6,
+country,594,LBR,Liberia,ICT,rural,7.43,5.38,49.8,227.25,
+country,595,LBR,Liberia,Financialservices,rural,0.65,0.59,1.83,0.0,
+country,596,LBR,Liberia,Othergoodsandservices,rural,23.71,20.39,96.05,102.69,
+country,597,LBR,Liberia,Appliances.,rural,8.27,7.18,32.01,21.14,
+country,598,LTU,Lithuania,Alsectors,rural,3806.21,923.43,2351.37,5120.79,13693.97
+country,599,LTU,Lithuania,Foodandbeverages,rural,1775.85,675.58,1330.62,2314.84,3544.56
+country,600,LTU,Lithuania,Clothingandfootwear,rural,306.42,37.18,153.78,444.72,1298.96
+country,601,LTU,Lithuania,Housing,rural,300.88,39.63,155.87,402.22,1585.66
+country,602,LTU,Lithuania,Energy,rural,119.72,17.94,65.95,157.27,602.41
+country,603,LTU,Lithuania,Transport,rural,393.04,30.51,182.52,529.11,2360.88
+country,604,LTU,Lithuania,Water,rural,6.49,0.97,3.58,8.53,32.67
+country,605,LTU,Lithuania,Educationsector,rural,15.05,0.0,3.76,31.07,17.81
+country,606,LTU,Lithuania,Health,rural,173.56,12.63,92.55,250.32,684.92
+country,607,LTU,Lithuania,ICT,rural,185.87,31.66,125.29,247.66,560.63
+country,608,LTU,Lithuania,Financialservices,rural,21.46,2.88,9.43,28.51,139.36
+country,609,LTU,Lithuania,Othergoodsandservices,rural,455.24,67.38,204.88,636.63,2524.3
+country,610,LTU,Lithuania,Appliances.,rural,52.64,7.06,23.14,69.92,341.82
+country,611,MKD,"Macedonia, Republic of",Alsectors,rural,4772.0,967.93,2393.45,5445.79,14023.63
+country,612,MKD,"Macedonia, Republic of",Foodandbeverages,rural,2588.01,787.01,1623.92,3007.28,5306.38
+country,613,MKD,"Macedonia, Republic of",Clothingandfootwear,rural,385.24,16.36,115.24,451.09,1495.51
+country,614,MKD,"Macedonia, Republic of",Housing,rural,70.1,0.0,2.96,35.89,726.5
+country,615,MKD,"Macedonia, Republic of",Energy,rural,429.82,6.82,131.43,491.92,1743.79
+country,616,MKD,"Macedonia, Republic of",Transport,rural,303.29,16.99,85.73,385.28,972.42
+country,617,MKD,"Macedonia, Republic of",Water,rural,0.77,0.0,0.2,1.0,2.37
+country,618,MKD,"Macedonia, Republic of",Educationsector,rural,5.08,0.0,0.36,9.06,2.38
+country,619,MKD,"Macedonia, Republic of",Health,rural,157.06,3.62,76.39,187.18,423.48
+country,620,MKD,"Macedonia, Republic of",ICT,rural,256.83,3.58,56.65,250.37,1496.74
+country,621,MKD,"Macedonia, Republic of",Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,622,MKD,"Macedonia, Republic of",Othergoodsandservices,rural,483.14,104.35,248.52,513.72,1671.93
+country,623,MKD,"Macedonia, Republic of",Appliances.,rural,92.65,29.21,52.08,112.99,182.13
+country,624,MDG,Madagascar,Alsectors,rural,210.4,205.53,1526.09,4013.81,14767.79
+country,625,MDG,Madagascar,Foodandbeverages,rural,143.55,140.34,746.95,3927.28,14675.91
+country,626,MDG,Madagascar,Clothingandfootwear,rural,10.12,10.03,49.87,3.13,4.6
+country,627,MDG,Madagascar,Housing,rural,20.65,20.31,167.4,47.7,25.95
+country,628,MDG,Madagascar,Energy,rural,3.49,3.32,74.3,16.07,12.97
+country,629,MDG,Madagascar,Transport,rural,11.02,10.74,134.23,5.85,4.24
+country,630,MDG,Madagascar,Water,rural,1.01,0.63,163.89,0.0,1.95
+country,631,MDG,Madagascar,Educationsector,rural,2.97,2.95,10.57,0.0,0.0
+country,632,MDG,Madagascar,Health,rural,1.72,1.71,6.4,1.79,0.27
+country,633,MDG,Madagascar,ICT,rural,0.92,0.85,29.41,1.38,0.42
+country,634,MDG,Madagascar,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,635,MDG,Madagascar,Othergoodsandservices,rural,14.55,14.27,134.06,10.61,41.08
+country,636,MDG,Madagascar,Appliances.,rural,0.39,0.37,9.01,0.0,0.41
+country,637,MWI,Malawi,Alsectors,rural,489.46,434.84,1631.53,4071.02,12501.61
+country,638,MWI,Malawi,Foodandbeverages,rural,345.66,314.07,1020.22,1876.81,12318.98
+country,639,MWI,Malawi,Clothingandfootwear,rural,13.49,11.37,60.48,87.35,0.0
+country,640,MWI,Malawi,Housing,rural,48.33,43.57,148.61,356.71,124.67
+country,641,MWI,Malawi,Energy,rural,9.66,7.49,54.23,186.61,0.0
+country,642,MWI,Malawi,Transport,rural,15.72,10.14,117.67,853.35,3.15
+country,643,MWI,Malawi,Water,rural,0.77,0.61,3.55,22.97,0.0
+country,644,MWI,Malawi,Educationsector,rural,4.04,3.97,5.68,5.71,2.74
+country,645,MWI,Malawi,Health,rural,6.17,5.75,15.47,23.08,0.0
+country,646,MWI,Malawi,ICT,rural,13.88,10.73,80.53,212.65,12.09
+country,647,MWI,Malawi,Financialservices,rural,0.07,0.0,0.99,15.58,0.0
+country,648,MWI,Malawi,Othergoodsandservices,rural,18.97,15.49,88.53,356.8,25.82
+country,649,MWI,Malawi,Appliances.,rural,12.71,11.64,35.57,73.39,14.17
+country,650,MDV,Maldives,Alsectors,rural,1512.57,792.31,1856.03,5104.7,
+country,651,MDV,Maldives,Foodandbeverages,rural,448.07,306.02,538.86,908.61,
+country,652,MDV,Maldives,Clothingandfootwear,rural,60.73,36.07,71.67,192.43,
+country,653,MDV,Maldives,Housing,rural,144.14,60.24,178.91,618.78,
+country,654,MDV,Maldives,Energy,rural,121.74,88.67,146.48,190.12,
+country,655,MDV,Maldives,Transport,rural,114.18,34.28,160.92,419.78,
+country,656,MDV,Maldives,Water,rural,5.5,4.03,7.22,1.9,
+country,657,MDV,Maldives,Educationsector,rural,34.71,17.24,48.53,62.85,
+country,658,MDV,Maldives,Health,rural,132.47,44.37,179.28,520.28,
+country,659,MDV,Maldives,ICT,rural,110.9,50.3,147.24,333.1,
+country,660,MDV,Maldives,Financialservices,rural,0.2,0.01,0.41,0.0,
+country,661,MDV,Maldives,Othergoodsandservices,rural,259.13,101.47,277.98,1651.37,
+country,662,MDV,Maldives,Appliances.,rural,80.79,49.62,98.52,205.48,
+country,663,MLI,Mali,Alsectors,rural,427.28,411.84,1607.4,,
+country,664,MLI,Mali,Foodandbeverages,rural,259.75,254.93,627.76,,
+country,665,MLI,Mali,Clothingandfootwear,rural,25.97,24.86,110.79,,
+country,666,MLI,Mali,Housing,rural,16.83,15.24,138.85,,
+country,667,MLI,Mali,Energy,rural,22.18,21.67,61.02,,
+country,668,MLI,Mali,Transport,rural,47.26,45.31,196.04,,
+country,669,MLI,Mali,Water,rural,0.51,0.36,12.16,,
+country,670,MLI,Mali,Educationsector,rural,1.25,1.19,5.79,,
+country,671,MLI,Mali,Health,rural,8.88,8.45,41.45,,
+country,672,MLI,Mali,ICT,rural,10.55,8.58,161.58,,
+country,673,MLI,Mali,Financialservices,rural,0.15,0.08,5.14,,
+country,674,MLI,Mali,Othergoodsandservices,rural,30.03,27.46,226.06,,
+country,675,MLI,Mali,Appliances.,rural,3.92,3.7,20.77,,
+country,676,MRT,Mauritania,Alsectors,rural,1051.86,714.11,1760.93,4513.57,11297.71
+country,677,MRT,Mauritania,Foodandbeverages,rural,712.65,513.22,1163.35,2071.71,2761.66
+country,678,MRT,Mauritania,Clothingandfootwear,rural,95.91,72.71,146.47,296.31,355.29
+country,679,MRT,Mauritania,Housing,rural,71.0,47.23,114.69,449.97,1357.95
+country,680,MRT,Mauritania,Energy,rural,10.25,5.37,21.17,45.17,134.75
+country,681,MRT,Mauritania,Transport,rural,34.74,15.1,69.05,344.23,4911.67
+country,682,MRT,Mauritania,Water,rural,9.86,3.88,21.96,82.45,143.64
+country,683,MRT,Mauritania,Educationsector,rural,4.67,3.48,7.33,13.54,0.0
+country,684,MRT,Mauritania,Health,rural,53.09,21.91,105.5,678.23,440.33
+country,685,MRT,Mauritania,ICT,rural,5.84,2.07,12.12,81.88,147.16
+country,686,MRT,Mauritania,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,687,MRT,Mauritania,Othergoodsandservices,rural,52.13,28.3,95.91,436.1,1043.75
+country,688,MRT,Mauritania,Appliances.,rural,1.69,0.83,3.38,13.98,1.5
+country,689,MUS,Mauritius,Alsectors,rural,1941.18,829.36,2065.42,4843.96,14210.91
+country,690,MUS,Mauritius,Foodandbeverages,rural,932.83,503.83,1021.42,1929.68,3864.18
+country,691,MUS,Mauritius,Clothingandfootwear,rural,103.13,27.8,114.33,302.87,528.17
+country,692,MUS,Mauritius,Housing,rural,168.37,73.1,177.6,426.42,1158.81
+country,693,MUS,Mauritius,Energy,rural,34.24,16.12,35.35,85.06,257.48
+country,694,MUS,Mauritius,Transport,rural,170.81,42.71,159.67,498.64,4776.59
+country,695,MUS,Mauritius,Water,rural,8.32,3.92,8.59,20.67,62.56
+country,696,MUS,Mauritius,Educationsector,rural,31.42,7.19,25.92,125.78,509.82
+country,697,MUS,Mauritius,Health,rural,21.26,1.34,20.77,93.44,66.38
+country,698,MUS,Mauritius,ICT,rural,114.64,43.34,119.46,321.84,757.47
+country,699,MUS,Mauritius,Financialservices,rural,32.9,10.14,33.94,97.63,331.67
+country,700,MUS,Mauritius,Othergoodsandservices,rural,291.03,89.94,315.12,846.27,1572.8
+country,701,MUS,Mauritius,Appliances.,rural,32.23,9.94,33.25,95.66,324.99
+country,702,MEX,Mexico,Alsectors,rural,1404.16,717.18,1902.58,4740.28,13614.03
+country,703,MEX,Mexico,Foodandbeverages,rural,398.86,244.93,560.34,928.45,1259.34
+country,704,MEX,Mexico,Clothingandfootwear,rural,101.0,55.18,138.89,303.78,733.06
+country,705,MEX,Mexico,Housing,rural,319.13,185.84,425.57,914.0,2434.26
+country,706,MEX,Mexico,Energy,rural,76.78,42.86,109.35,202.32,431.86
+country,707,MEX,Mexico,Transport,rural,151.24,40.35,192.14,772.13,4662.36
+country,708,MEX,Mexico,Water,rural,9.78,5.48,13.49,30.13,40.69
+country,709,MEX,Mexico,Educationsector,rural,86.24,37.87,124.85,357.08,218.54
+country,710,MEX,Mexico,Health,rural,40.39,14.57,49.63,236.12,522.59
+country,711,MEX,Mexico,ICT,rural,49.06,15.37,68.99,241.92,708.13
+country,712,MEX,Mexico,Financialservices,rural,1.55,0.0,0.9,12.02,150.87
+country,713,MEX,Mexico,Othergoodsandservices,rural,74.84,16.89,88.9,503.52,1871.75
+country,714,MEX,Mexico,Appliances.,rural,95.3,57.84,129.55,238.82,580.58
+country,715,MDA,Moldova,Alsectors,rural,2169.23,731.28,2052.92,5060.83,12410.93
+country,716,MDA,Moldova,Foodandbeverages,rural,792.26,383.9,891.33,1385.87,2029.82
+country,717,MDA,Moldova,Clothingandfootwear,rural,301.25,73.7,292.66,753.47,1671.35
+country,718,MDA,Moldova,Housing,rural,180.87,11.18,73.58,602.37,3462.35
+country,719,MDA,Moldova,Energy,rural,21.5,12.68,24.06,36.08,15.88
+country,720,MDA,Moldova,Transport,rural,185.71,32.87,155.91,559.79,1091.73
+country,721,MDA,Moldova,Water,rural,0.0,0.0,0.0,0.0,0.0
+country,722,MDA,Moldova,Educationsector,rural,13.03,1.98,3.99,40.35,293.0
+country,723,MDA,Moldova,Health,rural,281.33,69.22,256.27,769.8,1361.1
+country,724,MDA,Moldova,ICT,rural,14.96,0.43,3.16,34.75,557.53
+country,725,MDA,Moldova,Financialservices,rural,3.09,0.21,2.52,11.16,9.32
+country,726,MDA,Moldova,Othergoodsandservices,rural,287.46,104.04,256.56,700.56,1614.88
+country,727,MDA,Moldova,Appliances.,rural,87.75,41.07,92.87,166.64,303.96
+country,728,MNG,Mongolia,Alsectors,rural,1092.97,744.01,1747.86,4969.28,12708.21
+country,729,MNG,Mongolia,Foodandbeverages,rural,573.93,465.97,841.74,970.84,1118.17
+country,730,MNG,Mongolia,Clothingandfootwear,rural,148.41,113.98,226.69,387.85,393.62
+country,731,MNG,Mongolia,Housing,rural,15.61,4.91,34.25,173.62,219.0
+country,732,MNG,Mongolia,Energy,rural,24.57,17.25,40.92,79.23,87.27
+country,733,MNG,Mongolia,Transport,rural,170.87,42.35,311.6,2736.72,10170.62
+country,734,MNG,Mongolia,Water,rural,3.0,1.83,5.68,10.56,11.81
+country,735,MNG,Mongolia,Educationsector,rural,16.76,9.87,34.2,40.75,3.48
+country,736,MNG,Mongolia,Health,rural,13.63,8.62,25.67,35.83,64.94
+country,737,MNG,Mongolia,ICT,rural,26.93,12.43,55.9,180.8,276.98
+country,738,MNG,Mongolia,Financialservices,rural,4.38,3.31,6.6,14.39,21.99
+country,739,MNG,Mongolia,Othergoodsandservices,rural,70.73,45.59,126.34,271.68,250.78
+country,740,MNG,Mongolia,Appliances.,rural,24.15,17.9,38.27,67.03,89.55
+country,741,MNE,Montenegro,Alsectors,rural,4129.76,1130.82,2587.72,5230.77,11631.4
+country,742,MNE,Montenegro,Foodandbeverages,rural,1664.39,613.49,1205.93,2081.67,2560.83
+country,743,MNE,Montenegro,Clothingandfootwear,rural,229.3,86.83,147.65,297.85,432.44
+country,744,MNE,Montenegro,Housing,rural,612.17,106.04,329.93,755.24,2925.99
+country,745,MNE,Montenegro,Energy,rural,491.13,148.42,326.81,628.44,979.31
+country,746,MNE,Montenegro,Transport,rural,363.91,21.86,177.9,442.22,2170.57
+country,747,MNE,Montenegro,Water,rural,11.56,0.0,2.68,18.64,35.16
+country,748,MNE,Montenegro,Educationsector,rural,37.22,9.92,1.42,72.19,0.0
+country,749,MNE,Montenegro,Health,rural,112.18,17.94,38.59,166.34,383.25
+country,750,MNE,Montenegro,ICT,rural,176.24,36.74,97.72,224.93,667.55
+country,751,MNE,Montenegro,Financialservices,rural,2.19,0.0,0.0,3.65,12.12
+country,752,MNE,Montenegro,Othergoodsandservices,rural,369.49,67.74,212.93,469.61,1325.98
+country,753,MNE,Montenegro,Appliances.,rural,59.97,21.84,46.16,70.0,138.2
+country,754,MAR,Morocco,Alsectors,rural,1428.35,854.83,1811.17,4441.73,11764.19
+country,755,MAR,Morocco,Foodandbeverages,rural,764.95,487.11,970.33,2000.25,2513.61
+country,756,MAR,Morocco,Clothingandfootwear,rural,64.76,31.98,87.4,228.64,523.88
+country,757,MAR,Morocco,Housing,rural,203.74,126.16,254.76,633.67,1028.27
+country,758,MAR,Morocco,Energy,rural,103.56,75.46,124.2,230.44,278.28
+country,759,MAR,Morocco,Transport,rural,71.14,29.43,85.17,418.73,4477.38
+country,760,MAR,Morocco,Water,rural,6.14,3.59,7.34,25.76,109.37
+country,761,MAR,Morocco,Educationsector,rural,11.39,9.73,12.51,20.64,9.64
+country,762,MAR,Morocco,Health,rural,60.87,25.06,83.89,266.57,452.95
+country,763,MAR,Morocco,ICT,rural,18.45,6.14,24.34,112.44,466.44
+country,764,MAR,Morocco,Financialservices,rural,6.8,1.16,8.07,67.98,347.23
+country,765,MAR,Morocco,Othergoodsandservices,rural,105.18,52.56,138.59,397.58,1500.34
+country,766,MAR,Morocco,Appliances.,rural,11.37,6.47,14.57,39.03,56.8
+country,767,MOZ,Mozambique,Alsectors,rural,453.19,395.34,1583.9,4830.44,45754.89
+country,768,MOZ,Mozambique,Foodandbeverages,rural,285.64,272.85,817.49,869.55,649.2
+country,769,MOZ,Mozambique,Clothingandfootwear,rural,29.53,25.43,187.88,434.51,178.12
+country,770,MOZ,Mozambique,Housing,rural,30.09,27.82,106.98,456.6,121.77
+country,771,MOZ,Mozambique,Energy,rural,35.52,34.42,82.45,91.14,16.94
+country,772,MOZ,Mozambique,Transport,rural,17.78,11.26,157.34,1465.09,2868.46
+country,773,MOZ,Mozambique,Water,rural,0.38,0.34,2.0,8.5,0.18
+country,774,MOZ,Mozambique,Educationsector,rural,0.34,0.33,0.59,0.91,3.3
+country,775,MOZ,Mozambique,Health,rural,1.9,1.7,2.06,6.88,313.52
+country,776,MOZ,Mozambique,ICT,rural,6.06,3.57,56.77,599.37,1100.6
+country,777,MOZ,Mozambique,Financialservices,rural,22.82,0.0,0.0,2.1,38488.77
+country,778,MOZ,Mozambique,Othergoodsandservices,rural,19.94,14.82,155.28,847.42,1895.94
+country,779,MOZ,Mozambique,Appliances.,rural,3.19,2.8,15.04,48.38,118.11
+country,780,NAM,Namibia,Alsectors,rural,858.58,501.07,1819.16,4910.99,18785.71
+country,781,NAM,Namibia,Foodandbeverages,rural,334.42,263.02,666.32,1057.67,1687.15
+country,782,NAM,Namibia,Clothingandfootwear,rural,45.76,30.45,106.56,259.02,331.47
+country,783,NAM,Namibia,Housing,rural,132.52,86.88,277.98,639.64,2045.67
+country,784,NAM,Namibia,Energy,rural,27.42,18.6,57.08,125.49,368.52
+country,785,NAM,Namibia,Transport,rural,96.2,19.76,216.67,1125.38,4917.75
+country,786,NAM,Namibia,Water,rural,13.44,9.12,27.97,61.5,180.61
+country,787,NAM,Namibia,Educationsector,rural,17.76,6.99,40.65,129.02,702.25
+country,788,NAM,Namibia,Health,rural,10.19,4.42,20.43,90.06,346.42
+country,789,NAM,Namibia,ICT,rural,26.85,11.6,66.47,202.78,804.89
+country,790,NAM,Namibia,Financialservices,rural,30.25,7.59,68.45,264.32,1648.22
+country,791,NAM,Namibia,Othergoodsandservices,rural,105.59,38.08,229.43,797.24,4761.99
+country,792,NAM,Namibia,Appliances.,rural,18.19,4.56,41.14,158.89,990.76
+country,793,NPL,Nepal,Alsectors,rural,856.36,673.45,1672.26,4535.66,19756.68
+country,794,NPL,Nepal,Foodandbeverages,rural,472.17,410.45,783.46,1024.46,1153.58
+country,795,NPL,Nepal,Clothingandfootwear,rural,50.95,43.56,87.08,147.67,164.29
+country,796,NPL,Nepal,Housing,rural,15.29,8.78,45.0,157.05,177.24
+country,797,NPL,Nepal,Energy,rural,40.56,34.52,71.29,86.28,97.96
+country,798,NPL,Nepal,Transport,rural,58.63,19.15,156.89,2292.4,17359.58
+country,799,NPL,Nepal,Water,rural,4.61,4.14,7.11,2.69,65.17
+country,800,NPL,Nepal,Educationsector,rural,17.98,11.57,50.05,86.65,34.59
+country,801,NPL,Nepal,Health,rural,83.56,61.27,198.68,219.95,100.99
+country,802,NPL,Nepal,ICT,rural,41.68,26.98,113.3,243.67,241.45
+country,803,NPL,Nepal,Financialservices,rural,4.2,2.01,14.2,52.06,54.31
+country,804,NPL,Nepal,Othergoodsandservices,rural,58.66,44.25,130.56,204.64,291.34
+country,805,NPL,Nepal,Appliances.,rural,8.07,6.78,14.62,18.16,16.16
+country,806,NIC,Nicaragua,Alsectors,rural,302.97,289.66,1407.19,4001.08,
+country,807,NIC,Nicaragua,Foodandbeverages,rural,178.98,175.25,515.1,718.11,
+country,808,NIC,Nicaragua,Clothingandfootwear,rural,11.02,10.38,66.45,145.45,
+country,809,NIC,Nicaragua,Housing,rural,8.83,7.62,109.88,330.75,
+country,810,NIC,Nicaragua,Energy,rural,8.53,8.19,37.56,87.47,
+country,811,NIC,Nicaragua,Transport,rural,28.19,24.82,279.81,1493.68,
+country,812,NIC,Nicaragua,Water,rural,1.5,1.39,4.32,158.8,
+country,813,NIC,Nicaragua,Educationsector,rural,5.18,4.92,26.16,87.43,
+country,814,NIC,Nicaragua,Health,rural,23.16,22.4,98.4,9.19,
+country,815,NIC,Nicaragua,ICT,rural,6.55,5.72,72.89,289.51,
+country,816,NIC,Nicaragua,Financialservices,rural,0.06,0.03,2.8,9.91,
+country,817,NIC,Nicaragua,Othergoodsandservices,rural,19.26,17.7,139.92,618.41,
+country,818,NIC,Nicaragua,Appliances.,rural,11.7,11.25,53.91,52.37,
+country,819,NER,Niger,Alsectors,rural,459.28,436.05,1539.47,4903.16,
+country,820,NER,Niger,Foodandbeverages,rural,286.03,274.75,736.59,4731.85,
+country,821,NER,Niger,Clothingandfootwear,rural,43.15,41.13,149.27,43.02,
+country,822,NER,Niger,Housing,rural,31.64,30.0,117.68,30.27,
+country,823,NER,Niger,Energy,rural,9.04,8.56,33.69,19.12,
+country,824,NER,Niger,Transport,rural,20.8,17.7,184.52,0.0,
+country,825,NER,Niger,Water,rural,4.1,2.94,65.39,0.0,
+country,826,NER,Niger,Educationsector,rural,0.46,0.46,0.8,0.0,
+country,827,NER,Niger,Health,rural,9.41,9.03,29.93,2.12,
+country,828,NER,Niger,ICT,rural,5.65,4.85,48.18,2.16,
+country,829,NER,Niger,Financialservices,rural,0.06,0.05,0.08,0.0,
+country,830,NER,Niger,Othergoodsandservices,rural,42.47,40.37,152.75,57.61,
+country,831,NER,Niger,Appliances.,rural,6.48,6.2,20.59,16.99,
+country,832,NGA,Nigeria,Alsectors,rural,493.26,420.24,1661.53,4114.26,
+country,833,NGA,Nigeria,Foodandbeverages,rural,297.17,264.72,823.73,1401.91,
+country,834,NGA,Nigeria,Clothingandfootwear,rural,16.24,13.92,53.47,118.69,
+country,835,NGA,Nigeria,Housing,rural,54.73,48.85,149.07,332.28,
+country,836,NGA,Nigeria,Energy,rural,4.6,4.05,13.28,37.45,
+country,837,NGA,Nigeria,Transport,rural,25.01,19.56,111.17,362.58,
+country,838,NGA,Nigeria,Water,rural,1.04,0.88,3.59,6.22,
+country,839,NGA,Nigeria,Educationsector,rural,5.62,5.05,15.07,5.51,
+country,840,NGA,Nigeria,Health,rural,70.78,48.02,428.18,1675.06,
+country,841,NGA,Nigeria,ICT,rural,3.9,3.16,15.71,37.12,
+country,842,NGA,Nigeria,Financialservices,rural,0.38,0.3,1.59,1.96,
+country,843,NGA,Nigeria,Othergoodsandservices,rural,13.66,11.62,46.01,134.47,
+country,844,NGA,Nigeria,Appliances.,rural,0.15,0.12,0.65,1.02,
+country,845,PAK,Pakistan,Alsectors,rural,874.68,737.49,1588.29,4467.97,
+country,846,PAK,Pakistan,Foodandbeverages,rural,488.46,428.42,808.3,1243.0,
+country,847,PAK,Pakistan,Clothingandfootwear,rural,51.21,43.84,89.79,213.99,
+country,848,PAK,Pakistan,Housing,rural,78.67,62.43,162.65,555.37,
+country,849,PAK,Pakistan,Energy,rural,71.76,61.48,125.64,295.47,
+country,850,PAK,Pakistan,Transport,rural,57.7,38.61,151.33,1174.42,
+country,851,PAK,Pakistan,Water,rural,0.05,0.04,0.11,0.65,
+country,852,PAK,Pakistan,Educationsector,rural,9.27,6.33,25.18,15.15,
+country,853,PAK,Pakistan,Health,rural,23.22,20.59,37.08,69.52,
+country,854,PAK,Pakistan,ICT,rural,12.24,9.22,28.2,69.69,
+country,855,PAK,Pakistan,Financialservices,rural,0.55,0.31,1.83,3.2,
+country,856,PAK,Pakistan,Othergoodsandservices,rural,66.78,53.84,131.21,719.54,
+country,857,PAK,Pakistan,Appliances.,rural,14.77,12.37,26.97,107.98,
+country,858,PNG,Papua New Guinea,Alsectors,rural,2821.33,657.49,2237.16,5123.73,11523.96
+country,859,PNG,Papua New Guinea,Foodandbeverages,rural,2019.17,403.36,1578.2,3716.97,9049.4
+country,860,PNG,Papua New Guinea,Clothingandfootwear,rural,51.37,19.4,45.5,84.88,104.34
+country,861,PNG,Papua New Guinea,Housing,rural,201.66,88.86,177.09,322.38,461.78
+country,862,PNG,Papua New Guinea,Energy,rural,0.0,0.0,0.0,0.0,0.0
+country,863,PNG,Papua New Guinea,Transport,rural,50.18,16.18,39.13,91.82,146.44
+country,864,PNG,Papua New Guinea,Water,rural,0.0,0.0,0.0,0.0,0.0
+country,865,PNG,Papua New Guinea,Educationsector,rural,43.7,23.37,41.82,60.69,97.75
+country,866,PNG,Papua New Guinea,Health,rural,111.83,18.52,68.87,233.82,626.44
+country,867,PNG,Papua New Guinea,ICT,rural,15.22,4.24,12.04,27.61,53.4
+country,868,PNG,Papua New Guinea,Financialservices,rural,1.72,0.0,0.69,4.43,10.06
+country,869,PNG,Papua New Guinea,Othergoodsandservices,rural,312.85,78.0,260.92,560.38,946.45
+country,870,PNG,Papua New Guinea,Appliances.,rural,13.64,5.56,12.91,20.75,27.91
+country,871,PRY,Paraguay,Alsectors,rural,1568.09,717.6,1961.51,4702.88,12378.42
+country,872,PRY,Paraguay,Foodandbeverages,rural,750.18,384.22,960.37,1950.08,2877.14
+country,873,PRY,Paraguay,Clothingandfootwear,rural,59.99,31.4,71.79,172.81,373.9
+country,874,PRY,Paraguay,Housing,rural,262.97,140.68,341.11,621.18,1321.81
+country,875,PRY,Paraguay,Energy,rural,57.94,15.72,83.94,184.27,532.12
+country,876,PRY,Paraguay,Transport,rural,128.52,26.37,151.74,576.09,3890.69
+country,877,PRY,Paraguay,Water,rural,2.23,0.71,2.8,8.34,27.69
+country,878,PRY,Paraguay,Educationsector,rural,2.72,1.21,3.85,6.42,9.85
+country,879,PRY,Paraguay,Health,rural,156.66,55.71,163.57,711.8,1623.27
+country,880,PRY,Paraguay,ICT,rural,10.28,1.95,10.69,55.5,214.69
+country,881,PRY,Paraguay,Financialservices,rural,1.99,0.05,2.14,9.91,191.66
+country,882,PRY,Paraguay,Othergoodsandservices,rural,99.92,42.87,122.06,323.64,1212.68
+country,883,PRY,Paraguay,Appliances.,rural,34.69,16.7,47.46,82.83,102.91
+country,884,PER,Peru,Alsectors,rural,1415.41,812.66,1858.33,4720.38,13173.6
+country,885,PER,Peru,Foodandbeverages,rural,689.17,469.17,909.27,1430.49,1776.36
+country,886,PER,Peru,Clothingandfootwear,rural,88.16,56.98,117.77,205.38,339.17
+country,887,PER,Peru,Housing,rural,141.84,77.92,190.68,509.3,639.37
+country,888,PER,Peru,Energy,rural,28.47,14.1,40.52,99.64,140.2
+country,889,PER,Peru,Transport,rural,171.29,45.98,181.44,1443.51,8473.8
+country,890,PER,Peru,Water,rural,2.01,0.54,3.27,9.0,12.11
+country,891,PER,Peru,Educationsector,rural,20.19,12.79,27.09,49.87,66.41
+country,892,PER,Peru,Health,rural,87.11,48.72,123.73,236.99,248.78
+country,893,PER,Peru,ICT,rural,65.12,20.78,96.93,329.91,658.04
+country,894,PER,Peru,Financialservices,rural,0.1,0.01,0.14,0.95,0.0
+country,895,PER,Peru,Othergoodsandservices,rural,89.3,49.93,119.54,299.52,686.46
+country,896,PER,Peru,Appliances.,rural,32.65,15.76,47.94,105.83,132.9
+country,897,PHL,Philippines,Alsectors,rural,816.56,610.1,1760.94,4316.97,
+country,898,PHL,Philippines,Foodandbeverages,rural,447.05,377.86,778.09,1175.67,
+country,899,PHL,Philippines,Clothingandfootwear,rural,21.16,14.91,50.49,103.69,
+country,900,PHL,Philippines,Housing,rural,92.56,58.04,246.9,786.67,
+country,901,PHL,Philippines,Energy,rural,57.32,42.11,128.16,275.07,
+country,902,PHL,Philippines,Transport,rural,54.87,28.22,167.57,788.16,
+country,903,PHL,Philippines,Water,rural,3.77,2.19,11.01,30.24,
+country,904,PHL,Philippines,Educationsector,rural,19.52,11.11,59.67,111.05,
+country,905,PHL,Philippines,Health,rural,13.36,8.96,34.28,63.53,
+country,906,PHL,Philippines,ICT,rural,16.85,8.15,55.74,191.88,
+country,907,PHL,Philippines,Financialservices,rural,13.29,4.63,51.76,194.29,
+country,908,PHL,Philippines,Othergoodsandservices,rural,50.4,33.71,121.89,481.7,
+country,909,PHL,Philippines,Appliances.,rural,26.41,20.19,55.38,115.02,
+country,910,ROU,Romania,Alsectors,rural,2831.27,971.12,2279.71,4639.19,13254.5
+country,911,ROU,Romania,Foodandbeverages,rural,1465.37,727.16,1328.19,2022.47,2958.9
+country,912,ROU,Romania,Clothingandfootwear,rural,157.54,26.45,114.75,292.03,1045.01
+country,913,ROU,Romania,Housing,rural,30.3,0.86,11.21,74.85,718.0
+country,914,ROU,Romania,Energy,rural,379.64,75.31,255.29,772.37,1908.23
+country,915,ROU,Romania,Transport,rural,150.75,9.75,99.4,269.07,2847.6
+country,916,ROU,Romania,Water,rural,0.0,0.0,0.0,0.0,0.0
+country,917,ROU,Romania,Educationsector,rural,10.78,0.05,4.34,26.97,202.89
+country,918,ROU,Romania,Health,rural,103.78,14.54,61.63,225.05,952.34
+country,919,ROU,Romania,ICT,rural,117.08,22.67,91.43,206.36,479.51
+country,920,ROU,Romania,Financialservices,rural,5.69,0.0,1.75,13.25,211.97
+country,921,ROU,Romania,Othergoodsandservices,rural,360.9,82.26,271.18,655.45,1732.87
+country,922,ROU,Romania,Appliances.,rural,49.46,12.08,40.55,81.31,197.18
+country,923,RUS,Russian Federation,Alsectors,rural,4480.66,1006.56,2371.45,5354.79,16543.59
+country,924,RUS,Russian Federation,Foodandbeverages,rural,2113.75,715.4,1415.22,2595.77,4742.98
+country,925,RUS,Russian Federation,Clothingandfootwear,rural,423.72,65.02,221.32,563.39,1157.52
+country,926,RUS,Russian Federation,Housing,rural,325.8,55.7,155.3,404.2,1233.56
+country,927,RUS,Russian Federation,Energy,rural,147.59,25.15,67.1,159.51,770.48
+country,928,RUS,Russian Federation,Transport,rural,488.08,45.05,156.49,473.12,3521.48
+country,929,RUS,Russian Federation,Water,rural,8.96,2.48,5.97,11.44,17.17
+country,930,RUS,Russian Federation,Educationsector,rural,67.35,5.39,29.15,101.76,139.09
+country,931,RUS,Russian Federation,Health,rural,120.84,7.87,33.09,127.34,838.67
+country,932,RUS,Russian Federation,ICT,rural,224.78,32.77,98.92,252.71,1126.01
+country,933,RUS,Russian Federation,Financialservices,rural,41.13,2.6,13.94,50.52,207.67
+country,934,RUS,Russian Federation,Othergoodsandservices,rural,458.0,44.31,158.4,559.7,2300.08
+country,935,RUS,Russian Federation,Appliances.,rural,60.68,4.8,16.54,55.35,488.87
+country,936,RWA,Rwanda,Alsectors,rural,293.79,273.95,1711.41,3939.78,
+country,937,RWA,Rwanda,Foodandbeverages,rural,124.84,121.81,342.09,506.07,
+country,938,RWA,Rwanda,Clothingandfootwear,rural,29.09,27.85,118.44,109.16,
+country,939,RWA,Rwanda,Housing,rural,54.71,50.32,359.25,2537.29,
+country,940,RWA,Rwanda,Energy,rural,11.64,11.15,46.83,50.91,
+country,941,RWA,Rwanda,Transport,rural,18.07,14.49,276.56,156.05,
+country,942,RWA,Rwanda,Water,rural,0.08,0.01,5.53,0.0,
+country,943,RWA,Rwanda,Educationsector,rural,6.84,6.22,52.0,0.0,
+country,944,RWA,Rwanda,Health,rural,5.18,5.02,16.65,6.48,
+country,945,RWA,Rwanda,ICT,rural,4.09,2.42,123.84,174.58,
+country,946,RWA,Rwanda,Financialservices,rural,0.23,0.19,3.22,0.0,
+country,947,RWA,Rwanda,Othergoodsandservices,rural,28.52,24.6,310.7,322.43,
+country,948,RWA,Rwanda,Appliances.,rural,10.5,9.86,56.3,76.8,
+country,949,STP,Sao Tome and Principe,Alsectors,rural,3044.0,850.67,2217.52,5072.8,11681.82
+country,950,STP,Sao Tome and Principe,Foodandbeverages,rural,2225.06,670.79,1733.63,3563.7,6533.86
+country,951,STP,Sao Tome and Principe,Clothingandfootwear,rural,126.62,27.73,83.39,228.89,553.12
+country,952,STP,Sao Tome and Principe,Housing,rural,9.48,1.57,4.52,19.22,72.67
+country,953,STP,Sao Tome and Principe,Energy,rural,155.13,34.45,100.99,295.26,463.21
+country,954,STP,Sao Tome and Principe,Transport,rural,202.88,18.74,98.27,380.62,2114.27
+country,955,STP,Sao Tome and Principe,Water,rural,3.87,0.0,1.8,8.46,24.69
+country,956,STP,Sao Tome and Principe,Educationsector,rural,11.8,3.48,8.96,20.07,23.78
+country,957,STP,Sao Tome and Principe,Health,rural,85.88,40.44,60.62,149.34,200.03
+country,958,STP,Sao Tome and Principe,ICT,rural,0.0,0.0,0.0,0.0,0.0
+country,959,STP,Sao Tome and Principe,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,960,STP,Sao Tome and Principe,Othergoodsandservices,rural,174.94,33.8,85.73,336.71,1537.92
+country,961,STP,Sao Tome and Principe,Appliances.,rural,48.34,19.66,39.62,70.53,158.28
+country,962,SEN,Senegal,Alsectors,rural,591.73,537.36,1520.7,3812.78,
+country,963,SEN,Senegal,Foodandbeverages,rural,386.18,355.16,916.88,667.12,
+country,964,SEN,Senegal,Clothingandfootwear,rural,36.99,33.23,101.3,96.31,
+country,965,SEN,Senegal,Housing,rural,60.25,53.03,182.99,2042.55,
+country,966,SEN,Senegal,Energy,rural,17.94,15.61,57.73,144.24,
+country,967,SEN,Senegal,Transport,rural,15.94,13.61,55.87,0.0,
+country,968,SEN,Senegal,Water,rural,4.93,4.53,11.68,0.51,
+country,969,SEN,Senegal,Educationsector,rural,0.28,0.27,0.42,8.42,
+country,970,SEN,Senegal,Health,rural,13.0,11.71,35.09,182.1,
+country,971,SEN,Senegal,ICT,rural,7.11,6.02,25.66,31.9,
+country,972,SEN,Senegal,Financialservices,rural,0.0,0.0,0.0,0.0,
+country,973,SEN,Senegal,Othergoodsandservices,rural,37.34,33.8,97.65,552.22,
+country,974,SEN,Senegal,Appliances.,rural,11.77,10.38,35.43,87.41,
+country,975,SRB,Serbia,Alsectors,rural,4098.32,999.51,2542.04,5073.45,15734.94
+country,976,SRB,Serbia,Foodandbeverages,rural,2058.94,655.87,1470.94,2552.36,4352.83
+country,977,SRB,Serbia,Clothingandfootwear,rural,194.06,44.48,103.74,264.28,598.0
+country,978,SRB,Serbia,Housing,rural,56.38,0.0,17.05,76.31,419.49
+country,979,SRB,Serbia,Energy,rural,237.5,71.05,178.35,289.27,448.78
+country,980,SRB,Serbia,Transport,rural,549.52,19.78,176.3,577.93,6924.43
+country,981,SRB,Serbia,Water,rural,18.28,3.29,12.12,23.13,48.41
+country,982,SRB,Serbia,Educationsector,rural,64.16,5.2,22.05,91.98,333.74
+country,983,SRB,Serbia,Health,rural,159.37,17.73,98.67,207.01,453.66
+country,984,SRB,Serbia,ICT,rural,134.24,8.75,75.55,181.07,396.1
+country,985,SRB,Serbia,Financialservices,rural,31.02,0.0,8.61,48.75,120.97
+country,986,SRB,Serbia,Othergoodsandservices,rural,466.56,134.99,282.59,607.12,1354.2
+country,987,SRB,Serbia,Appliances.,rural,128.3,38.36,96.08,154.23,284.32
+country,988,SLE,Sierra Leone,Alsectors,rural,1010.14,740.44,1720.18,4005.38,
+country,989,SLE,Sierra Leone,Foodandbeverages,rural,656.46,487.72,1109.53,1922.07,
+country,990,SLE,Sierra Leone,Clothingandfootwear,rural,81.98,60.07,138.28,421.54,
+country,991,SLE,Sierra Leone,Housing,rural,52.97,41.0,83.51,254.76,
+country,992,SLE,Sierra Leone,Energy,rural,33.79,24.91,53.91,356.6,
+country,993,SLE,Sierra Leone,Transport,rural,21.92,11.12,50.53,128.79,
+country,994,SLE,Sierra Leone,Water,rural,0.31,0.11,0.87,0.38,
+country,995,SLE,Sierra Leone,Educationsector,rural,8.58,6.59,13.9,24.04,
+country,996,SLE,Sierra Leone,Health,rural,61.03,43.45,108.18,195.77,
+country,997,SLE,Sierra Leone,ICT,rural,3.42,1.22,7.33,158.02,
+country,998,SLE,Sierra Leone,Financialservices,rural,0.24,0.1,0.63,0.08,
+country,999,SLE,Sierra Leone,Othergoodsandservices,rural,75.48,54.2,129.19,470.61,
+country,1000,SLE,Sierra Leone,Appliances.,rural,13.96,9.94,24.33,72.71,
+country,1001,ZAF,South Africa,Alsectors,rural,1597.76,695.14,1907.35,5053.05,18866.94
+country,1002,ZAF,South Africa,Foodandbeverages,rural,432.05,278.94,602.56,921.12,1363.73
+country,1003,ZAF,South Africa,Clothingandfootwear,rural,104.42,65.98,137.08,267.52,382.38
+country,1004,ZAF,South Africa,Housing,rural,310.15,114.6,402.0,1090.47,3423.17
+country,1005,ZAF,South Africa,Energy,rural,64.91,36.0,79.85,171.44,533.07
+country,1006,ZAF,South Africa,Transport,rural,265.91,64.64,251.97,937.97,6188.75
+country,1007,ZAF,South Africa,Water,rural,8.05,2.65,6.73,18.13,217.5
+country,1008,ZAF,South Africa,Educationsector,rural,23.4,4.57,30.19,106.88,331.32
+country,1009,ZAF,South Africa,Health,rural,16.6,10.03,20.94,48.53,72.78
+country,1010,ZAF,South Africa,ICT,rural,57.26,23.42,67.92,184.07,735.18
+country,1011,ZAF,South Africa,Financialservices,rural,144.0,26.07,101.24,728.31,3551.53
+country,1012,ZAF,South Africa,Othergoodsandservices,rural,146.77,56.08,170.33,514.72,1951.24
+country,1013,ZAF,South Africa,Appliances.,rural,24.24,12.17,36.53,63.89,116.31
+country,1014,LKA,Sri Lanka,Alsectors,rural,1681.28,909.86,1885.79,4617.61,13737.63
+country,1015,LKA,Sri Lanka,Foodandbeverages,rural,841.68,574.27,948.58,1524.16,1681.3
+country,1016,LKA,Sri Lanka,Clothingandfootwear,rural,57.94,29.97,66.31,159.2,191.14
+country,1017,LKA,Sri Lanka,Housing,rural,341.57,121.95,384.13,1370.73,2483.34
+country,1018,LKA,Sri Lanka,Energy,rural,69.92,46.04,77.67,149.45,196.67
+country,1019,LKA,Sri Lanka,Transport,rural,130.5,32.84,136.11,616.46,7854.51
+country,1020,LKA,Sri Lanka,Water,rural,3.63,1.47,4.27,11.6,9.59
+country,1021,LKA,Sri Lanka,Educationsector,rural,32.19,10.1,37.22,130.35,76.56
+country,1022,LKA,Sri Lanka,Health,rural,40.6,17.27,47.78,121.6,226.51
+country,1023,LKA,Sri Lanka,ICT,rural,42.56,14.42,49.8,154.79,326.14
+country,1024,LKA,Sri Lanka,Financialservices,rural,6.49,1.17,7.22,33.62,122.06
+country,1025,LKA,Sri Lanka,Othergoodsandservices,rural,95.86,48.43,105.89,309.41,528.58
+country,1026,LKA,Sri Lanka,Appliances.,rural,18.35,11.91,20.79,36.24,41.23
+country,1027,SWZ,Swaziland,Alsectors,rural,626.34,412.7,1852.89,4523.05,13824.95
+country,1028,SWZ,Swaziland,Foodandbeverages,rural,171.27,128.25,464.49,723.43,965.11
+country,1029,SWZ,Swaziland,Clothingandfootwear,rural,36.5,24.57,102.59,292.02,108.83
+country,1030,SWZ,Swaziland,Housing,rural,153.39,107.56,427.15,908.73,3354.05
+country,1031,SWZ,Swaziland,Energy,rural,31.94,17.54,120.4,277.83,324.42
+country,1032,SWZ,Swaziland,Transport,rural,73.99,40.27,234.47,806.7,4937.9
+country,1033,SWZ,Swaziland,Water,rural,4.03,2.46,15.04,21.89,42.26
+country,1034,SWZ,Swaziland,Educationsector,rural,42.55,29.91,118.08,278.59,100.15
+country,1035,SWZ,Swaziland,Health,rural,27.93,20.21,60.18,253.32,289.61
+country,1036,SWZ,Swaziland,ICT,rural,21.47,9.93,84.87,268.29,202.07
+country,1037,SWZ,Swaziland,Financialservices,rural,7.36,0.67,27.09,246.01,515.08
+country,1038,SWZ,Swaziland,Othergoodsandservices,rural,49.72,27.47,177.05,408.27,2892.93
+country,1039,SWZ,Swaziland,Appliances.,rural,6.19,3.87,21.47,37.98,92.53
+country,1040,TJK,Tajikistan,Alsectors,rural,2095.31,945.51,2050.15,4317.1,
+country,1041,TJK,Tajikistan,Foodandbeverages,rural,1251.62,623.57,1233.61,2423.48,
+country,1042,TJK,Tajikistan,Clothingandfootwear,rural,30.82,25.05,30.1,45.04,
+country,1043,TJK,Tajikistan,Housing,rural,35.88,6.91,27.95,134.45,
+country,1044,TJK,Tajikistan,Energy,rural,356.29,135.34,357.66,720.28,
+country,1045,TJK,Tajikistan,Transport,rural,146.28,38.98,131.47,420.03,
+country,1046,TJK,Tajikistan,Water,rural,5.77,3.54,6.09,7.51,
+country,1047,TJK,Tajikistan,Educationsector,rural,15.15,3.61,14.64,37.81,
+country,1048,TJK,Tajikistan,Health,rural,93.57,39.95,94.46,178.41,
+country,1049,TJK,Tajikistan,ICT,rural,25.68,12.13,25.72,48.23,
+country,1050,TJK,Tajikistan,Financialservices,rural,1.61,0.56,1.64,3.15,
+country,1051,TJK,Tajikistan,Othergoodsandservices,rural,110.97,43.76,105.48,258.7,
+country,1052,TJK,Tajikistan,Appliances.,rural,21.67,12.1,21.32,40.0,
+country,1053,TZA,Tanzania,Alsectors,rural,417.83,393.02,1608.69,3591.7,
+country,1054,TZA,Tanzania,Foodandbeverages,rural,307.2,294.9,896.01,1959.4,
+country,1055,TZA,Tanzania,Clothingandfootwear,rural,25.21,23.8,95.83,72.59,
+country,1056,TZA,Tanzania,Housing,rural,6.8,5.8,56.24,65.79,
+country,1057,TZA,Tanzania,Energy,rural,2.25,2.0,15.03,3.53,
+country,1058,TZA,Tanzania,Transport,rural,12.31,10.04,126.47,81.17,
+country,1059,TZA,Tanzania,Water,rural,0.11,0.1,0.46,0.0,
+country,1060,TZA,Tanzania,Educationsector,rural,3.85,3.16,39.23,0.0,
+country,1061,TZA,Tanzania,Health,rural,5.76,5.47,20.75,8.53,
+country,1062,TZA,Tanzania,ICT,rural,2.57,2.33,14.4,13.16,
+country,1063,TZA,Tanzania,Financialservices,rural,0.77,0.28,1.39,1068.59,
+country,1064,TZA,Tanzania,Othergoodsandservices,rural,45.13,39.66,317.47,307.05,
+country,1065,TZA,Tanzania,Appliances.,rural,5.87,5.49,25.41,11.91,
+country,1066,THA,Thailand,Alsectors,rural,2398.69,1003.28,2094.24,4716.01,13153.19
+country,1067,THA,Thailand,Foodandbeverages,rural,1067.49,563.4,1018.58,1674.48,2163.49
+country,1068,THA,Thailand,Clothingandfootwear,rural,70.12,21.2,55.5,174.05,381.24
+country,1069,THA,Thailand,Housing,rural,626.29,218.49,500.91,1390.68,7007.33
+country,1070,THA,Thailand,Energy,rural,88.99,40.04,80.24,164.59,328.26
+country,1071,THA,Thailand,Transport,rural,248.1,57.42,191.05,646.5,1681.32
+country,1072,THA,Thailand,Water,rural,20.23,11.81,18.74,33.16,61.31
+country,1073,THA,Thailand,Educationsector,rural,2.04,0.35,1.64,5.35,3.69
+country,1074,THA,Thailand,Health,rural,29.13,6.21,23.02,75.37,130.05
+country,1075,THA,Thailand,ICT,rural,76.13,20.54,61.83,182.89,405.11
+country,1076,THA,Thailand,Financialservices,rural,6.71,1.86,5.38,16.46,35.59
+country,1077,THA,Thailand,Othergoodsandservices,rural,101.27,34.22,82.46,231.03,725.24
+country,1078,THA,Thailand,Appliances.,rural,62.21,27.74,54.9,121.44,230.56
+country,1079,TLS,Timor-Leste,Alsectors,rural,664.32,575.29,1651.71,5645.29,
+country,1080,TLS,Timor-Leste,Foodandbeverages,rural,446.48,408.54,887.83,833.32,
+country,1081,TLS,Timor-Leste,Clothingandfootwear,rural,29.92,20.29,141.87,126.92,
+country,1082,TLS,Timor-Leste,Housing,rural,60.22,47.27,168.3,3781.49,
+country,1083,TLS,Timor-Leste,Energy,rural,16.36,13.46,48.84,155.02,
+country,1084,TLS,Timor-Leste,Transport,rural,34.46,21.6,182.26,321.9,
+country,1085,TLS,Timor-Leste,Water,rural,0.11,0.09,0.31,0.0,
+country,1086,TLS,Timor-Leste,Educationsector,rural,11.47,7.37,58.9,70.37,
+country,1087,TLS,Timor-Leste,Health,rural,0.06,0.07,0.0,0.0,
+country,1088,TLS,Timor-Leste,ICT,rural,21.69,17.89,66.35,17.34,
+country,1089,TLS,Timor-Leste,Financialservices,rural,0.0,0.0,0.0,0.0,
+country,1090,TLS,Timor-Leste,Othergoodsandservices,rural,43.56,38.71,97.04,338.93,
+country,1091,TLS,Timor-Leste,Appliances.,rural,0.0,0.0,0.0,0.0,
+country,1092,TGO,Togo,Alsectors,rural,425.75,406.1,1511.58,4604.37,
+country,1093,TGO,Togo,Foodandbeverages,rural,267.4,257.34,828.96,1308.62,
+country,1094,TGO,Togo,Clothingandfootwear,rural,22.55,21.92,57.88,64.96,
+country,1095,TGO,Togo,Housing,rural,34.02,31.7,159.9,969.9,
+country,1096,TGO,Togo,Energy,rural,15.38,14.5,65.02,59.15,
+country,1097,TGO,Togo,Transport,rural,16.82,15.21,98.57,1791.11,
+country,1098,TGO,Togo,Water,rural,2.49,2.33,11.55,24.15,
+country,1099,TGO,Togo,Educationsector,rural,4.9,4.86,7.55,0.0,
+country,1100,TGO,Togo,Health,rural,19.57,18.44,82.52,99.51,
+country,1101,TGO,Togo,ICT,rural,3.99,3.3,42.48,55.26,
+country,1102,TGO,Togo,Financialservices,rural,0.31,0.19,6.76,0.0,
+country,1103,TGO,Togo,Othergoodsandservices,rural,30.84,29.11,127.58,213.48,
+country,1104,TGO,Togo,Appliances.,rural,7.48,7.21,22.8,18.23,
+country,1105,TUR,Turkey,Alsectors,rural,2345.33,58.86,569.78,4268.35,36739.28
+country,1106,TUR,Turkey,Foodandbeverages,rural,589.2,25.02,185.71,1167.92,6619.46
+country,1107,TUR,Turkey,Clothingandfootwear,rural,115.35,1.88,22.97,207.2,1987.43
+country,1108,TUR,Turkey,Housing,rural,574.73,17.71,160.55,1083.45,7873.19
+country,1109,TUR,Turkey,Energy,rural,156.45,3.78,45.24,314.25,1823.97
+country,1110,TUR,Turkey,Transport,rural,350.79,1.46,42.1,484.07,8969.12
+country,1111,TUR,Turkey,Water,rural,34.28,0.86,10.64,69.44,371.84
+country,1112,TUR,Turkey,Educationsector,rural,39.34,0.36,5.5,77.79,636.08
+country,1113,TUR,Turkey,Health,rural,38.64,1.2,7.85,70.65,639.25
+country,1114,TUR,Turkey,ICT,rural,127.42,1.32,24.25,239.29,2076.36
+country,1115,TUR,Turkey,Financialservices,rural,6.4,0.0,0.25,6.83,207.32
+country,1116,TUR,Turkey,Othergoodsandservices,rural,282.11,4.66,56.36,489.93,5105.2
+country,1117,TUR,Turkey,Appliances.,rural,30.62,0.62,8.36,57.53,430.06
+country,1118,UGA,Uganda,Alsectors,rural,706.41,571.17,1734.98,4511.59,10628.71
+country,1119,UGA,Uganda,Foodandbeverages,rural,395.99,338.59,850.88,1609.46,1021.09
+country,1120,UGA,Uganda,Clothingandfootwear,rural,25.12,20.06,65.82,117.06,96.32
+country,1121,UGA,Uganda,Housing,rural,36.53,27.93,104.75,214.76,279.12
+country,1122,UGA,Uganda,Energy,rural,37.58,32.65,73.56,222.1,74.94
+country,1123,UGA,Uganda,Transport,rural,42.75,22.33,170.94,1200.6,7209.45
+country,1124,UGA,Uganda,Water,rural,27.5,24.43,49.15,156.11,269.97
+country,1125,UGA,Uganda,Educationsector,rural,27.82,21.3,82.33,92.7,77.05
+country,1126,UGA,Uganda,Health,rural,43.18,35.04,109.52,165.85,275.43
+country,1127,UGA,Uganda,ICT,rural,17.33,10.2,72.15,207.96,284.55
+country,1128,UGA,Uganda,Financialservices,rural,0.2,0.12,0.75,4.45,0.0
+country,1129,UGA,Uganda,Othergoodsandservices,rural,47.27,34.45,141.36,493.44,1012.11
+country,1130,UGA,Uganda,Appliances.,rural,5.15,4.07,13.76,27.1,28.67
+country,1131,UKR,Ukraine,Alsectors,rural,3414.39,1085.14,2501.53,4673.05,10777.55
+country,1132,UKR,Ukraine,Foodandbeverages,rural,2349.24,847.44,1765.28,3166.47,5954.39
+country,1133,UKR,Ukraine,Clothingandfootwear,rural,252.63,58.8,193.18,337.43,564.87
+country,1134,UKR,Ukraine,Housing,rural,75.42,2.79,34.37,128.08,702.84
+country,1135,UKR,Ukraine,Energy,rural,247.7,63.1,191.58,327.91,531.0
+country,1136,UKR,Ukraine,Transport,rural,115.7,11.95,65.81,180.46,841.05
+country,1137,UKR,Ukraine,Water,rural,1.46,0.0,0.95,2.15,7.05
+country,1138,UKR,Ukraine,Educationsector,rural,2.99,0.0,3.71,2.08,0.0
+country,1139,UKR,Ukraine,Health,rural,111.99,43.73,69.44,169.14,505.68
+country,1140,UKR,Ukraine,ICT,rural,15.94,0.0,9.27,25.45,37.87
+country,1141,UKR,Ukraine,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,1142,UKR,Ukraine,Othergoodsandservices,rural,241.09,57.33,167.87,333.43,1632.25
+country,1143,UKR,Ukraine,Appliances.,rural,0.23,0.0,0.07,0.45,0.55
+country,1144,VNM,Vietnam,Alsectors,rural,886.14,729.81,1583.75,4187.05,9680.84
+country,1145,VNM,Vietnam,Foodandbeverages,rural,501.7,449.38,750.0,779.43,561.7
+country,1146,VNM,Vietnam,Clothingandfootwear,rural,37.47,31.73,64.55,77.21,27.83
+country,1147,VNM,Vietnam,Housing,rural,46.56,13.41,163.42,2467.8,8761.95
+country,1148,VNM,Vietnam,Energy,rural,53.73,46.92,85.63,112.36,171.48
+country,1149,VNM,Vietnam,Transport,rural,59.51,42.88,136.41,266.85,0.0
+country,1150,VNM,Vietnam,Water,rural,1.44,1.02,3.48,1.48,0.0
+country,1151,VNM,Vietnam,Educationsector,rural,34.24,25.0,78.12,81.87,0.0
+country,1152,VNM,Vietnam,Health,rural,29.9,25.77,49.58,49.39,73.14
+country,1153,VNM,Vietnam,ICT,rural,22.73,14.89,59.33,100.15,11.38
+country,1154,VNM,Vietnam,Financialservices,rural,5.66,3.55,15.77,10.9,0.0
+country,1155,VNM,Vietnam,Othergoodsandservices,rural,78.09,62.68,150.36,208.45,71.18
+country,1156,VNM,Vietnam,Appliances.,rural,15.11,12.58,27.1,31.17,2.19
+country,1157,YEM,Yemen,Alsectors,rural,1441.74,861.41,1796.11,4375.56,12492.97
+country,1158,YEM,Yemen,Foodandbeverages,rural,814.96,525.24,1019.05,1781.95,1612.03
+country,1159,YEM,Yemen,Clothingandfootwear,rural,87.0,51.79,107.97,281.4,448.73
+country,1160,YEM,Yemen,Housing,rural,63.34,39.06,75.94,234.07,464.69
+country,1161,YEM,Yemen,Energy,rural,43.79,32.11,51.69,90.31,47.59
+country,1162,YEM,Yemen,Transport,rural,58.85,18.11,66.6,559.84,4959.74
+country,1163,YEM,Yemen,Water,rural,12.15,7.28,15.05,39.7,22.32
+country,1164,YEM,Yemen,Educationsector,rural,22.47,15.14,26.72,66.22,46.29
+country,1165,YEM,Yemen,Health,rural,93.96,41.22,118.26,492.22,3276.87
+country,1166,YEM,Yemen,ICT,rural,16.25,7.07,21.35,74.67,100.72
+country,1167,YEM,Yemen,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,1168,YEM,Yemen,Othergoodsandservices,rural,209.15,111.26,269.64,698.91,1469.85
+country,1169,YEM,Yemen,Appliances.,rural,19.81,13.13,23.84,56.28,44.15
+country,1170,ZMB,Zambia,Alsectors,rural,279.78,264.75,1672.89,4476.83,10005.66
+country,1171,ZMB,Zambia,Foodandbeverages,rural,179.58,173.33,773.8,878.58,2705.63
+country,1172,ZMB,Zambia,Clothingandfootwear,rural,10.5,10.09,49.62,46.75,43.38
+country,1173,ZMB,Zambia,Housing,rural,30.37,28.59,195.84,526.06,441.59
+country,1174,ZMB,Zambia,Energy,rural,12.1,11.65,52.71,206.1,160.99
+country,1175,ZMB,Zambia,Transport,rural,11.96,8.87,283.19,1848.28,5611.57
+country,1176,ZMB,Zambia,Water,rural,0.34,0.32,2.75,2.19,0.0
+country,1177,ZMB,Zambia,Educationsector,rural,5.99,5.71,33.41,0.34,1.63
+country,1178,ZMB,Zambia,Health,rural,0.56,0.54,2.41,2.33,2.21
+country,1179,ZMB,Zambia,ICT,rural,6.21,5.34,88.12,103.99,237.23
+country,1180,ZMB,Zambia,Financialservices,rural,0.0,0.0,0.0,0.0,0.0
+country,1181,ZMB,Zambia,Othergoodsandservices,rural,17.88,16.25,164.28,833.59,728.22
+country,1182,ZMB,Zambia,Appliances.,rural,4.31,4.07,26.76,28.63,73.22
+sector,0,AFG,Afghanistan,Alsectors,urban,1967.05,950.51,1983.83,4439.44,11612.38
+sector,1,AFG,Afghanistan,Foodandbeverages,urban,904.5,499.33,932.17,1713.21,2364.81
+sector,2,AFG,Afghanistan,Clothingandfootwear,urban,83.1,44.35,84.53,171.61,259.2
+sector,3,AFG,Afghanistan,Housing,urban,328.54,141.02,328.55,813.34,2156.43
+sector,4,AFG,Afghanistan,Energy,urban,151.33,92.85,156.84,254.58,265.51
+sector,5,AFG,Afghanistan,Transport,urban,137.69,27.77,108.83,660.2,5021.05
+sector,6,AFG,Afghanistan,Water,urban,3.17,1.57,3.36,5.73,4.92
+sector,7,AFG,Afghanistan,Educationsector,urban,5.71,0.75,5.89,17.36,0.0
+sector,8,AFG,Afghanistan,Health,urban,62.44,33.53,64.63,117.23,273.11
+sector,9,AFG,Afghanistan,ICT,urban,53.72,17.06,51.95,167.51,158.57
+sector,10,AFG,Afghanistan,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,11,AFG,Afghanistan,Othergoodsandservices,urban,199.9,76.18,209.52,432.91,957.61
+sector,12,AFG,Afghanistan,Appliances.,urban,36.93,16.09,37.55,85.76,151.17
+sector,13,ALB,Albania,Alsectors,urban,4021.85,949.51,2442.9,5092.01,12242.14
+sector,14,ALB,Albania,Foodandbeverages,urban,2421.82,625.33,1553.22,3058.8,6492.75
+sector,15,ALB,Albania,Clothingandfootwear,urban,131.67,21.16,73.46,166.46,483.05
+sector,16,ALB,Albania,Housing,urban,78.08,18.78,46.09,107.8,156.38
+sector,17,ALB,Albania,Energy,urban,269.66,88.25,203.95,332.68,447.07
+sector,18,ALB,Albania,Transport,urban,236.53,1.44,47.72,300.16,1827.04
+sector,19,ALB,Albania,Water,urban,32.74,14.57,27.31,38.44,44.18
+sector,20,ALB,Albania,Educationsector,urban,27.43,3.08,13.42,40.57,59.46
+sector,21,ALB,Albania,Health,urban,126.11,20.18,82.96,171.63,189.75
+sector,22,ALB,Albania,ICT,urban,252.55,36.82,128.49,315.93,1104.73
+sector,23,ALB,Albania,Financialservices,urban,9.29,0.0,2.08,12.49,62.07
+sector,24,ALB,Albania,Othergoodsandservices,urban,357.11,104.87,212.09,449.01,1161.83
+sector,25,ALB,Albania,Appliances.,urban,78.84,15.03,52.12,98.03,213.82
+sector,26,ARM,Armenia,Alsectors,urban,1526.32,890.89,1837.72,4507.81,25556.81
+sector,27,ARM,Armenia,Foodandbeverages,urban,801.39,563.7,958.04,1323.5,1671.85
+sector,28,ARM,Armenia,Clothingandfootwear,urban,53.38,15.43,69.17,279.39,761.53
+sector,29,ARM,Armenia,Housing,urban,27.96,6.25,35.05,190.26,0.0
+sector,30,ARM,Armenia,Energy,urban,70.03,53.35,80.01,119.6,719.61
+sector,31,ARM,Armenia,Transport,urban,117.73,41.27,146.51,627.93,241.71
+sector,32,ARM,Armenia,Water,urban,17.51,11.61,21.5,29.06,16.05
+sector,33,ARM,Armenia,Educationsector,urban,40.25,11.94,46.41,300.45,0.0
+sector,34,ARM,Armenia,Health,urban,166.68,61.49,197.31,974.78,7267.02
+sector,35,ARM,Armenia,ICT,urban,81.07,42.97,103.27,209.17,539.68
+sector,36,ARM,Armenia,Financialservices,urban,0.17,0.26,0.09,0.49,0.0
+sector,37,ARM,Armenia,Othergoodsandservices,urban,116.87,65.21,138.24,361.04,14054.84
+sector,38,ARM,Armenia,Appliances.,urban,33.27,17.42,42.13,92.14,284.52
+sector,39,AZE,Azerbaijan,Alsectors,urban,2320.92,902.27,2050.82,4846.13,13240.0
+sector,40,AZE,Azerbaijan,Foodandbeverages,urban,1013.8,510.73,971.66,1790.83,2919.89
+sector,41,AZE,Azerbaijan,Clothingandfootwear,urban,231.69,67.98,203.0,533.77,1099.92
+sector,42,AZE,Azerbaijan,Housing,urban,61.79,7.61,37.72,193.56,890.01
+sector,43,AZE,Azerbaijan,Energy,urban,139.08,85.79,135.0,217.5,383.6
+sector,44,AZE,Azerbaijan,Transport,urban,306.19,64.29,231.42,747.32,4204.77
+sector,45,AZE,Azerbaijan,Water,urban,13.52,6.16,14.17,20.24,29.02
+sector,46,AZE,Azerbaijan,Educationsector,urban,37.23,4.96,26.25,113.64,308.49
+sector,47,AZE,Azerbaijan,Health,urban,64.1,29.34,61.22,120.67,139.41
+sector,48,AZE,Azerbaijan,ICT,urban,83.45,18.73,67.59,217.39,507.32
+sector,49,AZE,Azerbaijan,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,50,AZE,Azerbaijan,Othergoodsandservices,urban,367.24,106.58,301.31,880.53,2722.75
+sector,51,AZE,Azerbaijan,Appliances.,urban,2.85,0.08,1.48,10.68,34.8
+sector,52,BGD,Bangladesh,Alsectors,urban,1144.81,772.98,1762.39,4144.68,10466.59
+sector,53,BGD,Bangladesh,Foodandbeverages,urban,572.13,444.35,800.57,1240.06,1773.34
+sector,54,BGD,Bangladesh,Clothingandfootwear,urban,57.56,42.21,83.88,161.73,376.61
+sector,55,BGD,Bangladesh,Housing,urban,171.65,79.59,317.79,1106.87,2027.86
+sector,56,BGD,Bangladesh,Energy,urban,60.36,48.29,81.13,143.17,207.77
+sector,57,BGD,Bangladesh,Transport,urban,44.4,24.6,69.57,378.53,1440.38
+sector,58,BGD,Bangladesh,Water,urban,0.26,0.09,0.61,0.34,0.0
+sector,59,BGD,Bangladesh,Educationsector,urban,63.24,30.09,122.15,255.44,79.57
+sector,60,BGD,Bangladesh,Health,urban,25.63,16.74,41.75,66.4,108.5
+sector,61,BGD,Bangladesh,ICT,urban,34.24,20.36,59.02,103.39,293.6
+sector,62,BGD,Bangladesh,Financialservices,urban,3.31,1.71,6.05,16.12,0.08
+sector,63,BGD,Bangladesh,Othergoodsandservices,urban,92.84,50.72,152.27,617.2,4075.54
+sector,64,BGD,Bangladesh,Appliances.,urban,19.19,14.24,27.61,55.42,83.36
+sector,65,BLR,Belarus,Alsectors,urban,6129.4,1155.99,2722.83,5799.87,12732.73
+sector,66,BLR,Belarus,Foodandbeverages,urban,2460.49,644.04,1274.31,2440.59,4207.11
+sector,67,BLR,Belarus,Clothingandfootwear,urban,635.93,72.44,282.45,609.23,1277.63
+sector,68,BLR,Belarus,Housing,urban,732.85,210.22,360.35,701.68,1426.44
+sector,69,BLR,Belarus,Energy,urban,6.47,0.0,5.67,7.19,3.37
+sector,70,BLR,Belarus,Transport,urban,625.26,6.19,126.67,467.52,2229.79
+sector,71,BLR,Belarus,Water,urban,27.67,9.7,15.47,26.49,51.31
+sector,72,BLR,Belarus,Educationsector,urban,112.38,0.0,45.04,116.47,181.1
+sector,73,BLR,Belarus,Health,urban,182.38,16.12,56.81,180.95,363.27
+sector,74,BLR,Belarus,ICT,urban,395.46,107.4,186.39,379.01,778.61
+sector,75,BLR,Belarus,Financialservices,urban,46.48,0.0,15.93,41.32,118.55
+sector,76,BLR,Belarus,Othergoodsandservices,urban,750.72,45.73,280.23,683.9,1787.02
+sector,77,BLR,Belarus,Appliances.,urban,153.33,44.15,73.5,145.53,308.52
+sector,78,BEN,Benin,Alsectors,urban,769.27,569.59,1748.88,4078.92,
+sector,79,BEN,Benin,Foodandbeverages,urban,394.64,311.2,806.49,1713.82,
+sector,80,BEN,Benin,Clothingandfootwear,urban,76.68,51.79,200.73,439.24,
+sector,81,BEN,Benin,Housing,urban,24.43,13.82,76.81,191.38,
+sector,82,BEN,Benin,Energy,urban,97.75,72.68,217.01,607.71,
+sector,83,BEN,Benin,Transport,urban,3.74,1.79,12.57,55.93,
+sector,84,BEN,Benin,Water,urban,0.0,0.0,0.0,0.0,
+sector,85,BEN,Benin,Educationsector,urban,28.81,18.37,81.91,153.43,
+sector,86,BEN,Benin,Health,urban,38.31,27.4,93.12,186.5,
+sector,87,BEN,Benin,ICT,urban,0.0,0.0,0.0,0.0,
+sector,88,BEN,Benin,Financialservices,urban,0.0,0.0,0.0,0.0,
+sector,89,BEN,Benin,Othergoodsandservices,urban,65.58,43.06,172.32,533.86,
+sector,90,BEN,Benin,Appliances.,urban,39.34,29.48,87.9,197.04,
+sector,91,BTN,Bhutan,Alsectors,urban,2755.41,958.43,2196.79,4835.25,13527.99
+sector,92,BTN,Bhutan,Foodandbeverages,urban,1062.9,515.52,981.32,1523.98,2077.22
+sector,93,BTN,Bhutan,Clothingandfootwear,urban,224.49,67.53,192.58,381.33,588.71
+sector,94,BTN,Bhutan,Housing,urban,408.94,113.14,313.47,804.13,1447.28
+sector,95,BTN,Bhutan,Energy,urban,90.12,35.25,75.9,153.93,242.35
+sector,96,BTN,Bhutan,Transport,urban,246.59,23.99,85.19,544.27,6441.49
+sector,97,BTN,Bhutan,Water,urban,8.39,2.75,6.87,14.41,37.15
+sector,98,BTN,Bhutan,Educationsector,urban,24.84,19.65,25.46,25.18,22.29
+sector,99,BTN,Bhutan,Health,urban,14.71,3.14,10.78,32.87,18.42
+sector,100,BTN,Bhutan,ICT,urban,72.23,14.18,49.98,152.46,441.35
+sector,101,BTN,Bhutan,Financialservices,urban,20.93,3.18,17.6,36.17,89.83
+sector,102,BTN,Bhutan,Othergoodsandservices,urban,548.36,148.78,409.56,1111.3,2024.47
+sector,103,BTN,Bhutan,Appliances.,urban,32.92,11.32,28.08,55.23,97.44
+sector,104,BOL,Bolivia,Alsectors,urban,3503.25,929.07,2269.04,5108.3,12161.22
+sector,105,BOL,Bolivia,Foodandbeverages,urban,1782.77,601.52,1371.74,2474.82,3999.46
+sector,106,BOL,Bolivia,Clothingandfootwear,urban,107.88,31.18,71.13,159.63,336.22
+sector,107,BOL,Bolivia,Housing,urban,585.1,78.96,264.24,914.43,3235.84
+sector,108,BOL,Bolivia,Energy,urban,121.39,43.26,87.68,169.6,337.74
+sector,109,BOL,Bolivia,Transport,urban,232.32,42.39,138.84,342.45,965.28
+sector,110,BOL,Bolivia,Water,urban,43.48,12.12,28.92,61.9,150.89
+sector,111,BOL,Bolivia,Educationsector,urban,138.09,16.65,44.33,232.07,888.22
+sector,112,BOL,Bolivia,Health,urban,40.41,6.68,26.48,59.22,140.26
+sector,113,BOL,Bolivia,ICT,urban,110.49,15.12,52.51,182.31,503.8
+sector,114,BOL,Bolivia,Financialservices,urban,3.33,0.71,1.61,5.05,17.57
+sector,115,BOL,Bolivia,Othergoodsandservices,urban,278.18,59.63,136.41,424.77,1433.39
+sector,116,BOL,Bolivia,Appliances.,urban,59.82,20.85,45.14,82.05,152.55
+sector,117,BIH,Bosnia and Herzegovina,Alsectors,urban,9527.73,1033.81,2697.08,6314.11,15115.49
+sector,118,BIH,Bosnia and Herzegovina,Foodandbeverages,urban,2983.05,493.25,967.93,2125.55,4514.48
+sector,119,BIH,Bosnia and Herzegovina,Clothingandfootwear,urban,564.28,0.0,95.53,306.11,996.21
+sector,120,BIH,Bosnia and Herzegovina,Housing,urban,1596.37,149.35,640.82,1208.87,2299.63
+sector,121,BIH,Bosnia and Herzegovina,Energy,urban,585.94,85.76,237.14,489.84,783.92
+sector,122,BIH,Bosnia and Herzegovina,Transport,urban,1072.87,6.46,117.67,504.75,2006.75
+sector,123,BIH,Bosnia and Herzegovina,Water,urban,88.63,10.66,58.1,80.74,105.52
+sector,124,BIH,Bosnia and Herzegovina,Educationsector,urban,70.7,0.0,3.45,38.44,126.44
+sector,125,BIH,Bosnia and Herzegovina,Health,urban,345.45,1.54,81.55,241.22,535.72
+sector,126,BIH,Bosnia and Herzegovina,ICT,urban,428.5,36.93,132.75,280.47,682.05
+sector,127,BIH,Bosnia and Herzegovina,Financialservices,urban,162.98,0.0,47.62,105.61,261.47
+sector,128,BIH,Bosnia and Herzegovina,Othergoodsandservices,urban,1336.91,122.77,241.8,750.47,2323.74
+sector,129,BIH,Bosnia and Herzegovina,Appliances.,urban,292.05,127.08,72.72,182.05,479.55
+sector,130,BRA,Brazil,Alsectors,urban,4527.48,777.42,2194.27,5560.23,17474.99
+sector,131,BRA,Brazil,Foodandbeverages,urban,1019.25,270.78,705.74,1409.33,2490.83
+sector,132,BRA,Brazil,Clothingandfootwear,urban,278.96,67.35,176.96,378.39,777.74
+sector,133,BRA,Brazil,Housing,urban,282.86,46.2,132.54,360.65,1076.12
+sector,134,BRA,Brazil,Energy,urban,222.6,104.23,183.55,278.24,431.58
+sector,135,BRA,Brazil,Transport,urban,1065.05,78.11,328.83,1236.12,5232.67
+sector,136,BRA,Brazil,Water,urban,66.55,31.9,58.33,84.8,109.72
+sector,137,BRA,Brazil,Educationsector,urban,164.59,6.39,34.63,221.74,794.83
+sector,138,BRA,Brazil,Health,urban,381.98,58.66,186.98,501.85,1386.94
+sector,139,BRA,Brazil,ICT,urban,146.31,16.02,79.36,216.29,444.69
+sector,140,BRA,Brazil,Financialservices,urban,3.8,0.15,1.55,5.89,13.27
+sector,141,BRA,Brazil,Othergoodsandservices,urban,806.87,76.63,245.75,745.99,4485.4
+sector,142,BRA,Brazil,Appliances.,urban,88.66,20.99,60.05,120.94,231.21
+sector,143,BGR,Bulgaria,Alsectors,urban,5667.03,951.42,2638.71,5631.02,12062.27
+sector,144,BGR,Bulgaria,Foodandbeverages,urban,2080.46,496.93,1100.84,2093.23,3995.76
+sector,145,BGR,Bulgaria,Clothingandfootwear,urban,204.72,45.42,74.97,196.27,518.58
+sector,146,BGR,Bulgaria,Housing,urban,1225.74,155.77,528.75,1233.44,2589.87
+sector,147,BGR,Bulgaria,Energy,urban,546.88,134.98,345.68,571.62,805.88
+sector,148,BGR,Bulgaria,Transport,urban,416.71,0.28,78.2,382.68,1314.89
+sector,149,BGR,Bulgaria,Water,urban,101.27,9.23,73.16,105.85,134.74
+sector,150,BGR,Bulgaria,Educationsector,urban,119.04,7.09,43.23,110.64,327.88
+sector,151,BGR,Bulgaria,Health,urban,0.0,0.0,0.0,0.0,0.0
+sector,152,BGR,Bulgaria,ICT,urban,215.0,0.0,65.31,210.14,549.01
+sector,153,BGR,Bulgaria,Financialservices,urban,0.19,0.04,0.02,0.15,0.79
+sector,154,BGR,Bulgaria,Othergoodsandservices,urban,667.06,84.07,286.14,638.88,1626.36
+sector,155,BGR,Bulgaria,Appliances.,urban,89.96,17.61,42.42,88.12,198.52
+sector,156,BFA,Burkina Faso,Alsectors,urban,932.59,607.63,1796.05,5038.17,11546.36
+sector,157,BFA,Burkina Faso,Foodandbeverages,urban,314.16,248.19,530.28,759.6,1172.45
+sector,158,BFA,Burkina Faso,Clothingandfootwear,urban,81.43,54.25,164.71,321.69,463.46
+sector,159,BFA,Burkina Faso,Housing,urban,127.27,81.91,242.38,759.33,1294.07
+sector,160,BFA,Burkina Faso,Energy,urban,59.44,41.71,109.77,250.63,671.77
+sector,161,BFA,Burkina Faso,Transport,urban,125.53,50.34,291.69,1380.5,4595.1
+sector,162,BFA,Burkina Faso,Water,urban,19.74,14.03,35.81,83.13,179.39
+sector,163,BFA,Burkina Faso,Educationsector,urban,29.8,17.55,60.02,208.1,417.41
+sector,164,BFA,Burkina Faso,Health,urban,24.47,15.9,45.36,148.39,524.43
+sector,165,BFA,Burkina Faso,ICT,urban,58.93,26.9,139.68,514.61,618.92
+sector,166,BFA,Burkina Faso,Financialservices,urban,1.49,0.12,2.6,44.41,14.21
+sector,167,BFA,Burkina Faso,Othergoodsandservices,urban,71.63,43.95,136.87,496.67,1464.89
+sector,168,BFA,Burkina Faso,Appliances.,urban,18.71,12.77,36.89,71.1,130.27
+sector,169,BDI,Burundi,Alsectors,urban,760.46,503.8,1797.37,4105.28,
+sector,170,BDI,Burundi,Foodandbeverages,urban,417.47,308.35,873.39,1352.86,
+sector,171,BDI,Burundi,Clothingandfootwear,urban,43.93,27.7,109.21,264.7,
+sector,172,BDI,Burundi,Housing,urban,55.51,27.62,163.56,568.3,
+sector,173,BDI,Burundi,Energy,urban,56.23,46.07,97.52,180.21,
+sector,174,BDI,Burundi,Transport,urban,54.15,17.82,192.17,809.76,
+sector,175,BDI,Burundi,Water,urban,8.94,4.67,26.7,47.81,
+sector,176,BDI,Burundi,Educationsector,urban,14.78,7.91,42.96,89.29,
+sector,177,BDI,Burundi,Health,urban,33.88,26.76,60.57,193.43,
+sector,178,BDI,Burundi,ICT,urban,19.66,6.94,71.6,168.69,
+sector,179,BDI,Burundi,Financialservices,urban,0.0,0.0,0.0,0.0,
+sector,180,BDI,Burundi,Othergoodsandservices,urban,54.62,28.97,157.03,428.58,
+sector,181,BDI,Burundi,Appliances.,urban,1.29,0.98,2.68,1.66,
+sector,182,KHM,Cambodia,Alsectors,urban,2500.2,785.32,2153.17,4803.39,16051.87
+sector,183,KHM,Cambodia,Foodandbeverages,urban,989.9,476.87,1006.68,1616.34,1955.99
+sector,184,KHM,Cambodia,Clothingandfootwear,urban,55.7,19.22,52.94,109.49,111.6
+sector,185,KHM,Cambodia,Housing,urban,633.44,82.66,442.41,1448.42,6485.56
+sector,186,KHM,Cambodia,Energy,urban,138.72,53.44,135.79,251.93,348.67
+sector,187,KHM,Cambodia,Transport,urban,342.53,39.51,181.41,753.51,6049.75
+sector,188,KHM,Cambodia,Water,urban,23.09,7.23,24.78,40.01,51.77
+sector,189,KHM,Cambodia,Educationsector,urban,84.23,15.88,84.26,173.66,193.5
+sector,190,KHM,Cambodia,Health,urban,64.36,32.85,71.43,85.63,192.16
+sector,191,KHM,Cambodia,ICT,urban,23.35,3.35,20.74,49.93,136.92
+sector,192,KHM,Cambodia,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,193,KHM,Cambodia,Othergoodsandservices,urban,125.3,42.55,114.3,241.67,501.74
+sector,194,KHM,Cambodia,Appliances.,urban,19.59,11.77,18.42,32.8,24.21
+sector,195,CMR,Cameroon,Alsectors,urban,1213.97,710.94,1842.83,4611.35,13365.16
+sector,196,CMR,Cameroon,Foodandbeverages,urban,478.16,327.33,702.56,1208.25,1593.6
+sector,197,CMR,Cameroon,Clothingandfootwear,urban,102.6,58.4,157.66,418.52,681.47
+sector,198,CMR,Cameroon,Housing,urban,78.72,28.65,141.52,408.85,1475.01
+sector,199,CMR,Cameroon,Energy,urban,70.5,50.91,98.75,172.42,279.32
+sector,200,CMR,Cameroon,Transport,urban,145.3,60.13,225.78,860.38,6226.72
+sector,201,CMR,Cameroon,Water,urban,13.91,7.64,22.23,53.51,97.41
+sector,202,CMR,Cameroon,Educationsector,urban,45.21,30.16,65.41,141.99,115.07
+sector,203,CMR,Cameroon,Health,urban,46.79,30.59,67.1,160.5,287.11
+sector,204,CMR,Cameroon,ICT,urban,73.73,30.42,123.03,426.01,807.57
+sector,205,CMR,Cameroon,Financialservices,urban,3.59,0.37,3.86,53.45,414.06
+sector,206,CMR,Cameroon,Othergoodsandservices,urban,121.49,67.1,180.42,587.14,1283.28
+sector,207,CMR,Cameroon,Appliances.,urban,33.96,19.24,54.5,120.31,104.52
+sector,208,CPV,Cabo Verde,Alsectors,urban,2975.06,835.85,2129.19,5251.75,13975.42
+sector,209,CPV,Cabo Verde,Foodandbeverages,urban,1424.72,514.66,1173.54,2389.13,4230.45
+sector,210,CPV,Cabo Verde,Clothingandfootwear,urban,80.87,18.99,55.41,150.36,389.36
+sector,211,CPV,Cabo Verde,Housing,urban,504.89,100.04,327.34,942.04,2846.28
+sector,212,CPV,Cabo Verde,Energy,urban,135.21,45.85,115.48,223.4,372.59
+sector,213,CPV,Cabo Verde,Transport,urban,203.22,8.75,64.76,393.12,2409.49
+sector,214,CPV,Cabo Verde,Water,urban,68.04,23.15,57.67,102.22,270.85
+sector,215,CPV,Cabo Verde,Educationsector,urban,40.02,11.14,20.6,68.41,346.4
+sector,216,CPV,Cabo Verde,Health,urban,57.14,11.71,31.83,119.27,316.95
+sector,217,CPV,Cabo Verde,ICT,urban,128.93,25.55,81.53,234.51,808.04
+sector,218,CPV,Cabo Verde,Financialservices,urban,18.89,0.13,5.05,52.04,129.73
+sector,219,CPV,Cabo Verde,Othergoodsandservices,urban,205.48,38.05,112.25,388.67,1502.77
+sector,220,CPV,Cabo Verde,Appliances.,urban,107.64,37.83,83.73,188.57,352.53
+sector,221,TCD,Chad,Alsectors,urban,1097.01,661.55,1822.28,4445.18,10176.96
+sector,222,TCD,Chad,Foodandbeverages,urban,662.79,420.27,1079.52,2362.67,1275.24
+sector,223,TCD,Chad,Clothingandfootwear,urban,94.84,57.24,157.29,387.32,508.97
+sector,224,TCD,Chad,Housing,urban,51.85,39.81,73.24,126.66,0.4
+sector,225,TCD,Chad,Energy,urban,1.75,1.4,2.6,0.63,0.0
+sector,226,TCD,Chad,Transport,urban,75.98,24.47,156.77,522.05,7512.66
+sector,227,TCD,Chad,Water,urban,1.37,1.1,2.05,0.38,0.0
+sector,228,TCD,Chad,Educationsector,urban,8.37,6.16,12.88,14.18,0.0
+sector,229,TCD,Chad,Health,urban,37.07,22.81,61.85,133.32,0.0
+sector,230,TCD,Chad,ICT,urban,8.92,3.37,17.1,67.05,41.72
+sector,231,TCD,Chad,Financialservices,urban,0.16,0.18,0.14,0.02,0.0
+sector,232,TCD,Chad,Othergoodsandservices,urban,140.48,77.05,236.43,765.48,784.56
+sector,233,TCD,Chad,Appliances.,urban,13.43,7.69,22.42,65.42,53.4
+sector,234,CHN,China,Alsectors,urban,3549.44,935.43,2304.35,5070.74,15187.0
+sector,235,CHN,China,Foodandbeverages,urban,1214.27,429.12,902.22,1664.19,3651.25
+sector,236,CHN,China,Clothingandfootwear,urban,357.81,70.57,236.26,529.77,1300.29
+sector,237,CHN,China,Housing,urban,178.57,24.4,86.82,270.84,1172.62
+sector,238,CHN,China,Energy,urban,187.06,77.11,143.84,248.91,533.0
+sector,239,CHN,China,Transport,urban,230.48,33.4,113.4,335.97,1641.04
+sector,240,CHN,China,Water,urban,19.05,7.85,14.65,25.35,54.28
+sector,241,CHN,China,Educationsector,urban,255.13,65.77,164.86,365.86,1093.47
+sector,242,CHN,China,Health,urban,268.93,71.12,172.14,404.33,963.16
+sector,243,CHN,China,ICT,urban,323.03,41.67,160.0,478.3,2207.34
+sector,244,CHN,China,Financialservices,urban,30.42,5.48,16.25,44.88,184.26
+sector,245,CHN,China,Othergoodsandservices,urban,475.0,107.21,288.75,688.04,2327.61
+sector,246,CHN,China,Appliances.,urban,9.69,1.74,5.17,14.29,58.67
+sector,247,COL,Colombia,Alsectors,urban,4174.48,840.76,2232.42,5403.39,15706.99
+sector,248,COL,Colombia,Foodandbeverages,urban,1379.38,389.23,919.28,1898.03,3515.3
+sector,249,COL,Colombia,Clothingandfootwear,urban,156.68,22.29,65.65,205.11,699.36
+sector,250,COL,Colombia,Housing,urban,858.36,195.92,482.19,1093.2,3131.63
+sector,251,COL,Colombia,Energy,urban,127.34,54.05,97.24,159.09,289.42
+sector,252,COL,Colombia,Transport,urban,414.68,40.12,173.07,494.82,2078.02
+sector,253,COL,Colombia,Water,urban,38.43,10.84,27.17,49.37,103.09
+sector,254,COL,Colombia,Educationsector,urban,73.94,6.36,28.74,124.99,236.22
+sector,255,COL,Colombia,Health,urban,249.64,31.46,125.14,337.12,961.16
+sector,256,COL,Colombia,ICT,urban,224.41,28.96,105.57,301.92,907.17
+sector,257,COL,Colombia,Financialservices,urban,333.44,10.1,66.23,336.41,2372.93
+sector,258,COL,Colombia,Othergoodsandservices,urban,318.18,51.42,142.15,403.34,1412.69
+sector,259,COL,Colombia,Appliances.,urban,0.0,0.0,0.0,0.0,0.0
+sector,260,COD,"Congo, The Democratic Republic of the",Alsectors,urban,374.23,347.08,1517.07,4021.02,58591.81
+sector,261,COD,"Congo, The Democratic Republic of the",Foodandbeverages,urban,235.54,226.39,708.5,914.92,501.48
+sector,262,COD,"Congo, The Democratic Republic of the",Clothingandfootwear,urban,20.49,18.34,132.35,146.36,24.26
+sector,263,COD,"Congo, The Democratic Republic of the",Housing,urban,13.89,12.11,103.54,388.07,0.0
+sector,264,COD,"Congo, The Democratic Republic of the",Energy,urban,20.83,20.06,60.31,73.81,122.85
+sector,265,COD,"Congo, The Democratic Republic of the",Transport,urban,16.46,13.48,156.07,1479.16,0.0
+sector,266,COD,"Congo, The Democratic Republic of the",Water,urban,6.87,6.34,33.68,72.12,59.74
+sector,267,COD,"Congo, The Democratic Republic of the",Educationsector,urban,14.97,14.02,64.46,69.89,7.57
+sector,268,COD,"Congo, The Democratic Republic of the",Health,urban,13.37,8.41,32.98,26.2,57806.01
+sector,269,COD,"Congo, The Democratic Republic of the",ICT,urban,7.32,5.78,84.37,358.92,8.09
+sector,270,COD,"Congo, The Democratic Republic of the",Financialservices,urban,0.01,0.0,0.25,22.76,0.0
+sector,271,COD,"Congo, The Democratic Republic of the",Othergoodsandservices,urban,18.83,16.94,112.95,440.93,45.26
+sector,272,COD,"Congo, The Democratic Republic of the",Appliances.,urban,5.65,5.22,27.61,27.9,16.57
+sector,273,COG,Congo,Alsectors,urban,1560.29,768.07,1931.89,4656.9,12937.97
+sector,274,COG,Congo,Foodandbeverages,urban,764.71,375.9,1012.55,2028.21,2404.12
+sector,275,COG,Congo,Clothingandfootwear,urban,75.8,29.56,97.23,275.88,414.72
+sector,276,COG,Congo,Housing,urban,198.56,126.15,218.12,559.9,1697.92
+sector,277,COG,Congo,Energy,urban,59.9,36.85,72.44,144.28,265.72
+sector,278,COG,Congo,Transport,urban,120.09,45.86,114.94,481.89,5173.09
+sector,279,COG,Congo,Water,urban,22.69,14.7,25.94,60.67,79.1
+sector,280,COG,Congo,Educationsector,urban,41.99,21.03,50.97,137.01,213.14
+sector,281,COG,Congo,Health,urban,55.16,32.64,69.75,122.75,222.02
+sector,282,COG,Congo,ICT,urban,76.05,23.89,94.39,321.31,869.25
+sector,283,COG,Congo,Financialservices,urban,1.26,0.18,0.87,9.39,64.26
+sector,284,COG,Congo,Othergoodsandservices,urban,105.54,43.17,125.38,396.17,1382.45
+sector,285,COG,Congo,Appliances.,urban,38.54,18.14,49.29,119.46,152.18
+sector,286,CIV,Côte d'Ivoire,Alsectors,urban,1761.78,789.55,1946.26,4891.28,11678.88
+sector,287,CIV,Côte d'Ivoire,Foodandbeverages,urban,718.02,378.83,829.48,1621.87,3050.97
+sector,288,CIV,Côte d'Ivoire,Clothingandfootwear,urban,100.98,46.8,112.24,280.8,455.6
+sector,289,CIV,Côte d'Ivoire,Housing,urban,236.68,89.73,249.06,738.66,2722.08
+sector,290,CIV,Côte d'Ivoire,Energy,urban,56.06,35.8,66.74,91.2,151.08
+sector,291,CIV,Côte d'Ivoire,Transport,urban,174.56,48.9,169.64,702.1,1990.02
+sector,292,CIV,Côte d'Ivoire,Water,urban,20.2,11.17,24.35,38.64,70.7
+sector,293,CIV,Côte d'Ivoire,Educationsector,urban,36.28,18.8,41.46,90.05,77.14
+sector,294,CIV,Côte d'Ivoire,Health,urban,74.2,34.01,87.31,183.71,315.17
+sector,295,CIV,Côte d'Ivoire,ICT,urban,185.29,61.93,201.53,617.08,1500.22
+sector,296,CIV,Côte d'Ivoire,Financialservices,urban,3.59,0.43,2.98,19.2,53.27
+sector,297,CIV,Côte d'Ivoire,Othergoodsandservices,urban,135.2,53.45,139.84,446.39,1143.38
+sector,298,CIV,Côte d'Ivoire,Appliances.,urban,20.73,9.69,21.66,61.59,149.24
+sector,299,DJI,Djibouti,Alsectors,urban,2122.23,843.05,1995.39,4910.12,12690.8
+sector,300,DJI,Djibouti,Foodandbeverages,urban,829.77,437.43,874.15,1459.69,1649.6
+sector,301,DJI,Djibouti,Clothingandfootwear,urban,66.27,28.29,66.67,142.98,161.5
+sector,302,DJI,Djibouti,Housing,urban,423.37,174.41,403.96,990.12,1607.38
+sector,303,DJI,Djibouti,Energy,urban,273.21,67.59,238.17,835.09,1008.85
+sector,304,DJI,Djibouti,Transport,urban,138.33,39.47,152.49,288.42,269.68
+sector,305,DJI,Djibouti,Water,urban,77.82,26.34,76.29,188.04,255.63
+sector,306,DJI,Djibouti,Educationsector,urban,10.89,5.41,11.9,18.99,4.13
+sector,307,DJI,Djibouti,Health,urban,34.64,10.52,33.54,88.1,113.22
+sector,308,DJI,Djibouti,ICT,urban,0.0,0.0,0.0,0.0,0.0
+sector,309,DJI,Djibouti,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,310,DJI,Djibouti,Othergoodsandservices,urban,246.88,41.61,116.24,862.78,7576.68
+sector,311,DJI,Djibouti,Appliances.,urban,21.06,11.98,21.97,35.91,44.14
+sector,312,EGY,Egypt,Alsectors,urban,1736.76,897.13,1835.7,4913.76,13263.63
+sector,313,EGY,Egypt,Foodandbeverages,urban,760.03,463.86,852.89,1613.43,2756.77
+sector,314,EGY,Egypt,Clothingandfootwear,urban,93.31,53.76,102.78,221.86,453.88
+sector,315,EGY,Egypt,Housing,urban,269.77,122.75,263.86,875.59,3717.3
+sector,316,EGY,Egypt,Energy,urban,42.58,26.11,45.17,101.02,255.23
+sector,317,EGY,Egypt,Transport,urban,93.57,30.15,85.29,420.49,1378.16
+sector,318,EGY,Egypt,Water,urban,12.12,6.63,12.78,31.84,96.78
+sector,319,EGY,Egypt,Educationsector,urban,79.77,26.93,77.58,335.37,931.05
+sector,320,EGY,Egypt,Health,urban,126.52,46.34,130.17,460.88,1390.15
+sector,321,EGY,Egypt,ICT,urban,59.32,22.24,64.98,189.91,561.67
+sector,322,EGY,Egypt,Financialservices,urban,1.52,0.67,1.67,4.12,15.94
+sector,323,EGY,Egypt,Othergoodsandservices,urban,173.07,82.74,170.84,602.39,1578.43
+sector,324,EGY,Egypt,Appliances.,urban,25.17,14.93,27.7,56.86,128.28
+sector,325,SLV,El Salvador,Alsectors,urban,1816.81,628.79,2128.67,4653.37,13560.05
+sector,326,SLV,El Salvador,Foodandbeverages,urban,1104.36,185.66,1365.04,3034.65,11678.64
+sector,327,SLV,El Salvador,Clothingandfootwear,urban,51.67,37.54,54.99,96.79,108.57
+sector,328,SLV,El Salvador,Housing,urban,135.64,60.04,140.18,424.5,561.46
+sector,329,SLV,El Salvador,Energy,urban,118.72,90.0,129.53,195.43,199.72
+sector,330,SLV,El Salvador,Transport,urban,51.99,22.2,57.38,146.19,245.08
+sector,331,SLV,El Salvador,Water,urban,0.0,0.0,0.0,0.0,0.0
+sector,332,SLV,El Salvador,Educationsector,urban,0.0,0.0,0.0,0.0,0.0
+sector,333,SLV,El Salvador,Health,urban,34.4,12.01,32.72,123.75,250.05
+sector,334,SLV,El Salvador,ICT,urban,89.67,56.73,101.01,182.82,180.52
+sector,335,SLV,El Salvador,Financialservices,urban,1.01,0.33,0.9,4.59,2.47
+sector,336,SLV,El Salvador,Othergoodsandservices,urban,149.42,101.04,161.76,314.51,213.02
+sector,337,SLV,El Salvador,Appliances.,urban,79.91,63.22,85.15,130.15,120.52
+sector,338,ETH,Ethiopia,Alsectors,urban,1440.72,816.29,1806.14,4563.64,17552.56
+sector,339,ETH,Ethiopia,Foodandbeverages,urban,725.15,491.56,900.47,1646.11,1928.3
+sector,340,ETH,Ethiopia,Clothingandfootwear,urban,128.07,60.22,175.78,427.04,691.79
+sector,341,ETH,Ethiopia,Housing,urban,149.97,76.8,182.08,734.51,806.65
+sector,342,ETH,Ethiopia,Energy,urban,82.98,56.58,104.9,163.13,134.81
+sector,343,ETH,Ethiopia,Transport,urban,90.38,22.0,95.63,366.59,11137.44
+sector,344,ETH,Ethiopia,Water,urban,14.65,9.26,18.38,40.82,35.52
+sector,345,ETH,Ethiopia,Educationsector,urban,31.86,16.94,44.48,74.69,51.21
+sector,346,ETH,Ethiopia,Health,urban,9.89,5.81,12.83,27.69,27.75
+sector,347,ETH,Ethiopia,ICT,urban,37.89,5.38,50.08,280.31,1111.99
+sector,348,ETH,Ethiopia,Financialservices,urban,0.61,0.12,0.97,2.84,1.21
+sector,349,ETH,Ethiopia,Othergoodsandservices,urban,155.29,65.15,201.3,751.18,1574.24
+sector,350,ETH,Ethiopia,Appliances.,urban,13.98,6.47,19.26,48.74,51.65
+sector,351,FJI,Fiji,Alsectors,urban,2388.82,819.34,2067.07,5028.96,12306.13
+sector,352,FJI,Fiji,Foodandbeverages,urban,770.27,366.97,755.88,1339.33,2095.05
+sector,353,FJI,Fiji,Clothingandfootwear,urban,88.54,24.95,76.0,204.46,355.02
+sector,354,FJI,Fiji,Housing,urban,203.61,31.98,157.48,507.28,1517.93
+sector,355,FJI,Fiji,Energy,urban,149.32,71.27,150.58,244.07,448.65
+sector,356,FJI,Fiji,Transport,urban,340.41,105.41,278.47,743.78,2253.77
+sector,357,FJI,Fiji,Water,urban,39.66,24.86,39.41,59.38,92.9
+sector,358,FJI,Fiji,Educationsector,urban,117.93,35.7,90.05,287.41,659.41
+sector,359,FJI,Fiji,Health,urban,50.64,13.49,40.63,124.47,231.34
+sector,360,FJI,Fiji,ICT,urban,150.95,28.67,120.19,357.19,1137.36
+sector,361,FJI,Fiji,Financialservices,urban,134.03,13.75,87.3,359.61,1446.73
+sector,362,FJI,Fiji,Othergoodsandservices,urban,315.21,92.29,245.07,745.24,1955.37
+sector,363,FJI,Fiji,Appliances.,urban,28.24,10.01,26.02,56.74,112.59
+sector,364,GAB,Gabon,Alsectors,urban,2634.98,878.54,2111.73,5027.76,14050.47
+sector,365,GAB,Gabon,Foodandbeverages,urban,957.62,429.13,867.82,1658.48,2782.56
+sector,366,GAB,Gabon,Clothingandfootwear,urban,131.85,33.54,101.25,289.61,604.49
+sector,367,GAB,Gabon,Housing,urban,540.48,163.68,414.32,1037.35,3492.03
+sector,368,GAB,Gabon,Energy,urban,138.8,49.75,119.72,246.17,639.82
+sector,369,GAB,Gabon,Transport,urban,275.59,51.26,174.39,576.43,2673.22
+sector,370,GAB,Gabon,Water,urban,42.45,10.82,32.66,89.95,220.57
+sector,371,GAB,Gabon,Educationsector,urban,48.39,15.51,42.72,94.45,143.36
+sector,372,GAB,Gabon,Health,urban,64.15,25.43,56.62,117.76,203.8
+sector,373,GAB,Gabon,ICT,urban,140.65,20.33,93.91,331.28,982.94
+sector,374,GAB,Gabon,Financialservices,urban,24.99,0.62,6.94,62.99,425.63
+sector,375,GAB,Gabon,Othergoodsandservices,urban,200.34,51.65,139.29,397.59,1649.88
+sector,376,GAB,Gabon,Appliances.,urban,69.67,26.81,62.09,125.72,232.17
+sector,377,GMB,Gambia,Alsectors,urban,1439.53,684.58,1961.31,4728.02,10693.52
+sector,378,GMB,Gambia,Foodandbeverages,urban,841.71,443.47,1164.06,2381.44,1919.28
+sector,379,GMB,Gambia,Clothingandfootwear,urban,162.05,75.22,230.28,500.62,884.02
+sector,380,GMB,Gambia,Housing,urban,35.65,8.75,45.15,192.83,970.31
+sector,381,GMB,Gambia,Energy,urban,45.33,17.5,62.19,179.99,372.83
+sector,382,GMB,Gambia,Transport,urban,47.07,12.61,55.41,252.64,2206.49
+sector,383,GMB,Gambia,Water,urban,6.57,1.53,7.22,43.89,89.72
+sector,384,GMB,Gambia,Educationsector,urban,17.33,7.97,22.77,62.59,202.36
+sector,385,GMB,Gambia,Health,urban,19.71,12.36,26.2,44.12,94.7
+sector,386,GMB,Gambia,ICT,urban,48.07,17.01,64.06,212.33,515.19
+sector,387,GMB,Gambia,Financialservices,urban,3.67,0.33,3.22,29.49,270.86
+sector,388,GMB,Gambia,Othergoodsandservices,urban,210.43,86.74,278.3,821.77,3165.67
+sector,389,GMB,Gambia,Appliances.,urban,1.93,1.08,2.43,6.32,2.07
+sector,390,GHA,Ghana,Alsectors,urban,1826.08,804.71,1961.56,4869.35,14044.64
+sector,391,GHA,Ghana,Foodandbeverages,urban,831.15,420.39,941.39,1882.28,2634.84
+sector,392,GHA,Ghana,Clothingandfootwear,urban,132.5,56.35,147.87,352.21,534.1
+sector,393,GHA,Ghana,Housing,urban,99.68,45.03,106.59,268.45,658.17
+sector,394,GHA,Ghana,Energy,urban,97.18,52.88,110.71,198.8,358.58
+sector,395,GHA,Ghana,Transport,urban,191.62,28.22,134.59,929.36,6374.08
+sector,396,GHA,Ghana,Water,urban,31.77,20.27,33.12,65.15,212.91
+sector,397,GHA,Ghana,Educationsector,urban,175.69,89.74,205.88,351.55,673.58
+sector,398,GHA,Ghana,Health,urban,25.35,12.73,28.68,56.8,108.34
+sector,399,GHA,Ghana,ICT,urban,77.54,14.75,78.59,304.31,832.08
+sector,400,GHA,Ghana,Financialservices,urban,7.91,1.88,7.09,28.28,232.5
+sector,401,GHA,Ghana,Othergoodsandservices,urban,124.81,48.9,132.44,352.79,1305.91
+sector,402,GHA,Ghana,Appliances.,urban,30.86,13.58,34.61,79.38,119.55
+sector,403,GTM,Guatemala,Alsectors,urban,4169.13,912.68,2185.4,5371.48,15036.06
+sector,404,GTM,Guatemala,Foodandbeverages,urban,1306.28,478.21,952.16,1737.25,2891.48
+sector,405,GTM,Guatemala,Clothingandfootwear,urban,149.22,43.04,91.21,189.14,467.1
+sector,406,GTM,Guatemala,Housing,urban,755.58,127.52,316.06,994.21,3119.83
+sector,407,GTM,Guatemala,Energy,urban,176.61,63.18,137.64,208.51,434.17
+sector,408,GTM,Guatemala,Transport,urban,362.59,16.56,81.13,376.61,2251.36
+sector,409,GTM,Guatemala,Water,urban,19.11,2.59,9.62,25.09,71.67
+sector,410,GTM,Guatemala,Educationsector,urban,127.78,5.01,30.06,153.71,718.16
+sector,411,GTM,Guatemala,Health,urban,269.09,23.03,102.24,390.57,1076.28
+sector,412,GTM,Guatemala,ICT,urban,118.12,4.31,28.11,156.94,613.98
+sector,413,GTM,Guatemala,Financialservices,urban,85.71,3.27,23.61,80.54,538.26
+sector,414,GTM,Guatemala,Othergoodsandservices,urban,657.31,127.38,332.98,854.0,2430.1
+sector,415,GTM,Guatemala,Appliances.,urban,141.73,18.58,80.59,204.92,423.65
+sector,416,GIN,Guinea,Alsectors,urban,1225.66,799.09,1778.14,3943.17,
+sector,417,GIN,Guinea,Foodandbeverages,urban,777.18,534.36,1097.17,2055.49,
+sector,418,GIN,Guinea,Clothingandfootwear,urban,52.68,34.71,76.24,152.76,
+sector,419,GIN,Guinea,Housing,urban,46.65,32.79,62.9,218.64,
+sector,420,GIN,Guinea,Energy,urban,52.27,40.36,67.73,126.83,
+sector,421,GIN,Guinea,Transport,urban,91.78,37.74,159.63,540.26,
+sector,422,GIN,Guinea,Water,urban,6.39,3.99,9.43,25.24,
+sector,423,GIN,Guinea,Educationsector,urban,20.57,11.16,32.91,72.61,
+sector,424,GIN,Guinea,Health,urban,36.59,23.42,54.1,97.96,
+sector,425,GIN,Guinea,ICT,urban,32.7,16.52,53.72,133.0,
+sector,426,GIN,Guinea,Financialservices,urban,0.46,0.06,0.97,2.91,
+sector,427,GIN,Guinea,Othergoodsandservices,urban,66.87,41.26,97.65,347.56,
+sector,428,GIN,Guinea,Appliances.,urban,41.53,22.74,65.69,169.9,
+sector,429,HND,Honduras,Alsectors,urban,2123.81,752.08,2010.79,5114.68,14186.54
+sector,430,HND,Honduras,Foodandbeverages,urban,1169.69,603.51,1356.96,1926.68,2029.93
+sector,431,HND,Honduras,Clothingandfootwear,urban,54.14,11.83,46.24,172.82,334.83
+sector,432,HND,Honduras,Housing,urban,106.86,30.7,94.45,309.4,652.29
+sector,433,HND,Honduras,Energy,urban,0.0,0.0,0.0,0.0,0.0
+sector,434,HND,Honduras,Transport,urban,511.56,41.78,292.55,1856.77,8274.64
+sector,435,HND,Honduras,Water,urban,0.0,0.0,0.0,0.0,0.0
+sector,436,HND,Honduras,Educationsector,urban,0.0,0.0,0.0,0.0,0.0
+sector,437,HND,Honduras,Health,urban,2.07,0.33,1.24,6.72,34.53
+sector,438,HND,Honduras,ICT,urban,18.31,2.24,14.71,59.9,180.81
+sector,439,HND,Honduras,Financialservices,urban,9.61,0.33,3.07,37.19,236.24
+sector,440,HND,Honduras,Othergoodsandservices,urban,171.42,36.35,126.28,524.04,2067.89
+sector,441,HND,Honduras,Appliances.,urban,80.15,25.02,75.28,221.17,375.39
+sector,442,IND,India,Alsectors,urban,1364.18,758.39,1894.77,4710.79,11835.96
+sector,443,IND,India,Foodandbeverages,urban,475.08,341.6,620.63,1007.77,1406.27
+sector,444,IND,India,Clothingandfootwear,urban,70.41,44.05,95.61,203.24,273.88
+sector,445,IND,India,Housing,urban,313.33,126.1,450.2,1545.75,4579.15
+sector,446,IND,India,Energy,urban,90.28,64.21,115.2,220.44,363.6
+sector,447,IND,India,Transport,urban,80.56,27.63,121.68,393.31,2390.62
+sector,448,IND,India,Water,urban,5.07,2.66,7.35,17.14,47.01
+sector,449,IND,India,Educationsector,urban,66.22,21.48,111.5,276.0,140.51
+sector,450,IND,India,Health,urban,52.01,28.41,76.84,153.2,226.98
+sector,451,IND,India,ICT,urban,51.87,19.65,78.28,245.11,545.24
+sector,452,IND,India,Financialservices,urban,0.47,0.25,0.64,1.86,1.48
+sector,453,IND,India,Othergoodsandservices,urban,129.36,63.43,176.67,568.66,1734.32
+sector,454,IND,India,Appliances.,urban,29.51,18.92,40.17,78.31,126.91
+sector,455,IDN,Indonesia,Alsectors,urban,1268.87,739.35,1870.23,4487.28,10340.78
+sector,456,IDN,Indonesia,Foodandbeverages,urban,567.39,396.29,791.57,1286.77,1414.71
+sector,457,IDN,Indonesia,Clothingandfootwear,urban,43.25,25.47,64.61,139.87,176.04
+sector,458,IDN,Indonesia,Housing,urban,174.74,79.66,277.79,820.81,746.4
+sector,459,IDN,Indonesia,Energy,urban,67.15,45.25,93.1,190.69,174.5
+sector,460,IDN,Indonesia,Transport,urban,121.26,46.62,194.34,696.12,2604.72
+sector,461,IDN,Indonesia,Water,urban,8.54,3.86,14.15,33.81,65.07
+sector,462,IDN,Indonesia,Educationsector,urban,44.86,21.03,72.92,181.0,193.62
+sector,463,IDN,Indonesia,Health,urban,29.1,14.33,46.8,110.52,80.28
+sector,464,IDN,Indonesia,ICT,urban,51.26,18.77,86.16,275.3,262.18
+sector,465,IDN,Indonesia,Financialservices,urban,5.9,0.43,8.46,79.96,206.95
+sector,466,IDN,Indonesia,Othergoodsandservices,urban,133.02,73.92,187.28,605.36,4323.38
+sector,467,IDN,Indonesia,Appliances.,urban,22.4,13.72,33.05,67.07,92.94
+sector,468,IRQ,Iraq,Alsectors,urban,2631.87,950.76,2085.75,4985.84,14364.9
+sector,469,IRQ,Iraq,Foodandbeverages,urban,858.25,428.35,772.51,1395.55,2363.86
+sector,470,IRQ,Iraq,Clothingandfootwear,urban,217.42,77.13,181.54,403.68,909.78
+sector,471,IRQ,Iraq,Housing,urban,660.5,245.32,538.95,1230.45,3131.76
+sector,472,IRQ,Iraq,Energy,urban,112.12,43.86,98.55,194.74,383.01
+sector,473,IRQ,Iraq,Transport,urban,332.4,26.71,158.96,874.11,4212.78
+sector,474,IRQ,Iraq,Water,urban,0.0,0.0,0.0,0.0,0.0
+sector,475,IRQ,Iraq,Educationsector,urban,24.03,8.53,19.64,47.08,87.88
+sector,476,IRQ,Iraq,Health,urban,55.15,18.76,43.85,95.21,422.51
+sector,477,IRQ,Iraq,ICT,urban,98.07,23.09,73.44,207.08,583.3
+sector,478,IRQ,Iraq,Financialservices,urban,3.01,0.26,1.38,7.9,41.15
+sector,479,IRQ,Iraq,Othergoodsandservices,urban,246.33,70.05,175.29,486.37,2148.32
+sector,480,IRQ,Iraq,Appliances.,urban,24.58,8.7,21.62,43.67,80.57
+sector,481,JAM,Jamaica,Alsectors,urban,3422.98,897.65,2177.01,5083.24,13462.05
+sector,482,JAM,Jamaica,Foodandbeverages,urban,978.41,410.8,814.65,1340.08,1788.55
+sector,483,JAM,Jamaica,Clothingandfootwear,urban,220.4,78.89,173.7,305.62,539.02
+sector,484,JAM,Jamaica,Housing,urban,416.44,9.59,111.23,667.33,3544.73
+sector,485,JAM,Jamaica,Energy,urban,244.61,80.06,179.29,361.71,618.84
+sector,486,JAM,Jamaica,Transport,urban,495.02,82.72,264.85,747.05,2637.3
+sector,487,JAM,Jamaica,Water,urban,67.18,19.03,55.63,89.26,172.77
+sector,488,JAM,Jamaica,Educationsector,urban,176.64,53.75,114.98,281.46,489.67
+sector,489,JAM,Jamaica,Health,urban,107.54,44.77,85.68,139.96,306.17
+sector,490,JAM,Jamaica,ICT,urban,187.47,38.79,123.82,279.3,696.66
+sector,491,JAM,Jamaica,Financialservices,urban,111.49,1.99,23.05,213.09,768.46
+sector,492,JAM,Jamaica,Othergoodsandservices,urban,315.4,48.1,152.37,511.01,1633.21
+sector,493,JAM,Jamaica,Appliances.,urban,102.39,29.16,77.75,147.37,266.67
+sector,494,JOR,Jordan,Alsectors,urban,3271.15,749.06,2252.45,5175.15,12185.85
+sector,495,JOR,Jordan,Foodandbeverages,urban,1148.01,332.49,905.06,1742.24,2775.41
+sector,496,JOR,Jordan,Clothingandfootwear,urban,158.52,27.33,118.31,251.27,466.46
+sector,497,JOR,Jordan,Housing,urban,573.98,139.54,400.29,878.51,2302.03
+sector,498,JOR,Jordan,Energy,urban,138.45,38.98,106.78,198.42,490.05
+sector,499,JOR,Jordan,Transport,urban,243.16,35.73,110.0,426.97,1551.19
+sector,500,JOR,Jordan,Water,urban,28.58,8.86,22.43,40.13,99.26
+sector,501,JOR,Jordan,Educationsector,urban,191.24,9.78,75.35,356.89,1279.44
+sector,502,JOR,Jordan,Health,urban,73.54,14.69,46.51,120.37,313.76
+sector,503,JOR,Jordan,ICT,urban,214.84,33.41,126.83,368.37,947.31
+sector,504,JOR,Jordan,Financialservices,urban,9.79,0.38,3.79,17.97,69.91
+sector,505,JOR,Jordan,Othergoodsandservices,urban,427.29,92.03,286.09,679.44,1719.0
+sector,506,JOR,Jordan,Appliances.,urban,63.74,15.84,51.01,94.56,172.04
+sector,507,KAZ,Kazakhstan,Alsectors,urban,3522.33,968.02,2392.13,4941.21,11129.54
+sector,508,KAZ,Kazakhstan,Foodandbeverages,urban,1925.54,600.88,1364.96,2662.51,4773.8
+sector,509,KAZ,Kazakhstan,Clothingandfootwear,urban,271.92,63.39,188.81,370.8,1071.89
+sector,510,KAZ,Kazakhstan,Housing,urban,29.17,1.42,11.04,47.47,259.29
+sector,511,KAZ,Kazakhstan,Energy,urban,333.49,103.77,235.94,460.23,876.1
+sector,512,KAZ,Kazakhstan,Transport,urban,156.23,33.07,95.92,225.9,723.21
+sector,513,KAZ,Kazakhstan,Water,urban,32.52,12.1,26.68,40.2,81.69
+sector,514,KAZ,Kazakhstan,Educationsector,urban,87.14,9.37,52.32,133.94,217.02
+sector,515,KAZ,Kazakhstan,Health,urban,91.18,15.72,52.66,138.36,355.33
+sector,516,KAZ,Kazakhstan,ICT,urban,90.52,9.67,46.97,139.58,517.14
+sector,517,KAZ,Kazakhstan,Financialservices,urban,0.04,0.0,0.02,0.07,0.0
+sector,518,KAZ,Kazakhstan,Othergoodsandservices,urban,344.75,83.82,217.68,491.2,1554.12
+sector,519,KAZ,Kazakhstan,Appliances.,urban,159.84,34.81,99.14,230.97,699.93
+sector,520,KEN,Kenya,Alsectors,urban,1661.47,726.11,1919.99,5388.46,13434.93
+sector,521,KEN,Kenya,Foodandbeverages,urban,722.22,415.5,883.64,1694.24,3486.93
+sector,522,KEN,Kenya,Clothingandfootwear,urban,116.68,42.73,139.08,449.37,728.94
+sector,523,KEN,Kenya,Housing,urban,210.79,82.52,261.14,701.44,1428.2
+sector,524,KEN,Kenya,Energy,urban,81.94,45.99,93.22,233.86,429.52
+sector,525,KEN,Kenya,Transport,urban,190.07,31.03,165.94,1071.27,2999.65
+sector,526,KEN,Kenya,Water,urban,20.5,12.58,20.64,52.13,193.49
+sector,527,KEN,Kenya,Educationsector,urban,0.0,0.0,0.0,0.0,0.0
+sector,528,KEN,Kenya,Health,urban,54.48,14.48,46.89,140.38,1702.61
+sector,529,KEN,Kenya,ICT,urban,73.62,15.36,90.41,325.05,656.8
+sector,530,KEN,Kenya,Financialservices,urban,4.24,0.24,2.61,33.4,65.5
+sector,531,KEN,Kenya,Othergoodsandservices,urban,150.24,50.01,167.73,581.35,1567.73
+sector,532,KEN,Kenya,Appliances.,urban,36.69,15.67,48.69,105.97,175.55
+sector,533,KGZ,Kyrgyzstan,Alsectors,urban,1722.87,894.09,1920.55,4438.85,14818.61
+sector,534,KGZ,Kyrgyzstan,Foodandbeverages,urban,963.8,564.64,1068.03,2140.66,8864.42
+sector,535,KGZ,Kyrgyzstan,Clothingandfootwear,urban,186.38,91.82,208.87,495.09,1781.76
+sector,536,KGZ,Kyrgyzstan,Housing,urban,32.66,8.66,31.65,191.74,196.3
+sector,537,KGZ,Kyrgyzstan,Energy,urban,105.85,46.53,125.99,243.82,380.38
+sector,538,KGZ,Kyrgyzstan,Transport,urban,130.66,62.68,139.52,451.03,420.61
+sector,539,KGZ,Kyrgyzstan,Water,urban,10.77,4.66,13.27,20.48,23.25
+sector,540,KGZ,Kyrgyzstan,Educationsector,urban,50.29,11.99,64.1,120.62,764.26
+sector,541,KGZ,Kyrgyzstan,Health,urban,25.36,11.45,27.45,86.51,162.33
+sector,542,KGZ,Kyrgyzstan,ICT,urban,52.45,24.02,60.44,136.3,254.1
+sector,543,KGZ,Kyrgyzstan,Financialservices,urban,0.05,0.01,0.04,0.43,0.0
+sector,544,KGZ,Kyrgyzstan,Othergoodsandservices,urban,130.7,53.09,143.43,446.67,1596.12
+sector,545,KGZ,Kyrgyzstan,Appliances.,urban,33.91,14.55,37.76,105.49,375.09
+sector,546,LAO,Lao People's Democratic Republic,Alsectors,urban,1760.37,710.95,2274.39,5219.59,16447.09
+sector,547,LAO,Lao People's Democratic Republic,Foodandbeverages,urban,781.55,440.76,1074.32,1465.59,1145.58
+sector,548,LAO,Lao People's Democratic Republic,Clothingandfootwear,urban,49.01,19.41,70.88,129.62,79.98
+sector,549,LAO,Lao People's Democratic Republic,Housing,urban,343.29,87.51,448.37,1207.94,5324.71
+sector,550,LAO,Lao People's Democratic Republic,Energy,urban,40.46,23.06,51.62,93.41,123.12
+sector,551,LAO,Lao People's Democratic Republic,Transport,urban,292.1,54.81,271.75,1529.83,8693.92
+sector,552,LAO,Lao People's Democratic Republic,Water,urban,7.0,2.28,10.56,18.61,23.17
+sector,553,LAO,Lao People's Democratic Republic,Educationsector,urban,30.04,11.18,45.35,71.42,75.89
+sector,554,LAO,Lao People's Democratic Republic,Health,urban,32.82,12.9,45.97,100.1,2.43
+sector,555,LAO,Lao People's Democratic Republic,ICT,urban,51.96,16.9,75.97,155.84,131.15
+sector,556,LAO,Lao People's Democratic Republic,Financialservices,urban,0.05,0.0,0.12,0.0,0.0
+sector,557,LAO,Lao People's Democratic Republic,Othergoodsandservices,urban,120.65,37.61,162.69,417.68,838.2
+sector,558,LAO,Lao People's Democratic Republic,Appliances.,urban,11.44,4.53,16.77,29.54,8.95
+sector,559,LVA,Latvia,Alsectors,urban,5736.16,887.79,2491.6,5769.83,13347.19
+sector,560,LVA,Latvia,Foodandbeverages,urban,1831.14,488.4,1021.97,1955.8,3194.27
+sector,561,LVA,Latvia,Clothingandfootwear,urban,325.22,5.97,58.7,297.12,1086.12
+sector,562,LVA,Latvia,Housing,urban,291.98,63.03,158.67,296.57,593.67
+sector,563,LVA,Latvia,Energy,urban,541.34,104.78,338.61,592.67,801.55
+sector,564,LVA,Latvia,Transport,urban,749.18,20.54,150.93,673.24,2520.31
+sector,565,LVA,Latvia,Water,urban,42.85,15.75,32.72,44.81,59.52
+sector,566,LVA,Latvia,Educationsector,urban,120.41,6.17,41.38,131.48,256.33
+sector,567,LVA,Latvia,Health,urban,315.74,8.86,96.74,341.65,713.78
+sector,568,LVA,Latvia,ICT,urban,378.35,64.33,198.28,382.14,798.14
+sector,569,LVA,Latvia,Financialservices,urban,115.42,11.65,36.53,110.82,324.32
+sector,570,LVA,Latvia,Othergoodsandservices,urban,884.97,86.75,294.55,805.07,2668.01
+sector,571,LVA,Latvia,Appliances.,urban,139.57,11.57,62.53,138.47,331.17
+sector,572,LSO,Lesotho,Alsectors,urban,1995.49,688.63,2040.12,5084.2,14635.62
+sector,573,LSO,Lesotho,Foodandbeverages,urban,594.37,279.19,675.66,1266.74,2068.24
+sector,574,LSO,Lesotho,Clothingandfootwear,urban,184.18,36.99,175.38,591.45,1395.06
+sector,575,LSO,Lesotho,Housing,urban,433.62,190.24,490.19,958.82,1714.34
+sector,576,LSO,Lesotho,Energy,urban,120.76,52.83,131.26,286.48,438.59
+sector,577,LSO,Lesotho,Transport,urban,210.68,28.73,138.88,537.19,5833.06
+sector,578,LSO,Lesotho,Water,urban,8.25,1.87,8.87,23.83,50.49
+sector,579,LSO,Lesotho,Educationsector,urban,73.53,6.44,63.25,253.76,902.38
+sector,580,LSO,Lesotho,Health,urban,21.92,5.62,24.64,63.18,73.83
+sector,581,LSO,Lesotho,ICT,urban,56.25,5.54,48.81,194.5,647.53
+sector,582,LSO,Lesotho,Financialservices,urban,9.32,0.68,6.52,43.12,44.25
+sector,583,LSO,Lesotho,Othergoodsandservices,urban,229.85,58.32,219.37,735.07,1295.67
+sector,584,LSO,Lesotho,Appliances.,urban,52.76,22.16,57.28,130.08,172.19
+sector,585,LBR,Liberia,Alsectors,urban,981.02,683.07,1718.4,4524.04,
+sector,586,LBR,Liberia,Foodandbeverages,urban,482.63,377.51,798.87,1165.74,
+sector,587,LBR,Liberia,Clothingandfootwear,urban,60.77,48.12,101.01,120.83,
+sector,588,LBR,Liberia,Housing,urban,65.99,48.67,111.22,247.86,
+sector,589,LBR,Liberia,Energy,urban,49.57,29.09,97.5,320.73,
+sector,590,LBR,Liberia,Transport,urban,121.24,47.82,235.25,1678.7,
+sector,591,LBR,Liberia,Water,urban,3.7,1.65,9.49,21.09,
+sector,592,LBR,Liberia,Educationsector,urban,37.17,30.87,54.75,92.35,
+sector,593,LBR,Liberia,Health,urban,17.7,14.44,26.86,45.35,
+sector,594,LBR,Liberia,ICT,urban,52.89,28.14,120.55,282.81,
+sector,595,LBR,Liberia,Financialservices,urban,1.98,0.7,3.1,37.96,
+sector,596,LBR,Liberia,Othergoodsandservices,urban,61.89,38.39,112.89,413.42,
+sector,597,LBR,Liberia,Appliances.,urban,25.48,17.67,46.9,97.19,
+sector,598,LTU,Lithuania,Alsectors,urban,4698.26,1017.42,2503.57,5321.81,13334.47
+sector,599,LTU,Lithuania,Foodandbeverages,urban,1945.83,529.29,1236.14,2258.78,3820.45
+sector,600,LTU,Lithuania,Clothingandfootwear,urban,407.67,34.77,127.92,476.37,1577.74
+sector,601,LTU,Lithuania,Housing,urban,450.49,130.51,279.21,499.44,1130.62
+sector,602,LTU,Lithuania,Energy,urban,192.3,60.34,125.73,214.93,427.0
+sector,603,LTU,Lithuania,Transport,urban,450.95,46.2,175.23,498.85,1788.08
+sector,604,LTU,Lithuania,Water,urban,10.43,3.27,6.82,11.66,23.16
+sector,605,LTU,Lithuania,Educationsector,urban,29.44,2.27,15.64,34.59,74.04
+sector,606,LTU,Lithuania,Health,urban,237.87,28.85,105.53,281.67,700.74
+sector,607,LTU,Lithuania,ICT,urban,279.48,85.51,164.52,309.12,758.81
+sector,608,LTU,Lithuania,Financialservices,urban,30.05,2.96,10.83,33.2,124.55
+sector,609,LTU,Lithuania,Othergoodsandservices,urban,590.03,86.18,229.44,621.74,2603.82
+sector,610,LTU,Lithuania,Appliances.,urban,73.7,7.26,26.57,81.44,305.48
+sector,611,MKD,"Macedonia, Republic of",Alsectors,urban,5288.46,929.6,2381.48,5699.91,13982.05
+sector,612,MKD,"Macedonia, Republic of",Foodandbeverages,urban,2619.31,766.71,1600.72,2948.24,4966.92
+sector,613,MKD,"Macedonia, Republic of",Clothingandfootwear,urban,460.63,2.49,102.06,468.72,1692.91
+sector,614,MKD,"Macedonia, Republic of",Housing,urban,82.78,0.78,7.3,41.66,523.52
+sector,615,MKD,"Macedonia, Republic of",Energy,urban,540.58,10.84,128.66,593.44,1768.02
+sector,616,MKD,"Macedonia, Republic of",Transport,urban,364.41,5.88,76.71,383.67,1294.74
+sector,617,MKD,"Macedonia, Republic of",Water,urban,3.87,0.49,1.31,4.68,9.46
+sector,618,MKD,"Macedonia, Republic of",Educationsector,urban,13.32,0.0,2.31,12.22,56.75
+sector,619,MKD,"Macedonia, Republic of",Health,urban,167.41,15.75,72.54,176.87,471.3
+sector,620,MKD,"Macedonia, Republic of",ICT,urban,326.13,8.77,69.94,345.31,1145.21
+sector,621,MKD,"Macedonia, Republic of",Financialservices,urban,1.16,0.0,0.0,0.52,7.99
+sector,622,MKD,"Macedonia, Republic of",Othergoodsandservices,urban,579.6,89.59,259.55,577.79,1744.6
+sector,623,MKD,"Macedonia, Republic of",Appliances.,urban,129.25,28.31,60.39,146.79,300.64
+sector,624,MDG,Madagascar,Alsectors,urban,456.96,393.65,1715.2,5264.19,
+sector,625,MDG,Madagascar,Foodandbeverages,urban,261.57,233.86,763.59,4835.29,
+sector,626,MDG,Madagascar,Clothingandfootwear,urban,16.59,14.73,56.31,14.8,
+sector,627,MDG,Madagascar,Housing,urban,67.7,56.3,310.04,135.22,
+sector,628,MDG,Madagascar,Energy,urban,28.68,24.37,120.24,50.43,
+sector,629,MDG,Madagascar,Transport,urban,24.89,16.71,197.22,152.88,
+sector,630,MDG,Madagascar,Water,urban,5.63,4.3,33.74,17.64,
+sector,631,MDG,Madagascar,Educationsector,urban,12.28,10.98,40.39,5.44,
+sector,632,MDG,Madagascar,Health,urban,2.4,2.21,6.3,3.53,
+sector,633,MDG,Madagascar,ICT,urban,7.85,5.02,68.05,16.93,
+sector,634,MDG,Madagascar,Financialservices,urban,0.0,0.0,0.0,0.0,
+sector,635,MDG,Madagascar,Othergoodsandservices,urban,28.13,24.26,110.81,28.23,
+sector,636,MDG,Madagascar,Appliances.,urban,1.24,0.9,8.5,3.8,
+sector,637,MWI,Malawi,Alsectors,urban,1293.25,648.57,1857.46,5120.83,11673.19
+sector,638,MWI,Malawi,Foodandbeverages,urban,636.31,384.19,927.36,1869.22,3404.34
+sector,639,MWI,Malawi,Clothingandfootwear,urban,38.74,16.27,61.3,176.28,135.09
+sector,640,MWI,Malawi,Housing,urban,177.61,71.3,271.68,858.78,1100.44
+sector,641,MWI,Malawi,Energy,urban,77.2,42.05,125.1,218.74,368.52
+sector,642,MWI,Malawi,Transport,urban,98.82,24.29,108.9,660.51,3558.37
+sector,643,MWI,Malawi,Water,urban,28.39,14.4,37.34,129.33,235.7
+sector,644,MWI,Malawi,Educationsector,urban,26.36,11.24,45.95,100.83,32.45
+sector,645,MWI,Malawi,Health,urban,9.51,6.29,12.98,23.47,87.15
+sector,646,MWI,Malawi,ICT,urban,91.03,35.23,134.91,459.87,808.62
+sector,647,MWI,Malawi,Financialservices,urban,2.77,0.05,2.57,25.76,134.66
+sector,648,MWI,Malawi,Othergoodsandservices,urban,70.28,22.48,78.95,467.87,1597.98
+sector,649,MWI,Malawi,Appliances.,urban,36.24,20.77,50.42,130.17,209.87
+sector,650,MDV,Maldives,Alsectors,urban,2404.01,849.87,2159.51,4936.17,11424.93
+sector,651,MDV,Maldives,Foodandbeverages,urban,555.9,326.74,560.77,824.73,1213.94
+sector,652,MDV,Maldives,Clothingandfootwear,urban,79.22,35.37,76.87,134.48,359.2
+sector,653,MDV,Maldives,Housing,urban,565.49,72.17,425.66,1584.18,3215.75
+sector,654,MDV,Maldives,Energy,urban,152.54,93.88,151.82,225.42,374.82
+sector,655,MDV,Maldives,Transport,urban,196.39,45.2,179.97,389.27,1716.59
+sector,656,MDV,Maldives,Water,urban,55.58,14.93,54.48,108.09,209.28
+sector,657,MDV,Maldives,Educationsector,urban,55.86,20.59,53.3,109.41,129.93
+sector,658,MDV,Maldives,Health,urban,148.2,38.16,147.59,285.9,489.23
+sector,659,MDV,Maldives,ICT,urban,171.82,56.6,155.7,344.57,1025.42
+sector,660,MDV,Maldives,Financialservices,urban,1.19,0.03,1.29,2.42,2.04
+sector,661,MDV,Maldives,Othergoodsandservices,urban,314.85,100.92,253.21,723.93,2256.87
+sector,662,MDV,Maldives,Appliances.,urban,106.97,45.27,98.84,203.78,431.86
+sector,663,MLI,Mali,Alsectors,urban,988.24,649.58,1775.54,4272.76,11170.68
+sector,664,MLI,Mali,Foodandbeverages,urban,437.39,342.25,682.17,1027.68,850.42
+sector,665,MLI,Mali,Clothingandfootwear,urban,63.28,41.98,113.66,258.21,554.24
+sector,666,MLI,Mali,Housing,urban,105.59,47.36,220.34,981.02,2398.53
+sector,667,MLI,Mali,Energy,urban,54.4,36.14,96.0,246.58,471.22
+sector,668,MLI,Mali,Transport,urban,72.58,47.49,136.01,239.12,671.37
+sector,669,MLI,Mali,Water,urban,11.37,7.36,20.28,55.17,215.76
+sector,670,MLI,Mali,Educationsector,urban,8.03,4.38,17.22,32.39,104.28
+sector,671,MLI,Mali,Health,urban,18.75,12.83,33.26,63.95,242.26
+sector,672,MLI,Mali,ICT,urban,88.59,40.78,197.99,557.21,3213.76
+sector,673,MLI,Mali,Financialservices,urban,2.44,0.46,5.91,38.26,128.03
+sector,674,MLI,Mali,Othergoodsandservices,urban,109.09,57.46,222.61,702.19,2249.32
+sector,675,MLI,Mali,Appliances.,urban,16.75,11.08,30.09,70.96,71.49
+sector,676,MRT,Mauritania,Alsectors,urban,1869.04,855.33,1933.35,4932.61,11517.83
+sector,677,MRT,Mauritania,Foodandbeverages,urban,909.6,475.16,993.09,1995.76,3743.25
+sector,678,MRT,Mauritania,Clothingandfootwear,urban,125.48,68.68,131.92,291.99,461.11
+sector,679,MRT,Mauritania,Housing,urban,265.06,96.82,252.25,876.45,2245.56
+sector,680,MRT,Mauritania,Energy,urban,99.24,44.09,110.0,236.56,453.01
+sector,681,MRT,Mauritania,Transport,urban,107.51,30.82,92.83,402.53,1643.09
+sector,682,MRT,Mauritania,Water,urban,62.84,39.53,68.3,115.91,219.19
+sector,683,MRT,Mauritania,Educationsector,urban,18.89,5.89,18.48,58.99,262.84
+sector,684,MRT,Mauritania,Health,urban,66.82,22.55,65.79,234.27,180.78
+sector,685,MRT,Mauritania,ICT,urban,21.89,5.44,19.46,78.34,420.21
+sector,686,MRT,Mauritania,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,687,MRT,Mauritania,Othergoodsandservices,urban,175.01,62.51,165.27,584.97,1605.58
+sector,688,MRT,Mauritania,Appliances.,urban,16.69,3.85,15.96,56.84,283.22
+sector,689,MUS,Mauritius,Alsectors,urban,3227.01,956.43,2171.29,5132.26,14545.01
+sector,690,MUS,Mauritius,Foodandbeverages,urban,1211.38,540.83,1027.19,1718.62,2674.54
+sector,691,MUS,Mauritius,Clothingandfootwear,urban,182.29,20.65,108.48,364.7,623.43
+sector,692,MUS,Mauritius,Housing,urban,291.12,122.3,222.24,434.92,944.96
+sector,693,MUS,Mauritius,Energy,urban,62.52,28.51,49.42,91.16,182.82
+sector,694,MUS,Mauritius,Transport,urban,522.47,44.3,177.24,892.01,5335.2
+sector,695,MUS,Mauritius,Water,urban,15.19,6.93,12.01,22.15,44.42
+sector,696,MUS,Mauritius,Educationsector,urban,116.32,11.97,60.12,191.96,860.55
+sector,697,MUS,Mauritius,Health,urban,106.66,7.39,48.02,200.91,745.26
+sector,698,MUS,Mauritius,ICT,urban,172.47,46.04,123.34,283.77,592.09
+sector,699,MUS,Mauritius,Financialservices,urban,60.59,11.68,33.84,108.75,324.18
+sector,700,MUS,Mauritius,Othergoodsandservices,urban,426.64,104.4,276.22,716.76,1899.92
+sector,701,MUS,Mauritius,Appliances.,urban,59.37,11.44,33.16,106.56,317.65
+sector,702,MEX,Mexico,Alsectors,urban,3036.59,869.01,2104.68,5248.61,14296.01
+sector,703,MEX,Mexico,Foodandbeverages,urban,667.5,277.93,569.29,1054.8,1851.78
+sector,704,MEX,Mexico,Clothingandfootwear,urban,187.47,52.11,132.72,322.4,863.63
+sector,705,MEX,Mexico,Housing,urban,806.9,251.65,575.87,1380.93,3551.29
+sector,706,MEX,Mexico,Energy,urban,127.85,58.91,111.76,192.58,341.63
+sector,707,MEX,Mexico,Transport,urban,275.79,35.13,142.92,525.63,1882.71
+sector,708,MEX,Mexico,Water,urban,29.65,12.26,25.88,45.07,84.84
+sector,709,MEX,Mexico,Educationsector,urban,262.17,49.16,160.38,491.62,1434.52
+sector,710,MEX,Mexico,Health,urban,68.58,11.38,36.92,115.13,521.92
+sector,711,MEX,Mexico,ICT,urban,137.92,25.53,93.96,263.47,605.72
+sector,712,MEX,Mexico,Financialservices,urban,16.54,0.04,1.65,34.79,195.48
+sector,713,MEX,Mexico,Othergoodsandservices,urban,281.24,18.85,109.53,551.13,2394.02
+sector,714,MEX,Mexico,Appliances.,urban,174.96,76.04,143.81,271.05,568.47
+sector,715,MDA,Moldova,Alsectors,urban,4065.94,871.98,2280.35,5370.53,13204.15
+sector,716,MDA,Moldova,Foodandbeverages,urban,1658.27,560.0,1219.79,2140.56,3383.59
+sector,717,MDA,Moldova,Clothingandfootwear,urban,487.34,43.79,196.0,684.08,1957.08
+sector,718,MDA,Moldova,Housing,urban,163.97,5.57,24.86,139.67,1521.27
+sector,719,MDA,Moldova,Energy,urban,19.3,10.6,23.44,17.3,17.01
+sector,720,MDA,Moldova,Transport,urban,390.82,27.0,151.9,598.88,1303.96
+sector,721,MDA,Moldova,Water,urban,0.0,0.0,0.0,0.0,0.0
+sector,722,MDA,Moldova,Educationsector,urban,51.06,0.61,15.49,58.57,327.95
+sector,723,MDA,Moldova,Health,urban,441.59,72.27,227.49,601.34,1495.04
+sector,724,MDA,Moldova,ICT,urban,53.94,0.0,8.58,54.53,446.96
+sector,725,MDA,Moldova,Financialservices,urban,8.73,0.0,3.67,15.07,17.6
+sector,726,MDA,Moldova,Othergoodsandservices,urban,559.3,99.46,271.95,737.88,2140.91
+sector,727,MDA,Moldova,Appliances.,urban,231.62,52.68,137.19,322.67,592.78
+sector,728,MNG,Mongolia,Alsectors,urban,1615.92,814.49,1908.92,4857.89,12223.56
+sector,729,MNG,Mongolia,Foodandbeverages,urban,690.5,453.18,852.12,1213.86,1325.36
+sector,730,MNG,Mongolia,Clothingandfootwear,urban,171.85,88.89,214.25,436.78,872.82
+sector,731,MNG,Mongolia,Housing,urban,33.5,9.0,39.22,171.17,113.11
+sector,732,MNG,Mongolia,Energy,urban,92.83,70.83,108.54,135.03,165.92
+sector,733,MNG,Mongolia,Transport,urban,266.0,40.8,233.82,1806.84,7763.71
+sector,734,MNG,Mongolia,Water,urban,18.05,8.05,24.79,40.32,50.25
+sector,735,MNG,Mongolia,Educationsector,urban,47.38,17.46,65.5,125.7,217.86
+sector,736,MNG,Mongolia,Health,urban,21.29,11.41,26.87,50.21,78.02
+sector,737,MNG,Mongolia,ICT,urban,97.08,34.11,123.29,338.79,724.69
+sector,738,MNG,Mongolia,Financialservices,urban,14.73,6.3,19.57,38.14,73.71
+sector,739,MNG,Mongolia,Othergoodsandservices,urban,118.29,50.56,145.54,391.88,678.57
+sector,740,MNG,Mongolia,Appliances.,urban,44.42,23.91,55.41,109.17,159.52
+sector,741,MNE,Montenegro,Alsectors,urban,6508.53,,2627.9,5760.51,12749.16
+sector,742,MNE,Montenegro,Foodandbeverages,urban,1852.47,,969.31,1793.2,2763.05
+sector,743,MNE,Montenegro,Clothingandfootwear,urban,422.66,,150.88,380.89,810.93
+sector,744,MNE,Montenegro,Housing,urban,1695.96,,577.68,1397.79,3873.73
+sector,745,MNE,Montenegro,Energy,urban,532.35,,226.59,498.86,907.19
+sector,746,MNE,Montenegro,Transport,urban,533.91,,188.6,416.41,1323.21
+sector,747,MNE,Montenegro,Water,urban,59.62,,22.72,52.17,120.53
+sector,748,MNE,Montenegro,Educationsector,urban,156.47,,2.75,135.44,364.22
+sector,749,MNE,Montenegro,Health,urban,151.43,,43.63,114.21,400.34
+sector,750,MNE,Montenegro,ICT,urban,336.99,,138.82,296.06,668.22
+sector,751,MNE,Montenegro,Financialservices,urban,11.13,,0.0,10.72,21.05
+sector,752,MNE,Montenegro,Othergoodsandservices,urban,648.18,,241.24,566.11,1319.24
+sector,753,MNE,Montenegro,Appliances.,urban,107.35,,65.66,98.65,177.46
+sector,754,MAR,Morocco,Alsectors,urban,2854.78,947.22,2137.23,5093.27,13641.57
+sector,755,MAR,Morocco,Foodandbeverages,urban,1161.5,462.83,964.67,1951.87,3363.05
+sector,756,MAR,Morocco,Clothingandfootwear,urban,149.06,26.79,101.09,303.6,767.66
+sector,757,MAR,Morocco,Housing,urban,523.83,192.25,403.64,906.83,2328.38
+sector,758,MAR,Morocco,Energy,urban,137.04,69.76,121.57,203.28,358.41
+sector,759,MAR,Morocco,Transport,urban,174.56,19.3,75.62,353.1,2394.32
+sector,760,MAR,Morocco,Water,urban,46.41,19.17,39.31,73.3,161.98
+sector,761,MAR,Morocco,Educationsector,urban,55.54,19.64,32.96,99.64,524.8
+sector,762,MAR,Morocco,Health,urban,149.45,37.59,105.1,292.32,712.35
+sector,763,MAR,Morocco,ICT,urban,93.29,13.2,57.98,195.95,605.76
+sector,764,MAR,Morocco,Financialservices,urban,52.3,2.57,20.81,125.03,566.21
+sector,765,MAR,Morocco,Othergoodsandservices,urban,280.14,76.34,192.63,527.65,1677.14
+sector,766,MAR,Morocco,Appliances.,urban,31.67,7.79,21.83,60.7,181.53
+sector,767,MOZ,Mozambique,Alsectors,urban,810.77,512.68,1824.36,5103.94,13942.28
+sector,768,MOZ,Mozambique,Foodandbeverages,urban,319.44,261.63,569.0,967.6,1797.63
+sector,769,MOZ,Mozambique,Clothingandfootwear,urban,49.11,29.69,119.23,363.32,397.28
+sector,770,MOZ,Mozambique,Housing,urban,177.15,94.81,502.74,1157.21,3295.29
+sector,771,MOZ,Mozambique,Energy,urban,56.44,43.21,108.56,234.65,385.13
+sector,772,MOZ,Mozambique,Transport,urban,71.1,19.69,157.43,1019.19,5002.46
+sector,773,MOZ,Mozambique,Water,urban,13.08,8.17,33.16,74.08,144.13
+sector,774,MOZ,Mozambique,Educationsector,urban,4.24,2.8,11.51,18.18,8.0
+sector,775,MOZ,Mozambique,Health,urban,5.98,2.77,15.87,65.41,83.45
+sector,776,MOZ,Mozambique,ICT,urban,41.03,16.19,118.54,463.53,920.6
+sector,777,MOZ,Mozambique,Financialservices,urban,1.29,0.02,1.72,36.19,108.96
+sector,778,MOZ,Mozambique,Othergoodsandservices,urban,56.77,25.02,145.57,610.23,1583.74
+sector,779,MOZ,Mozambique,Appliances.,urban,15.14,8.69,41.02,94.36,215.62
+sector,780,NAM,Namibia,Alsectors,urban,2583.34,649.87,2007.9,5490.31,16943.97
+sector,781,NAM,Namibia,Foodandbeverages,urban,391.14,209.7,405.06,657.63,1320.99
+sector,782,NAM,Namibia,Clothingandfootwear,urban,152.59,64.92,174.91,291.56,474.97
+sector,783,NAM,Namibia,Housing,urban,497.67,119.83,371.9,1098.32,3302.72
+sector,784,NAM,Namibia,Energy,urban,103.62,25.2,77.02,230.17,683.9
+sector,785,NAM,Namibia,Transport,urban,394.78,43.64,243.17,846.19,3507.23
+sector,786,NAM,Namibia,Water,urban,50.78,12.35,37.75,112.8,335.17
+sector,787,NAM,Namibia,Educationsector,urban,87.81,18.72,72.69,253.42,402.26
+sector,788,NAM,Namibia,Health,urban,49.35,7.58,33.84,116.57,367.61
+sector,789,NAM,Namibia,ICT,urban,120.52,35.41,111.14,252.06,641.14
+sector,790,NAM,Namibia,Financialservices,urban,161.06,19.28,95.87,368.57,1376.19
+sector,791,NAM,Namibia,Othergoodsandservices,urban,477.22,81.65,326.91,1041.47,3704.57
+sector,792,NAM,Namibia,Appliances.,urban,96.81,11.59,57.63,221.55,827.24
+sector,793,NPL,Nepal,Alsectors,urban,1600.38,795.06,1897.17,4765.47,13098.65
+sector,794,NPL,Nepal,Foodandbeverages,urban,649.47,436.05,779.09,1216.05,1378.43
+sector,795,NPL,Nepal,Clothingandfootwear,urban,81.4,50.09,97.93,182.02,216.08
+sector,796,NPL,Nepal,Housing,urban,82.69,23.63,117.61,244.24,333.87
+sector,797,NPL,Nepal,Energy,urban,78.08,49.46,96.03,150.15,166.87
+sector,798,NPL,Nepal,Transport,urban,217.69,23.17,171.22,1583.71,8957.2
+sector,799,NPL,Nepal,Water,urban,8.11,3.79,10.54,21.48,16.3
+sector,800,NPL,Nepal,Educationsector,urban,99.49,38.29,134.16,282.89,271.9
+sector,801,NPL,Nepal,Health,urban,104.68,62.14,135.27,180.8,258.66
+sector,802,NPL,Nepal,ICT,urban,126.38,43.4,163.75,440.29,524.56
+sector,803,NPL,Nepal,Financialservices,urban,16.83,3.46,23.37,60.02,150.24
+sector,804,NPL,Nepal,Othergoodsandservices,urban,120.68,52.55,150.25,370.11,780.02
+sector,805,NPL,Nepal,Appliances.,urban,14.89,9.03,17.95,33.71,44.52
+sector,806,NIC,Nicaragua,Alsectors,urban,664.4,519.22,1711.13,3894.13,
+sector,807,NIC,Nicaragua,Foodandbeverages,urban,300.12,266.49,565.87,750.61,
+sector,808,NIC,Nicaragua,Clothingandfootwear,urban,20.23,14.98,61.89,88.29,
+sector,809,NIC,Nicaragua,Housing,urban,32.41,21.31,116.75,224.45,
+sector,810,NIC,Nicaragua,Energy,urban,35.03,29.39,79.07,116.87,
+sector,811,NIC,Nicaragua,Transport,urban,75.62,42.36,266.4,1441.35,
+sector,812,NIC,Nicaragua,Water,urban,10.08,8.28,23.58,42.83,
+sector,813,NIC,Nicaragua,Educationsector,urban,24.13,16.3,83.4,162.96,
+sector,814,NIC,Nicaragua,Health,urban,39.64,30.08,112.51,201.87,
+sector,815,NIC,Nicaragua,ICT,urban,42.27,29.03,141.52,289.21,
+sector,816,NIC,Nicaragua,Financialservices,urban,0.95,0.23,6.03,18.6,
+sector,817,NIC,Nicaragua,Othergoodsandservices,urban,55.96,37.1,193.15,459.17,
+sector,818,NIC,Nicaragua,Appliances.,urban,27.96,23.66,60.97,97.91,
+sector,819,NER,Niger,Alsectors,urban,1116.15,661.3,1956.78,4829.78,12131.53
+sector,820,NER,Niger,Foodandbeverages,urban,434.16,332.67,646.74,1058.37,1784.31
+sector,821,NER,Niger,Clothingandfootwear,urban,93.76,53.29,175.69,382.91,331.99
+sector,822,NER,Niger,Housing,urban,117.08,67.33,213.29,479.73,1357.3
+sector,823,NER,Niger,Energy,urban,69.75,41.41,122.48,293.89,849.98
+sector,824,NER,Niger,Transport,urban,142.29,41.49,281.43,1322.08,5389.27
+sector,825,NER,Niger,Water,urban,27.41,18.42,43.62,106.05,215.09
+sector,826,NER,Niger,Educationsector,urban,22.01,6.34,58.22,93.43,9.87
+sector,827,NER,Niger,Health,urban,27.63,15.49,51.75,120.68,56.55
+sector,828,NER,Niger,ICT,urban,46.2,14.64,106.79,283.8,757.27
+sector,829,NER,Niger,Financialservices,urban,2.27,0.55,5.1,19.02,60.52
+sector,830,NER,Niger,Othergoodsandservices,urban,116.72,59.91,220.44,602.58,1253.95
+sector,831,NER,Niger,Appliances.,urban,16.87,9.77,31.24,67.22,65.43
+sector,832,NGA,Nigeria,Alsectors,urban,758.01,563.3,1754.18,4267.94,10809.03
+sector,833,NGA,Nigeria,Foodandbeverages,urban,413.01,332.16,839.37,1527.69,1637.78
+sector,834,NGA,Nigeria,Clothingandfootwear,urban,31.17,19.33,91.04,264.96,205.25
+sector,835,NGA,Nigeria,Housing,urban,104.27,78.42,232.82,670.95,2553.14
+sector,836,NGA,Nigeria,Energy,urban,19.51,15.63,39.38,89.18,116.27
+sector,837,NGA,Nigeria,Transport,urban,45.09,26.16,138.91,466.76,4169.5
+sector,838,NGA,Nigeria,Water,urban,3.32,2.33,8.24,25.54,0.0
+sector,839,NGA,Nigeria,Educationsector,urban,19.45,14.36,46.77,77.15,0.0
+sector,840,NGA,Nigeria,Health,urban,72.34,41.2,227.9,735.23,0.0
+sector,841,NGA,Nigeria,ICT,urban,13.96,9.3,36.24,139.84,499.9
+sector,842,NGA,Nigeria,Financialservices,urban,1.26,0.78,3.59,12.72,0.0
+sector,843,NGA,Nigeria,Othergoodsandservices,urban,34.32,23.43,89.09,255.59,1627.19
+sector,844,NGA,Nigeria,Appliances.,urban,0.31,0.21,0.81,2.31,0.0
+sector,845,PAK,Pakistan,Alsectors,urban,1273.17,824.67,1756.93,4704.2,15810.92
+sector,846,PAK,Pakistan,Foodandbeverages,urban,544.91,415.79,710.6,1267.38,2017.09
+sector,847,PAK,Pakistan,Clothingandfootwear,urban,63.87,45.57,84.7,195.74,182.4
+sector,848,PAK,Pakistan,Housing,urban,261.7,133.27,388.35,1339.09,8880.04
+sector,849,PAK,Pakistan,Energy,urban,90.28,62.49,122.79,279.73,420.56
+sector,850,PAK,Pakistan,Transport,urban,99.08,47.68,148.83,556.01,1477.36
+sector,851,PAK,Pakistan,Water,urban,0.37,0.23,0.49,1.75,13.78
+sector,852,PAK,Pakistan,Educationsector,urban,37.97,14.54,64.11,213.67,9.71
+sector,853,PAK,Pakistan,Health,urban,24.7,18.88,31.31,66.96,38.38
+sector,854,PAK,Pakistan,ICT,urban,23.98,12.23,35.49,127.17,334.51
+sector,855,PAK,Pakistan,Financialservices,urban,1.02,0.63,1.32,5.19,29.49
+sector,856,PAK,Pakistan,Othergoodsandservices,urban,102.86,57.94,138.27,581.98,2310.79
+sector,857,PAK,Pakistan,Appliances.,urban,22.42,15.41,30.68,69.53,96.83
+sector,858,PNG,Papua New Guinea,Alsectors,urban,5484.21,651.53,2345.61,5780.11,12562.4
+sector,859,PNG,Papua New Guinea,Foodandbeverages,urban,3110.36,137.09,1316.7,3439.89,6657.25
+sector,860,PNG,Papua New Guinea,Clothingandfootwear,urban,145.37,61.28,90.37,156.03,249.16
+sector,861,PNG,Papua New Guinea,Housing,urban,603.18,149.17,258.1,568.7,1594.01
+sector,862,PNG,Papua New Guinea,Energy,urban,0.0,0.0,0.0,0.0,0.0
+sector,863,PNG,Papua New Guinea,Transport,urban,186.31,35.44,60.34,165.51,571.9
+sector,864,PNG,Papua New Guinea,Water,urban,0.0,0.0,0.0,0.0,0.0
+sector,865,PNG,Papua New Guinea,Educationsector,urban,256.27,59.51,111.63,270.39,570.01
+sector,866,PNG,Papua New Guinea,Health,urban,256.1,30.41,86.44,199.56,888.63
+sector,867,PNG,Papua New Guinea,ICT,urban,81.79,32.34,41.97,86.22,164.24
+sector,868,PNG,Papua New Guinea,Financialservices,urban,19.0,2.61,5.06,17.6,58.21
+sector,869,PNG,Papua New Guinea,Othergoodsandservices,urban,777.89,122.97,345.01,827.26,1718.14
+sector,870,PNG,Papua New Guinea,Appliances.,urban,47.95,20.71,30.0,48.94,90.86
+sector,871,PRY,Paraguay,Alsectors,urban,4983.52,924.14,2424.01,5284.22,13224.52
+sector,872,PRY,Paraguay,Foodandbeverages,urban,1956.16,459.96,1168.61,2235.85,3768.71
+sector,873,PRY,Paraguay,Clothingandfootwear,urban,194.81,34.64,84.65,205.26,554.92
+sector,874,PRY,Paraguay,Housing,urban,794.08,229.61,450.66,850.36,1837.81
+sector,875,PRY,Paraguay,Energy,urban,222.03,52.77,132.73,243.86,470.54
+sector,876,PRY,Paraguay,Transport,urban,499.05,21.92,139.29,434.82,2086.57
+sector,877,PRY,Paraguay,Water,urban,51.92,4.32,26.52,59.64,115.83
+sector,878,PRY,Paraguay,Educationsector,urban,27.48,2.3,11.39,32.2,66.81
+sector,879,PRY,Paraguay,Health,urban,362.4,50.64,153.36,377.93,1067.4
+sector,880,PRY,Paraguay,ICT,urban,205.05,0.52,43.53,181.02,893.22
+sector,881,PRY,Paraguay,Financialservices,urban,65.7,0.05,6.95,63.3,285.09
+sector,882,PRY,Paraguay,Othergoodsandservices,urban,503.67,43.48,150.47,484.58,1867.47
+sector,883,PRY,Paraguay,Appliances.,urban,101.16,23.95,55.86,115.4,210.16
+sector,884,PER,Peru,Alsectors,urban,3488.68,929.8,2264.35,5060.01,14119.41
+sector,885,PER,Peru,Foodandbeverages,urban,1058.31,416.2,882.24,1432.3,1976.22
+sector,886,PER,Peru,Clothingandfootwear,urban,165.89,50.34,118.73,244.85,465.04
+sector,887,PER,Peru,Housing,urban,688.76,159.82,426.93,1056.62,2676.14
+sector,888,PER,Peru,Energy,urban,128.0,47.78,103.3,170.18,317.56
+sector,889,PER,Peru,Transport,urban,410.07,30.15,90.12,571.33,4563.83
+sector,890,PER,Peru,Water,urban,41.72,17.23,31.53,56.35,124.4
+sector,891,PER,Peru,Educationsector,urban,76.96,25.29,55.27,114.57,201.52
+sector,892,PER,Peru,Health,urban,212.37,67.34,159.12,307.93,528.96
+sector,893,PER,Peru,ICT,urban,294.58,35.37,172.81,482.01,1117.23
+sector,894,PER,Peru,Financialservices,urban,2.25,0.02,0.66,3.79,17.81
+sector,895,PER,Peru,Othergoodsandservices,urban,308.46,52.44,153.49,469.62,1813.85
+sector,896,PER,Peru,Appliances.,urban,101.31,27.81,70.15,150.47,316.85
+sector,897,PHL,Philippines,Alsectors,urban,1702.55,779.13,1976.95,4665.74,11951.81
+sector,898,PHL,Philippines,Foodandbeverages,urban,736.61,449.67,872.26,1412.0,1730.35
+sector,899,PHL,Philippines,Clothingandfootwear,urban,41.82,16.9,49.43,122.79,168.49
+sector,900,PHL,Philippines,Housing,urban,281.41,94.45,317.07,973.38,3579.94
+sector,901,PHL,Philippines,Energy,urban,127.84,56.93,152.25,339.79,721.38
+sector,902,PHL,Philippines,Transport,urban,140.43,40.62,152.93,533.79,2758.86
+sector,903,PHL,Philippines,Water,urban,23.72,10.73,28.86,58.28,176.71
+sector,904,PHL,Philippines,Educationsector,urban,72.35,11.86,86.01,297.42,201.47
+sector,905,PHL,Philippines,Health,urban,28.71,11.54,35.64,75.37,105.76
+sector,906,PHL,Philippines,ICT,urban,52.84,11.71,60.13,212.2,480.33
+sector,907,PHL,Philippines,Financialservices,urban,36.84,7.43,46.1,129.71,267.02
+sector,908,PHL,Philippines,Othergoodsandservices,urban,107.82,38.8,113.56,400.78,1549.05
+sector,909,PHL,Philippines,Appliances.,urban,52.15,28.5,62.69,110.23,212.44
+sector,910,ROU,Romania,Alsectors,urban,4217.67,995.45,2557.88,5128.54,12699.92
+sector,911,ROU,Romania,Foodandbeverages,urban,1766.44,731.32,1291.48,2051.06,3811.94
+sector,912,ROU,Romania,Clothingandfootwear,urban,268.07,12.66,127.94,341.81,1033.66
+sector,913,ROU,Romania,Housing,urban,38.2,0.51,8.4,45.04,356.76
+sector,914,ROU,Romania,Energy,urban,467.62,70.31,299.74,587.57,847.3
+sector,915,ROU,Romania,Transport,urban,256.81,5.32,93.69,321.02,1525.6
+sector,916,ROU,Romania,Water,urban,0.0,0.0,0.0,0.0,0.0
+sector,917,ROU,Romania,Educationsector,urban,50.12,0.0,13.23,64.48,335.9
+sector,918,ROU,Romania,Health,urban,206.12,12.31,83.0,273.62,810.0
+sector,919,ROU,Romania,ICT,urban,272.17,21.1,150.77,334.02,991.01
+sector,920,ROU,Romania,Financialservices,urban,17.21,0.0,1.13,21.97,167.07
+sector,921,ROU,Romania,Othergoodsandservices,urban,743.53,125.23,419.55,919.01,2436.03
+sector,922,ROU,Romania,Appliances.,urban,131.37,16.7,68.95,168.94,384.65
+sector,923,RUS,Russian Federation,Alsectors,urban,7669.63,985.01,2548.1,5731.9,17545.12
+sector,924,RUS,Russian Federation,Foodandbeverages,urban,2583.46,565.92,1339.78,2429.83,4276.18
+sector,925,RUS,Russian Federation,Clothingandfootwear,urban,875.42,54.69,229.58,648.78,2079.87
+sector,926,RUS,Russian Federation,Housing,urban,653.57,107.12,253.87,518.67,1388.1
+sector,927,RUS,Russian Federation,Energy,urban,284.32,47.95,110.32,210.4,638.46
+sector,928,RUS,Russian Federation,Transport,urban,932.38,62.74,185.53,538.56,2621.21
+sector,929,RUS,Russian Federation,Water,urban,19.8,5.4,11.82,19.39,29.4
+sector,930,RUS,Russian Federation,Educationsector,urban,155.42,15.37,40.5,132.08,331.04
+sector,931,RUS,Russian Federation,Health,urban,277.67,9.8,36.52,149.14,825.68
+sector,932,RUS,Russian Federation,ICT,urban,437.32,45.87,124.73,311.48,1056.69
+sector,933,RUS,Russian Federation,Financialservices,urban,117.21,3.26,15.3,66.27,341.17
+sector,934,RUS,Russian Federation,Othergoodsandservices,urban,1230.95,61.68,184.63,659.31,3640.46
+sector,935,RUS,Russian Federation,Appliances.,urban,102.09,5.21,15.51,48.0,316.87
+sector,936,RWA,Rwanda,Alsectors,urban,1552.25,567.7,1976.87,5268.32,14195.69
+sector,937,RWA,Rwanda,Foodandbeverages,urban,573.19,303.85,783.82,1450.22,2519.91
+sector,938,RWA,Rwanda,Clothingandfootwear,urban,76.71,29.57,105.9,250.1,450.23
+sector,939,RWA,Rwanda,Housing,urban,247.83,74.06,328.72,875.76,2586.76
+sector,940,RWA,Rwanda,Energy,urban,82.98,42.77,115.36,213.1,352.23
+sector,941,RWA,Rwanda,Transport,urban,175.56,29.6,185.69,846.05,2455.85
+sector,942,RWA,Rwanda,Water,urban,5.07,0.48,7.57,21.74,54.1
+sector,943,RWA,Rwanda,Educationsector,urban,40.99,10.09,57.7,152.11,389.47
+sector,944,RWA,Rwanda,Health,urban,24.0,12.02,34.82,63.77,56.39
+sector,945,RWA,Rwanda,ICT,urban,74.42,8.88,91.74,353.45,926.64
+sector,946,RWA,Rwanda,Financialservices,urban,6.72,0.18,5.47,37.87,151.37
+sector,947,RWA,Rwanda,Othergoodsandservices,urban,199.78,38.17,198.83,865.32,3922.83
+sector,948,RWA,Rwanda,Appliances.,urban,45.0,18.02,61.26,138.83,329.92
+sector,949,STP,Sao Tome and Principe,Alsectors,urban,4344.86,964.48,2386.39,5307.84,12623.58
+sector,950,STP,Sao Tome and Principe,Foodandbeverages,urban,2847.28,751.89,1730.39,3511.83,6937.64
+sector,951,STP,Sao Tome and Principe,Clothingandfootwear,urban,216.12,35.86,101.54,293.63,550.94
+sector,952,STP,Sao Tome and Principe,Housing,urban,41.43,1.92,25.53,45.42,141.99
+sector,953,STP,Sao Tome and Principe,Energy,urban,400.69,59.2,196.75,501.24,1253.6
+sector,954,STP,Sao Tome and Principe,Transport,urban,261.94,18.23,69.11,280.32,1510.3
+sector,955,STP,Sao Tome and Principe,Water,urban,36.22,0.65,13.67,43.56,153.57
+sector,956,STP,Sao Tome and Principe,Educationsector,urban,32.01,6.81,17.22,44.52,60.29
+sector,957,STP,Sao Tome and Principe,Health,urban,190.32,28.07,91.3,224.25,698.51
+sector,958,STP,Sao Tome and Principe,ICT,urban,0.0,0.0,0.0,0.0,0.0
+sector,959,STP,Sao Tome and Principe,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,960,STP,Sao Tome and Principe,Othergoodsandservices,urban,258.25,41.38,99.31,291.43,1181.47
+sector,961,STP,Sao Tome and Principe,Appliances.,urban,60.61,20.47,41.56,71.66,135.27
+sector,962,SEN,Senegal,Alsectors,urban,1367.06,797.91,1823.69,4501.39,
+sector,963,SEN,Senegal,Foodandbeverages,urban,619.99,427.48,797.33,1432.13,
+sector,964,SEN,Senegal,Clothingandfootwear,urban,84.97,46.34,117.3,283.33,
+sector,965,SEN,Senegal,Housing,urban,260.91,126.05,359.94,1102.96,
+sector,966,SEN,Senegal,Energy,urban,87.79,49.7,117.7,304.62,
+sector,967,SEN,Senegal,Transport,urban,67.7,27.85,93.18,357.54,
+sector,968,SEN,Senegal,Water,urban,25.02,13.46,33.55,96.72,
+sector,969,SEN,Senegal,Educationsector,urban,1.66,0.81,2.48,4.74,
+sector,970,SEN,Senegal,Health,urban,37.26,20.4,52.66,109.71,
+sector,971,SEN,Senegal,ICT,urban,33.12,14.7,47.2,142.17,
+sector,972,SEN,Senegal,Financialservices,urban,0.0,0.0,0.0,0.0,
+sector,973,SEN,Senegal,Othergoodsandservices,urban,105.95,49.45,142.87,508.12,
+sector,974,SEN,Senegal,Appliances.,urban,42.69,21.67,59.48,159.33,
+sector,975,SRB,Serbia,Alsectors,urban,5748.73,869.55,2642.01,5652.21,12836.01
+sector,976,SRB,Serbia,Foodandbeverages,urban,2373.52,535.6,1360.26,2475.88,3979.55
+sector,977,SRB,Serbia,Clothingandfootwear,urban,367.0,60.8,100.96,345.94,1037.46
+sector,978,SRB,Serbia,Housing,urban,91.63,0.0,19.55,82.52,291.83
+sector,979,SRB,Serbia,Energy,urban,287.35,55.14,204.45,303.66,379.88
+sector,980,SRB,Serbia,Transport,urban,550.39,0.42,133.06,446.07,1986.81
+sector,981,SRB,Serbia,Water,urban,134.44,9.74,66.13,138.68,256.99
+sector,982,SRB,Serbia,Educationsector,urban,183.0,2.22,45.92,175.52,511.41
+sector,983,SRB,Serbia,Health,urban,263.61,15.01,111.54,257.87,616.41
+sector,984,SRB,Serbia,ICT,urban,252.46,21.1,106.67,254.5,549.96
+sector,985,SRB,Serbia,Financialservices,urban,51.7,0.0,7.41,48.04,164.22
+sector,986,SRB,Serbia,Othergoodsandservices,urban,973.97,126.62,370.89,898.77,2647.61
+sector,987,SRB,Serbia,Appliances.,urban,219.65,42.91,115.18,224.75,413.89
+sector,988,SLE,Sierra Leone,Alsectors,urban,1831.8,823.16,2076.1,4547.49,14000.49
+sector,989,SLE,Sierra Leone,Foodandbeverages,urban,808.75,432.84,947.19,1714.65,2230.71
+sector,990,SLE,Sierra Leone,Clothingandfootwear,urban,191.38,95.69,224.5,431.42,607.1
+sector,991,SLE,Sierra Leone,Housing,urban,116.66,61.96,125.57,279.36,959.9
+sector,992,SLE,Sierra Leone,Energy,urban,107.69,42.78,129.12,272.35,469.11
+sector,993,SLE,Sierra Leone,Transport,urban,131.51,20.32,100.5,445.81,7345.98
+sector,994,SLE,Sierra Leone,Water,urban,7.44,1.74,6.73,31.28,145.77
+sector,995,SLE,Sierra Leone,Educationsector,urban,63.92,21.05,81.15,165.16,110.65
+sector,996,SLE,Sierra Leone,Health,urban,168.3,62.67,203.35,445.35,571.39
+sector,997,SLE,Sierra Leone,ICT,urban,22.77,2.66,19.36,127.84,227.03
+sector,998,SLE,Sierra Leone,Financialservices,urban,1.3,0.23,0.86,8.46,11.41
+sector,999,SLE,Sierra Leone,Othergoodsandservices,urban,177.86,69.16,195.82,533.59,1242.36
+sector,1000,SLE,Sierra Leone,Appliances.,urban,34.21,12.05,41.96,92.22,79.1
+sector,1001,ZAF,South Africa,Alsectors,urban,5467.14,770.27,2092.48,5706.07,19368.98
+sector,1002,ZAF,South Africa,Foodandbeverages,urban,710.02,266.94,571.97,882.84,1453.1
+sector,1003,ZAF,South Africa,Clothingandfootwear,urban,223.79,78.05,169.72,297.64,464.22
+sector,1004,ZAF,South Africa,Housing,urban,1446.29,133.4,422.06,1507.13,5507.9
+sector,1005,ZAF,South Africa,Energy,urban,195.82,52.09,100.31,220.35,582.89
+sector,1006,ZAF,South Africa,Transport,urban,974.09,63.8,283.22,826.32,3995.48
+sector,1007,ZAF,South Africa,Water,urban,74.2,10.03,30.02,84.7,250.76
+sector,1008,ZAF,South Africa,Educationsector,urban,169.9,11.71,46.42,212.86,613.4
+sector,1009,ZAF,South Africa,Health,urban,59.08,12.28,27.13,62.54,192.75
+sector,1010,ZAF,South Africa,ICT,urban,212.66,30.8,89.08,244.81,706.67
+sector,1011,ZAF,South Africa,Financialservices,urban,811.33,31.48,131.56,793.87,3441.33
+sector,1012,ZAF,South Africa,Othergoodsandservices,urban,527.76,62.29,174.21,494.58,2018.55
+sector,1013,ZAF,South Africa,Appliances.,urban,62.2,17.39,46.8,78.42,141.94
+sector,1014,LKA,Sri Lanka,Alsectors,urban,2395.15,926.45,2060.83,5024.85,12816.55
+sector,1015,LKA,Sri Lanka,Foodandbeverages,urban,903.84,558.13,901.39,1355.61,1530.52
+sector,1016,LKA,Sri Lanka,Clothingandfootwear,urban,63.28,24.47,59.82,122.5,189.82
+sector,1017,LKA,Sri Lanka,Housing,urban,748.5,159.18,564.94,2013.9,4764.28
+sector,1018,LKA,Sri Lanka,Energy,urban,117.82,54.52,109.63,223.1,343.76
+sector,1019,LKA,Sri Lanka,Transport,urban,169.75,25.73,111.9,383.02,3111.61
+sector,1020,LKA,Sri Lanka,Water,urban,16.92,7.13,15.74,32.75,52.53
+sector,1021,LKA,Sri Lanka,Educationsector,urban,72.51,15.0,58.92,195.29,244.83
+sector,1022,LKA,Sri Lanka,Health,urban,69.55,11.67,48.6,140.67,1323.46
+sector,1023,LKA,Sri Lanka,ICT,urban,77.71,13.17,61.56,202.35,492.97
+sector,1024,LKA,Sri Lanka,Financialservices,urban,11.12,0.67,6.38,37.17,113.15
+sector,1025,LKA,Sri Lanka,Othergoodsandservices,urban,119.77,43.31,99.34,275.44,573.97
+sector,1026,LKA,Sri Lanka,Appliances.,urban,24.38,13.47,22.6,43.05,75.66
+sector,1027,SWZ,Swaziland,Alsectors,urban,1919.49,698.51,1998.77,5030.59,14345.37
+sector,1028,SWZ,Swaziland,Foodandbeverages,urban,405.01,211.43,489.99,783.67,1335.01
+sector,1029,SWZ,Swaziland,Clothingandfootwear,urban,85.74,26.18,91.8,291.59,275.1
+sector,1030,SWZ,Swaziland,Housing,urban,512.22,204.22,528.92,1328.72,3517.05
+sector,1031,SWZ,Swaziland,Energy,urban,120.52,41.32,137.05,321.75,646.19
+sector,1032,SWZ,Swaziland,Transport,urban,241.98,65.7,205.2,592.57,3899.31
+sector,1033,SWZ,Swaziland,Water,urban,41.85,15.56,42.5,128.78,202.22
+sector,1034,SWZ,Swaziland,Educationsector,urban,110.65,47.9,115.88,332.54,305.9
+sector,1035,SWZ,Swaziland,Health,urban,80.26,22.15,73.79,259.83,716.43
+sector,1036,SWZ,Swaziland,ICT,urban,94.85,20.38,92.55,316.95,814.3
+sector,1037,SWZ,Swaziland,Financialservices,urban,53.87,0.86,29.37,254.16,854.25
+sector,1038,SWZ,Swaziland,Othergoodsandservices,urban,153.41,36.9,170.38,361.83,1696.32
+sector,1039,SWZ,Swaziland,Appliances.,urban,19.13,5.92,21.34,58.19,83.3
+sector,1040,TJK,Tajikistan,Alsectors,urban,2592.01,884.2,2188.9,4779.92,11401.92
+sector,1041,TJK,Tajikistan,Foodandbeverages,urban,1630.99,598.9,1407.09,2949.96,5353.54
+sector,1042,TJK,Tajikistan,Clothingandfootwear,urban,44.32,26.82,41.32,65.79,64.48
+sector,1043,TJK,Tajikistan,Housing,urban,48.2,7.87,34.73,79.95,1177.9
+sector,1044,TJK,Tajikistan,Energy,urban,256.27,75.59,258.76,380.15,445.91
+sector,1045,TJK,Tajikistan,Transport,urban,202.51,35.75,115.96,500.05,2673.88
+sector,1046,TJK,Tajikistan,Water,urban,12.17,6.42,12.9,13.72,32.2
+sector,1047,TJK,Tajikistan,Educationsector,urban,49.03,15.19,42.59,92.73,80.62
+sector,1048,TJK,Tajikistan,Health,urban,102.73,38.05,78.64,218.91,223.34
+sector,1049,TJK,Tajikistan,ICT,urban,67.89,20.32,52.79,134.69,475.46
+sector,1050,TJK,Tajikistan,Financialservices,urban,2.04,0.43,1.94,3.53,3.26
+sector,1051,TJK,Tajikistan,Othergoodsandservices,urban,130.97,43.51,107.29,246.59,738.76
+sector,1052,TJK,Tajikistan,Appliances.,urban,44.88,15.35,34.89,93.85,132.56
+sector,1053,TZA,Tanzania,Alsectors,urban,783.23,577.49,1741.03,4526.06,10482.11
+sector,1054,TZA,Tanzania,Foodandbeverages,urban,446.44,377.06,819.74,1050.7,1075.32
+sector,1055,TZA,Tanzania,Clothingandfootwear,urban,51.25,38.55,115.4,223.18,168.57
+sector,1056,TZA,Tanzania,Housing,urban,25.0,13.87,75.93,255.02,59.36
+sector,1057,TZA,Tanzania,Energy,urban,5.27,3.4,14.26,36.14,63.37
+sector,1058,TZA,Tanzania,Transport,urban,61.73,29.34,169.78,1079.82,8147.26
+sector,1059,TZA,Tanzania,Water,urban,2.65,1.71,6.72,24.31,35.0
+sector,1060,TZA,Tanzania,Educationsector,urban,29.96,12.38,96.88,591.74,108.44
+sector,1061,TZA,Tanzania,Health,urban,11.42,9.27,22.91,31.77,23.9
+sector,1062,TZA,Tanzania,ICT,urban,10.93,6.06,33.01,112.86,98.54
+sector,1063,TZA,Tanzania,Financialservices,urban,0.6,0.37,1.29,9.14,37.0
+sector,1064,TZA,Tanzania,Othergoodsandservices,urban,120.23,72.01,345.24,1042.93,650.96
+sector,1065,TZA,Tanzania,Appliances.,urban,17.74,13.48,39.86,68.46,14.39
+sector,1066,THA,Thailand,Alsectors,urban,4522.56,1011.23,2387.69,5383.51,13186.21
+sector,1067,THA,Thailand,Foodandbeverages,urban,1562.84,539.69,1068.0,1867.74,2909.6
+sector,1068,THA,Thailand,Clothingandfootwear,urban,122.38,14.23,53.47,146.55,425.51
+sector,1069,THA,Thailand,Housing,urban,1482.55,232.16,630.11,1735.5,5522.37
+sector,1070,THA,Thailand,Energy,urban,180.78,48.75,101.61,213.42,497.69
+sector,1071,THA,Thailand,Transport,urban,523.35,62.04,215.13,635.6,1842.06
+sector,1072,THA,Thailand,Water,urban,45.74,13.19,30.62,54.9,88.39
+sector,1073,THA,Thailand,Educationsector,urban,8.93,0.58,3.79,12.25,21.04
+sector,1074,THA,Thailand,Health,urban,64.17,6.83,23.55,76.52,253.85
+sector,1075,THA,Thailand,ICT,urban,176.85,23.97,85.98,223.72,475.38
+sector,1076,THA,Thailand,Financialservices,urban,15.58,2.12,6.82,20.24,42.96
+sector,1077,THA,Thailand,Othergoodsandservices,urban,224.68,37.87,103.11,258.08,822.44
+sector,1078,THA,Thailand,Appliances.,urban,114.71,29.81,65.49,138.98,284.92
+sector,1079,TLS,Timor-Leste,Alsectors,urban,1451.26,738.39,1940.7,4569.7,12258.18
+sector,1080,TLS,Timor-Leste,Foodandbeverages,urban,617.89,413.46,784.57,1342.98,2371.5
+sector,1081,TLS,Timor-Leste,Clothingandfootwear,urban,74.87,36.86,108.1,197.58,194.85
+sector,1082,TLS,Timor-Leste,Housing,urban,340.2,113.29,477.66,1460.37,4305.44
+sector,1083,TLS,Timor-Leste,Energy,urban,62.48,28.03,86.96,215.94,200.78
+sector,1084,TLS,Timor-Leste,Transport,urban,144.48,42.81,204.0,608.96,4173.98
+sector,1085,TLS,Timor-Leste,Water,urban,0.54,0.63,0.12,2.86,0.0
+sector,1086,TLS,Timor-Leste,Educationsector,urban,54.54,14.46,88.67,194.82,12.31
+sector,1087,TLS,Timor-Leste,Health,urban,0.46,0.14,0.94,0.0,0.0
+sector,1088,TLS,Timor-Leste,ICT,urban,83.54,43.02,110.37,267.39,732.64
+sector,1089,TLS,Timor-Leste,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,1090,TLS,Timor-Leste,Othergoodsandservices,urban,72.25,45.69,79.31,278.79,266.69
+sector,1091,TLS,Timor-Leste,Appliances.,urban,0.0,0.0,0.0,0.0,0.0
+sector,1092,TGO,Togo,Alsectors,urban,1003.96,673.31,1750.44,4494.93,
+sector,1093,TGO,Togo,Foodandbeverages,urban,481.54,334.89,805.38,2127.89,
+sector,1094,TGO,Togo,Clothingandfootwear,urban,55.25,38.56,97.09,174.68,
+sector,1095,TGO,Togo,Housing,urban,104.74,69.75,182.91,485.39,
+sector,1096,TGO,Togo,Energy,urban,60.19,42.86,99.18,245.09,
+sector,1097,TGO,Togo,Transport,urban,80.78,43.39,166.39,459.61,
+sector,1098,TGO,Togo,Water,urban,15.55,10.77,26.28,67.24,
+sector,1099,TGO,Togo,Educationsector,urban,22.41,18.46,33.85,30.04,
+sector,1100,TGO,Togo,Health,urban,42.09,29.28,72.92,151.47,
+sector,1101,TGO,Togo,ICT,urban,36.49,18.72,75.29,242.04,
+sector,1102,TGO,Togo,Financialservices,urban,1.34,0.32,4.29,3.08,
+sector,1103,TGO,Togo,Othergoodsandservices,urban,82.46,51.85,150.6,418.76,
+sector,1104,TGO,Togo,Appliances.,urban,21.11,14.46,36.26,89.66,
+sector,1105,TUR,Turkey,Alsectors,urban,7381.74,13746.29,9558.32,6564.49,4827.45
+sector,1106,TUR,Turkey,Foodandbeverages,urban,2798.94,6499.31,4035.2,2343.31,1296.77
+sector,1107,TUR,Turkey,Clothingandfootwear,urban,416.9,797.78,490.19,384.35,324.31
+sector,1108,TUR,Turkey,Housing,urban,1071.43,2403.2,1438.55,930.86,608.58
+sector,1109,TUR,Turkey,Energy,urban,573.77,945.88,823.95,499.85,254.74
+sector,1110,TUR,Turkey,Transport,urban,924.02,864.99,828.21,912.67,1203.05
+sector,1111,TUR,Turkey,Water,urban,62.47,49.53,73.27,62.71,38.79
+sector,1112,TUR,Turkey,Educationsector,urban,64.35,128.34,73.23,63.58,36.45
+sector,1113,TUR,Turkey,Health,urban,157.6,221.03,189.75,148.42,112.59
+sector,1114,TUR,Turkey,ICT,urban,374.24,453.31,467.63,358.2,215.55
+sector,1115,TUR,Turkey,Financialservices,urban,5.88,0.0,2.54,5.3,17.03
+sector,1116,TUR,Turkey,Othergoodsandservices,urban,844.08,1149.49,1011.27,782.6,673.39
+sector,1117,TUR,Turkey,Appliances.,urban,88.07,233.44,124.52,72.64,46.19
+sector,1118,UGA,Uganda,Alsectors,urban,1788.05,750.19,2008.92,5177.75,12964.58
+sector,1119,UGA,Uganda,Foodandbeverages,urban,642.94,344.13,790.39,1381.29,2361.77
+sector,1120,UGA,Uganda,Clothingandfootwear,urban,65.68,28.33,75.13,195.26,247.19
+sector,1121,UGA,Uganda,Housing,urban,247.91,81.62,258.41,873.35,2290.3
+sector,1122,UGA,Uganda,Energy,urban,84.41,51.2,94.77,188.65,300.66
+sector,1123,UGA,Uganda,Transport,urban,196.58,30.31,183.83,746.16,4971.31
+sector,1124,UGA,Uganda,Water,urban,36.0,24.34,41.72,62.67,140.31
+sector,1125,UGA,Uganda,Educationsector,urban,166.44,70.25,166.28,611.39,388.11
+sector,1126,UGA,Uganda,Health,urban,79.01,34.74,98.7,211.88,87.16
+sector,1127,UGA,Uganda,ICT,urban,105.17,26.36,113.86,401.9,829.55
+sector,1128,UGA,Uganda,Financialservices,urban,1.18,0.14,1.95,2.58,10.69
+sector,1129,UGA,Uganda,Othergoodsandservices,urban,148.14,51.24,166.34,469.37,1270.16
+sector,1130,UGA,Uganda,Appliances.,urban,14.58,7.54,17.54,33.26,67.36
+sector,1131,UKR,Ukraine,Alsectors,urban,4280.36,1001.45,2622.02,5088.06,11478.26
+sector,1132,UKR,Ukraine,Foodandbeverages,urban,2675.25,714.45,1713.28,3184.83,6018.8
+sector,1133,UKR,Ukraine,Clothingandfootwear,urban,299.61,53.91,185.66,355.34,791.45
+sector,1134,UKR,Ukraine,Housing,urban,191.82,27.97,73.05,238.52,927.3
+sector,1135,UKR,Ukraine,Energy,urban,277.09,110.5,214.09,314.69,413.65
+sector,1136,UKR,Ukraine,Transport,urban,203.39,4.5,85.6,231.73,1303.76
+sector,1137,UKR,Ukraine,Water,urban,20.29,18.45,15.77,22.89,30.91
+sector,1138,UKR,Ukraine,Educationsector,urban,13.91,0.28,13.76,14.43,6.79
+sector,1139,UKR,Ukraine,Health,urban,133.05,13.13,71.46,159.65,469.57
+sector,1140,UKR,Ukraine,ICT,urban,27.59,0.0,9.52,37.29,86.86
+sector,1141,UKR,Ukraine,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,1142,UKR,Ukraine,Othergoodsandservices,urban,437.7,58.25,239.48,527.81,1428.01
+sector,1143,UKR,Ukraine,Appliances.,urban,0.67,0.0,0.35,0.87,1.17
+sector,1144,VNM,Vietnam,Alsectors,urban,1767.3,897.35,1947.87,4566.26,11977.08
+sector,1145,VNM,Vietnam,Foodandbeverages,urban,872.34,532.04,992.57,1603.25,1889.11
+sector,1146,VNM,Vietnam,Clothingandfootwear,urban,74.87,36.07,83.26,202.22,276.72
+sector,1147,VNM,Vietnam,Housing,urban,94.92,12.46,67.89,620.69,6713.93
+sector,1148,VNM,Vietnam,Energy,urban,110.8,60.89,124.07,255.16,281.26
+sector,1149,VNM,Vietnam,Transport,urban,147.79,52.28,167.55,468.75,649.37
+sector,1150,VNM,Vietnam,Water,urban,15.15,7.26,17.89,31.94,64.6
+sector,1151,VNM,Vietnam,Educationsector,urban,88.01,38.09,103.96,211.94,132.82
+sector,1152,VNM,Vietnam,Health,urban,48.7,32.81,53.14,92.73,104.74
+sector,1153,VNM,Vietnam,ICT,urban,80.95,22.2,95.4,248.95,848.41
+sector,1154,VNM,Vietnam,Financialservices,urban,13.56,5.15,14.77,47.48,3.46
+sector,1155,VNM,Vietnam,Othergoodsandservices,urban,186.1,81.18,189.36,694.34,885.95
+sector,1156,VNM,Vietnam,Appliances.,urban,34.11,16.91,38.02,88.83,126.7
+sector,1157,YEM,Yemen,Alsectors,urban,2348.17,935.22,2040.89,4790.36,13810.37
+sector,1158,YEM,Yemen,Foodandbeverages,urban,932.11,471.29,891.87,1633.53,2114.03
+sector,1159,YEM,Yemen,Clothingandfootwear,urban,125.16,44.87,108.99,268.38,603.77
+sector,1160,YEM,Yemen,Housing,urban,340.63,127.18,298.97,715.55,1624.88
+sector,1161,YEM,Yemen,Energy,urban,74.71,43.56,72.35,119.18,181.85
+sector,1162,YEM,Yemen,Transport,urban,153.06,19.14,81.76,401.47,3938.42
+sector,1163,YEM,Yemen,Water,urban,36.99,19.7,34.54,65.22,113.61
+sector,1164,YEM,Yemen,Educationsector,urban,80.8,27.54,70.76,179.2,288.81
+sector,1165,YEM,Yemen,Health,urban,135.65,42.88,98.32,275.44,2481.8
+sector,1166,YEM,Yemen,ICT,urban,50.33,11.02,40.36,128.08,293.84
+sector,1167,YEM,Yemen,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,1168,YEM,Yemen,Othergoodsandservices,urban,373.89,108.66,302.6,914.23,2016.88
+sector,1169,YEM,Yemen,Appliances.,urban,44.83,19.37,40.37,90.09,152.47
+sector,1170,ZMB,Zambia,Alsectors,urban,932.62,541.48,1892.07,4679.65,11696.45
+sector,1171,ZMB,Zambia,Foodandbeverages,urban,395.08,275.36,740.31,1280.84,1750.88
+sector,1172,ZMB,Zambia,Clothingandfootwear,urban,28.47,16.67,60.14,129.95,119.0
+sector,1173,ZMB,Zambia,Housing,urban,206.99,108.87,435.26,1194.98,4229.19
+sector,1174,ZMB,Zambia,Energy,urban,39.93,27.42,74.8,138.24,247.03
+sector,1175,ZMB,Zambia,Transport,urban,78.18,23.75,176.95,779.22,2667.03
+sector,1176,ZMB,Zambia,Water,urban,13.35,7.18,27.65,76.55,223.51
+sector,1177,ZMB,Zambia,Educationsector,urban,35.83,17.53,86.17,188.04,66.19
+sector,1178,ZMB,Zambia,Health,urban,2.39,1.37,4.97,11.86,26.33
+sector,1179,ZMB,Zambia,ICT,urban,37.83,18.87,85.41,215.96,408.5
+sector,1180,ZMB,Zambia,Financialservices,urban,0.0,0.0,0.0,0.0,0.0
+sector,1181,ZMB,Zambia,Othergoodsandservices,urban,79.38,35.0,169.58,601.76,1842.42
+sector,1182,ZMB,Zambia,Appliances.,urban,15.19,9.46,30.82,62.23,116.37
